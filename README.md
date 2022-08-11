@@ -2,6 +2,8 @@
 
 
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucacome&show_icons=true&theme=buefy)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucacome.visitor-badge)
 <!--
 **lucacome/lucacome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
