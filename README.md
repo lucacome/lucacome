@@ -16,15 +16,13 @@
 #### 🌱 My latest projects
 
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release
-- [lucacome/write-github-script](https://github.com/lucacome/write-github-script) - 
-- [lucacome/issue-test](https://github.com/lucacome/issue-test) - 
-- [lucacome/homebrew-nginx](https://github.com/lucacome/homebrew-nginx) - 
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action
 - [lucacome/dotfiles](https://github.com/lucacome/dotfiles) - 
 - [lucacome/vendingMachine](https://github.com/lucacome/vendingMachine) - 
 - [lucacome/chef_pumpkin](https://github.com/lucacome/chef_pumpkin) - 
 - [lucacome/SottoTestoGWT](https://github.com/lucacome/SottoTestoGWT) - 
+- [lucacome/SottoTesto](https://github.com/lucacome/SottoTesto) - 
 
 #### 🔭 Latest releases I've contributed to
 
