@@ -4,9 +4,9 @@
 
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
 - [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (2 days ago)
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (3 days ago)
-- [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos (3 days ago)
 - [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) - Alpine Linux with FIPS OpenSSL module (3 days ago)
+- [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos (3 days ago)
+- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add nginx repository](https://github.com/nix-community/NUR/pull/660) on [nix-community/NUR](https://github.com/nix-community/NUR) (today)
 - [Add annotations for Artifact Hub](https://github.com/nginxinc/nginx-gateway-fabric/pull/1554) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
 - [Bump Go to 1.22](https://github.com/nginxinc/nginx-gateway-fabric/pull/1553) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
 - [Add yamllint](https://github.com/nginxinc/nginx-asg-sync/pull/521) on [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) (2 days ago)
 - [Enable more linters](https://github.com/nginxinc/nginx-asg-sync/pull/520) on [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) (2 days ago)
-- [Add yamllint](https://github.com/nginxinc/nginx-plus-go-client/pull/223) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (2 days ago)
 
 #### ⭐ Recent Stars
 
