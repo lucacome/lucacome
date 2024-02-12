@@ -4,9 +4,9 @@
 
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (3 days ago)
 - [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (4 days ago)
-- [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) - Alpine Linux with FIPS OpenSSL module (5 days ago)
 - [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (5 days ago)
 - [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos (5 days ago)
+- [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) - Alpine Linux with FIPS OpenSSL module (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.3](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.3), today) - Publish Docker images to AWS Marketplace
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.0.3](https://github.com/lucacome/draft-release/releases/tag/v1.0.3), today) - Draft the next GitHub release
 - [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.16.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.16.4), 3 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.2), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [rutajdash/prettier-cli-action](https://github.com/rutajdash/prettier-cli-action) ([v1.0.2](https://github.com/rutajdash/prettier-cli-action/releases/tag/v1.0.2), 1 week ago) - A GitHub action to run Prettier CLI Checks.
-- [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.13](https://github.com/containerd/containerd/releases/tag/v1.7.13), 1 week ago) - An open and reliable container runtime
 
 #### 🔨 My recent Pull Requests
 
