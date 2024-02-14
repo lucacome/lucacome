@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (4 days ago)
-- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (5 days ago)
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (6 days ago)
-- [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos (6 days ago)
-- [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) - Alpine Linux with FIPS OpenSSL module (6 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
+- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (1 day ago)
+- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (2 days ago)
+- [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) - Alpine Linux with FIPS OpenSSL module (1 week ago)
+- [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.3](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.3), 1 day ago) - Publish Docker images to AWS Marketplace
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.0.3](https://github.com/lucacome/draft-release/releases/tag/v1.0.3), 1 day ago) - Draft the next GitHub release
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.16.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.16.4), 4 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.2), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.3](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.3), 2 days ago) - Publish Docker images to AWS Marketplace
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.0.3](https://github.com/lucacome/draft-release/releases/tag/v1.0.3), 2 days ago) - Draft the next GitHub release
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.16.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.16.4), 5 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.2), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 6 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 My recent Pull Requests
 
-- [Add nginx repository](https://github.com/nix-community/NUR/pull/660) on [nix-community/NUR](https://github.com/nix-community/NUR) (3 days ago)
-- [Add annotations for Artifact Hub](https://github.com/nginxinc/nginx-gateway-fabric/pull/1554) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (5 days ago)
-- [Bump Go to 1.22](https://github.com/nginxinc/nginx-gateway-fabric/pull/1553) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (5 days ago)
-- [Add yamllint](https://github.com/nginxinc/nginx-asg-sync/pull/521) on [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) (5 days ago)
-- [Enable more linters](https://github.com/nginxinc/nginx-asg-sync/pull/520) on [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) (5 days ago)
+- [rebuild cache](https://github.com/nginxinc/nginx-gateway-fabric/pull/1572) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Bump NGINX Plus to R31](https://github.com/nginxinc/nginx-plus-go-client/pull/228) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (1 day ago)
+- [Update package for CVE-2023-52425](https://github.com/nginxinc/nginx-gateway-fabric/pull/1569) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Add nginx repository](https://github.com/nix-community/NUR/pull/660) on [nix-community/NUR](https://github.com/nix-community/NUR) (4 days ago)
+- [Add annotations for Artifact Hub](https://github.com/nginxinc/nginx-gateway-fabric/pull/1554) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
 
 #### ⭐ Recent Stars
 
