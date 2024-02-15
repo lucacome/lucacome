@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (1 day ago)
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
-- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (1 day ago)
-- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (2 days ago)
-- [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) - Alpine Linux with FIPS OpenSSL module (1 week ago)
-- [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos (1 week ago)
+- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (2 days ago)
+- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (3 days ago)
+- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.3](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.3), 2 days ago) - Publish Docker images to AWS Marketplace
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.0.3](https://github.com/lucacome/draft-release/releases/tag/v1.0.3), 2 days ago) - Draft the next GitHub release
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.16.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.16.4), 5 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.2), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.3](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.3), 3 days ago) - Publish Docker images to AWS Marketplace
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.0.3](https://github.com/lucacome/draft-release/releases/tag/v1.0.3), 3 days ago) - Draft the next GitHub release
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.16.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.16.4), 6 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.2), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 week ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 My recent Pull Requests
 
-- [rebuild cache](https://github.com/nginxinc/nginx-gateway-fabric/pull/1572) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Bump NGINX Plus to R31](https://github.com/nginxinc/nginx-plus-go-client/pull/228) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (1 day ago)
-- [Update package for CVE-2023-52425](https://github.com/nginxinc/nginx-gateway-fabric/pull/1569) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Add nginx repository](https://github.com/nix-community/NUR/pull/660) on [nix-community/NUR](https://github.com/nix-community/NUR) (4 days ago)
-- [Add annotations for Artifact Hub](https://github.com/nginxinc/nginx-gateway-fabric/pull/1554) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
+- [Update package for CVE-2024-25062 and remove fail](https://github.com/nginxinc/nginx-gateway-fabric/pull/1579) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Add release-note section in PR template](https://github.com/nginxinc/nginx-gateway-fabric/pull/1574) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Add k8s example](https://github.com/nginxinc/nginx-prometheus-exporter/pull/632) on [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) (1 day ago)
+- [rebuild cache](https://github.com/nginxinc/nginx-gateway-fabric/pull/1572) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
+- [Bump NGINX Plus to R31](https://github.com/nginxinc/nginx-plus-go-client/pull/228) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (2 days ago)
 
 #### ⭐ Recent Stars
 
