@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (2 days ago)
-- [lucacome/nginx-bot](https://github.com/lucacome/nginx-bot) -  (2 days ago)
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (3 days ago)
-- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (3 days ago)
-- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (3 days ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (3 days ago)
+- [lucacome/nginx-bot](https://github.com/lucacome/nginx-bot) -  (3 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (4 days ago)
+- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (4 days ago)
+- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,26 +18,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.3), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [prometheus/common](https://github.com/prometheus/common) ([v0.48.0](https://github.com/prometheus/common/releases/tag/v0.48.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.3), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [prometheus/common](https://github.com/prometheus/common) ([v0.48.0](https://github.com/prometheus/common/releases/tag/v0.48.0), 4 days ago) - Go libraries shared across Prometheus components and libraries.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.17.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.17.2), 1 week ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.3](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.3), 1 week ago) - Publish Docker images to AWS Marketplace
+- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.3](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.3), 2 weeks ago) - Publish Docker images to AWS Marketplace
 
 #### 🔨 My recent Pull Requests
 
-- [Add NGINX bot](https://github.com/nginxinc/nginx-gateway-fabric/pull/1607) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
-- [Test](https://github.com/lucacome/nginx-bot/pull/21) on [lucacome/nginx-bot](https://github.com/lucacome/nginx-bot) (4 days ago)
-- [Test](https://github.com/lucacome/nginx-bot/pull/20) on [lucacome/nginx-bot](https://github.com/lucacome/nginx-bot) (4 days ago)
-- [Wait for release notes](https://github.com/opentracing-contrib/nginx-opentracing/pull/584) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (6 days ago)
-- [Move release notes to separate job](https://github.com/opentracing-contrib/nginx-opentracing/pull/583) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (6 days ago)
+- [Add NGINX bot](https://github.com/nginxinc/nginx-gateway-fabric/pull/1607) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (4 days ago)
+- [Test](https://github.com/lucacome/nginx-bot/pull/21) on [lucacome/nginx-bot](https://github.com/lucacome/nginx-bot) (5 days ago)
+- [Test](https://github.com/lucacome/nginx-bot/pull/20) on [lucacome/nginx-bot](https://github.com/lucacome/nginx-bot) (5 days ago)
+- [Wait for release notes](https://github.com/opentracing-contrib/nginx-opentracing/pull/584) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
+- [Move release notes to separate job](https://github.com/opentracing-contrib/nginx-opentracing/pull/583) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 week ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (1 week ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
-- [richardhopton/smartbed-mqtt](https://github.com/richardhopton/smartbed-mqtt) -  (2 weeks ago)
+- [richardhopton/smartbed-mqtt](https://github.com/richardhopton/smartbed-mqtt) -  (3 weeks ago)
 - [sudo-bmitch/presentations](https://github.com/sudo-bmitch/presentations) - Presentations from Brandon Mitchell (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
