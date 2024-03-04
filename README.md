@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (3 days ago)
-- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (3 days ago)
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (3 days ago)
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (3 days ago)
-- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (3 days ago)
+- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (4 days ago)
+- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (4 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (4 days ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (4 days ago)
+- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,26 +18,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus/common](https://github.com/prometheus/common) ([v0.49.0](https://github.com/prometheus/common/releases/tag/v0.49.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus/common](https://github.com/prometheus/common) ([v0.49.0](https://github.com/prometheus/common/releases/tag/v0.49.0), 4 days ago) - Go libraries shared across Prometheus components and libraries.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.3), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.17.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.17.2), 2 weeks ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.3](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.3), 2 weeks ago) - Publish Docker images to AWS Marketplace
+- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.3](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.3), 3 weeks ago) - Publish Docker images to AWS Marketplace
 
 #### 🔨 My recent Pull Requests
 
-- [Create codeql.yml](https://github.com/nginxinc/telemetry-exporter/pull/29) on [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) (3 days ago)
-- [Speed up generation](https://github.com/nginxinc/nginx-gateway-fabric/pull/1628) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
-- [Bump Node to v20 and add .nvmrc](https://github.com/nginxinc/nginx-gateway-fabric/pull/1627) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
-- [Add Codecov](https://github.com/nginxinc/nginx-gateway-fabric/pull/1626) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (4 days ago)
-- [Move NGINX Bot to GitHub App](https://github.com/nginxinc/nginx-gateway-fabric/pull/1618) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (5 days ago)
+- [Create codeql.yml](https://github.com/nginxinc/telemetry-exporter/pull/29) on [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) (4 days ago)
+- [Speed up generation](https://github.com/nginxinc/nginx-gateway-fabric/pull/1628) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (4 days ago)
+- [Bump Node to v20 and add .nvmrc](https://github.com/nginxinc/nginx-gateway-fabric/pull/1627) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (4 days ago)
+- [Add Codecov](https://github.com/nginxinc/nginx-gateway-fabric/pull/1626) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (5 days ago)
+- [Move NGINX Bot to GitHub App](https://github.com/nginxinc/nginx-gateway-fabric/pull/1618) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (2 weeks ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (2 weeks ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 weeks ago)
-- [richardhopton/smartbed-mqtt](https://github.com/richardhopton/smartbed-mqtt) -  (3 weeks ago)
+- [richardhopton/smartbed-mqtt](https://github.com/richardhopton/smartbed-mqtt) -  (4 weeks ago)
 - [sudo-bmitch/presentations](https://github.com/sudo-bmitch/presentations) - Presentations from Brandon Mitchell (1 month ago)
 
 #### 👯 Check out some of my recent followers
