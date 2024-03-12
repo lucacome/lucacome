@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (5 days ago)
+- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (6 days ago)
 - [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (1 week ago)
 - [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (1 week ago)
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 week ago)
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [prometheus/common](https://github.com/prometheus/common) ([v0.50.0](https://github.com/prometheus/common/releases/tag/v0.50.0), 4 days ago) - Go libraries shared across Prometheus components and libraries.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [prometheus/common](https://github.com/prometheus/common) ([v0.50.0](https://github.com/prometheus/common/releases/tag/v0.50.0), 5 days ago) - Go libraries shared across Prometheus components and libraries.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.17.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.17.2), 3 weeks ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.3](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.3), 4 weeks ago) - Publish Docker images to AWS Marketplace
 
@@ -30,7 +30,7 @@
 - [Speed up generation](https://github.com/nginxinc/nginx-gateway-fabric/pull/1628) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
 - [Bump Node to v20 and add .nvmrc](https://github.com/nginxinc/nginx-gateway-fabric/pull/1627) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
 - [Add Codecov](https://github.com/nginxinc/nginx-gateway-fabric/pull/1626) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
-- [Move NGINX Bot to GitHub App](https://github.com/nginxinc/nginx-gateway-fabric/pull/1618) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
+- [Move NGINX Bot to GitHub App](https://github.com/nginxinc/nginx-gateway-fabric/pull/1618) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
