@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus/common](https://github.com/prometheus/common) ([v0.50.0](https://github.com/prometheus/common/releases/tag/v0.50.0), 1 week ago) - Go libraries shared across Prometheus components and libraries.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.17.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.17.2), 4 weeks ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.3](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.3), 1 month ago) - Publish Docker images to AWS Marketplace
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (1 day ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (3 weeks ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (3 weeks ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 weeks ago)
 - [richardhopton/smartbed-mqtt](https://github.com/richardhopton/smartbed-mqtt) -  (1 month ago)
-- [sudo-bmitch/presentations](https://github.com/sudo-bmitch/presentations) - Presentations from Brandon Mitchell (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
