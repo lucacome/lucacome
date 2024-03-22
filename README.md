@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.0.4](https://github.com/lucacome/draft-release/releases/tag/v1.0.4), 3 days ago) - Draft the next GitHub release
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [prometheus/common](https://github.com/prometheus/common) ([v0.50.0](https://github.com/prometheus/common/releases/tag/v0.50.0), 2 weeks ago) - Go libraries shared across Prometheus components and libraries.
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.17.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.17.2), 1 month ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) ([v1.2.0](https://github.com/nginxinc/nginx-gateway-fabric/releases/tag/v1.2.0), 1 day ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [prometheus/common](https://github.com/prometheus/common) ([v0.51.0](https://github.com/prometheus/common/releases/tag/v0.51.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.0.4](https://github.com/lucacome/draft-release/releases/tag/v1.0.4), 4 days ago) - Draft the next GitHub release
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), 2 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [Create Release PR workflow](https://github.com/nginxinc/nginx-gateway-fabric/pull/1732) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Update the docs to point to v1.1.0](https://github.com/nginxinc/nginx-gateway-fabric/pull/1730) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
-- [Use nginx-bot in NFR PR](https://github.com/nginxinc/nginx-gateway-fabric/pull/1728) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
-- [Only write images to cache from the Build job](https://github.com/nginxinc/nginx-gateway-fabric/pull/1702) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
-- [Only write images to cache from the Build job](https://github.com/nginxinc/nginx-gateway-fabric/pull/1701) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
+- [Add support for s390x and ppc64le](https://github.com/nginxinc/nginx-gateway-fabric/pull/1755) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Fix release notes link](https://github.com/nginxinc/nginx-gateway-fabric/pull/1752) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Add workaround for golangci-lint errors](https://github.com/nginxinc/nginx-gateway-fabric/pull/1751) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Create Release PR workflow](https://github.com/nginxinc/nginx-gateway-fabric/pull/1732) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
+- [Update the docs to point to v1.1.0](https://github.com/nginxinc/nginx-gateway-fabric/pull/1730) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
 
 #### ⭐ Recent Stars
 
