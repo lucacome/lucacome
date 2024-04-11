@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.17.3](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.17.3), 2 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.25.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.25.1), 6 days ago) - Deliver Go binaries as fast and easily as possible
-- [prometheus/common](https://github.com/prometheus/common) ([v0.52.2](https://github.com/prometheus/common/releases/tag/v0.52.2), 1 week ago) - Go libraries shared across Prometheus components and libraries.
+- [prometheus/common](https://github.com/prometheus/common) ([v0.52.3](https://github.com/prometheus/common/releases/tag/v0.52.3), 1 day ago) - Go libraries shared across Prometheus components and libraries.
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.17.3](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.17.3), 3 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.25.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.25.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-alpha.0), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) ([v1.2.0](https://github.com/nginxinc/nginx-gateway-fabric/releases/tag/v1.2.0), 2 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) ([v1.2.0](https://github.com/nginxinc/nginx-gateway-fabric/releases/tag/v1.2.0), 3 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
 #### 🔨 My recent Pull Requests
 
 - [Move CRDs to config directory](https://github.com/nginxinc/nginx-gateway-fabric/pull/1798) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
 - [Fix permissions for Release PR workflow](https://github.com/nginxinc/nginx-gateway-fabric/pull/1797) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
-- [Add dependabot](https://github.com/brancz/kube-rbac-proxy/pull/288) on [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) (1 week ago)
-- [Add dependabot](https://github.com/lucacome/kube-rbac-proxy/pull/1) on [lucacome/kube-rbac-proxy](https://github.com/lucacome/kube-rbac-proxy) (1 week ago)
-- [Add support for s390x and ppc64le](https://github.com/nginxinc/nginx-gateway-fabric/pull/1755) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 weeks ago)
+- [Add dependabot](https://github.com/brancz/kube-rbac-proxy/pull/288) on [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) (2 weeks ago)
+- [Add dependabot](https://github.com/lucacome/kube-rbac-proxy/pull/1) on [lucacome/kube-rbac-proxy](https://github.com/lucacome/kube-rbac-proxy) (2 weeks ago)
+- [Add support for s390x and ppc64le](https://github.com/nginxinc/nginx-gateway-fabric/pull/1755) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (3 weeks ago)
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (4 weeks ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 month ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (1 month ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
