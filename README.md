@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus/common](https://github.com/prometheus/common) ([v0.52.3](https://github.com/prometheus/common/releases/tag/v0.52.3), 1 day ago) - Go libraries shared across Prometheus components and libraries.
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.17.3](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.17.3), 3 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.25.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.25.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-alpha.0), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus/common](https://github.com/prometheus/common) ([v0.52.3](https://github.com/prometheus/common/releases/tag/v0.52.3), 2 days ago) - Go libraries shared across Prometheus components and libraries.
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.17.3](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.17.3), 4 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-alpha.0), 2 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) ([v1.2.0](https://github.com/nginxinc/nginx-gateway-fabric/releases/tag/v1.2.0), 3 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
 #### 🔨 My recent Pull Requests
