@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [prometheus/common](https://github.com/prometheus/common) ([v0.52.3](https://github.com/prometheus/common/releases/tag/v0.52.3), 2 days ago) - Go libraries shared across Prometheus components and libraries.
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.17.3](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.17.3), 4 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus/common](https://github.com/prometheus/common) ([v0.52.3](https://github.com/prometheus/common/releases/tag/v0.52.3), 3 days ago) - Go libraries shared across Prometheus components and libraries.
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.17.3](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.17.3), 5 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-alpha.0), 2 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) ([v1.2.0](https://github.com/nginxinc/nginx-gateway-fabric/releases/tag/v1.2.0), 3 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (4 weeks ago)
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (1 month ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 month ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (1 month ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
