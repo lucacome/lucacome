@@ -29,7 +29,7 @@
 - [chore: Add GitHub Actions to dependabot](https://github.com/kubeshop/testkube/pull/5314) on [kubeshop/testkube](https://github.com/kubeshop/testkube) (1 day ago)
 - [Add EditorConfig](https://github.com/nginxinc/nginx-gateway-fabric/pull/1849) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
 - [chore: Bump Go to 1.22](https://github.com/kubeshop/testkube/pull/5310) on [kubeshop/testkube](https://github.com/kubeshop/testkube) (2 days ago)
-- [Run functional tests with ginkgo](https://github.com/nginxinc/nginx-gateway-fabric/pull/1833) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
+- [Run functional and NFR tests with ginkgo](https://github.com/nginxinc/nginx-gateway-fabric/pull/1833) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
 - [Bump dependencies](https://github.com/lucacome/draft-release/pull/298) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (4 days ago)
 
 #### ⭐ Recent Stars
