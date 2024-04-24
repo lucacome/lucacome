@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.18.0](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.18.0), today) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [prometheus/common](https://github.com/prometheus/common) ([v0.53.0](https://github.com/prometheus/common/releases/tag/v0.53.0), 6 days ago) - Go libraries shared across Prometheus components and libraries.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 6 days ago) - Deliver Go binaries as fast and easily as possible
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.17.3](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.17.3), 2 weeks ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-alpha.0), 3 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) ([v1.2.0](https://github.com/nginxinc/nginx-gateway-fabric/releases/tag/v1.2.0), 1 month ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
