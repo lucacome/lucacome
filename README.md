@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (6 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 week ago)
 - [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (1 week ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
 - [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (3 weeks ago)
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.18.0](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.18.0), today) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [prometheus/common](https://github.com/prometheus/common) ([v0.53.0](https://github.com/prometheus/common/releases/tag/v0.53.0), 6 days ago) - Go libraries shared across Prometheus components and libraries.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.18.0](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.18.0), 1 day ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [prometheus/common](https://github.com/prometheus/common) ([v0.53.0](https://github.com/prometheus/common/releases/tag/v0.53.0), 1 week ago) - Go libraries shared across Prometheus components and libraries.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-alpha.0), 3 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) ([v1.2.0](https://github.com/nginxinc/nginx-gateway-fabric/releases/tag/v1.2.0), 1 month ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
 #### 🔨 My recent Pull Requests
 
-- [Bump Go to 1.21](https://github.com/kubernetes/utils/pull/308) on [kubernetes/utils](https://github.com/kubernetes/utils) (1 day ago)
-- [Add dependabot](https://github.com/kubernetes/utils/pull/307) on [kubernetes/utils](https://github.com/kubernetes/utils) (1 day ago)
-- [Move the helm chart to charts](https://github.com/nginxinc/nginx-gateway-fabric/pull/1862) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (5 days ago)
-- [chore: Add GitHub Actions to dependabot](https://github.com/kubeshop/testkube/pull/5314) on [kubeshop/testkube](https://github.com/kubeshop/testkube) (6 days ago)
-- [Add EditorConfig](https://github.com/nginxinc/nginx-gateway-fabric/pull/1849) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
+- [Bump Go to 1.21](https://github.com/kubernetes/utils/pull/308) on [kubernetes/utils](https://github.com/kubernetes/utils) (2 days ago)
+- [Add dependabot](https://github.com/kubernetes/utils/pull/307) on [kubernetes/utils](https://github.com/kubernetes/utils) (2 days ago)
+- [Move the helm chart to charts](https://github.com/nginxinc/nginx-gateway-fabric/pull/1862) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
+- [chore: Add GitHub Actions to dependabot](https://github.com/kubeshop/testkube/pull/5314) on [kubeshop/testkube](https://github.com/kubeshop/testkube) (1 week ago)
+- [Add EditorConfig](https://github.com/nginxinc/nginx-gateway-fabric/pull/1849) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
 
 #### ⭐ Recent Stars
 
