@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ahmetb/gen-crd-api-reference-docs](https://github.com/ahmetb/gen-crd-api-reference-docs) - API Reference Docs generator for Kubernetes CRDs (used by Knative, Kubeflow and others) (1 day ago)
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
 - [kubernetes/kube-openapi](https://github.com/kubernetes/kube-openapi) - Kubernetes OpenAPI spec generation &amp; serving (1 day ago)
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go (4 days ago)
 - [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (1 week ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Switch to GitHub Actions](https://github.com/ahmetb/gen-crd-api-reference-docs/pull/72) on [ahmetb/gen-crd-api-reference-docs](https://github.com/ahmetb/gen-crd-api-reference-docs) (1 day ago)
-- [Add dependabot](https://github.com/ahmetb/gen-crd-api-reference-docs/pull/71) on [ahmetb/gen-crd-api-reference-docs](https://github.com/ahmetb/gen-crd-api-reference-docs) (1 day ago)
-- [Bump Go to 1.21](https://github.com/ahmetb/gen-crd-api-reference-docs/pull/70) on [ahmetb/gen-crd-api-reference-docs](https://github.com/ahmetb/gen-crd-api-reference-docs) (1 day ago)
-- [Remove replace no longer needed](https://github.com/nginxinc/nginx-gateway-fabric/pull/1900) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Bump github.com/onsi/ginkgo/v2 to 2.17.2](https://github.com/kubernetes/kube-openapi/pull/472) on [kubernetes/kube-openapi](https://github.com/kubernetes/kube-openapi) (1 day ago)
+- [Bump hack/tools dependencies](https://github.com/kubernetes/kubernetes/pull/124633) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [Bump k8s.io/kube-openapi to latest](https://github.com/kubernetes/kubernetes/pull/124632) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [Add dependabot](https://github.com/kubernetes/kube-openapi/pull/474) on [kubernetes/kube-openapi](https://github.com/kubernetes/kube-openapi) (today)
+- [Bump github.com/onsi/gomega to v1.33.1](https://github.com/kubernetes/kube-openapi/pull/473) on [kubernetes/kube-openapi](https://github.com/kubernetes/kube-openapi) (today)
+- [Add version flag](https://github.com/ahmetb/gen-crd-api-reference-docs/pull/76) on [ahmetb/gen-crd-api-reference-docs](https://github.com/ahmetb/gen-crd-api-reference-docs) (today)
 
 #### ⭐ Recent Stars
 
