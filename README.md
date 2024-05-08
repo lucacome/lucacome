@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (6 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 week ago)
 - [ahmetb/gen-crd-api-reference-docs](https://github.com/ahmetb/gen-crd-api-reference-docs) - API Reference Docs generator for Kubernetes CRDs (used by Knative, Kubeflow and others) (1 week ago)
 - [kubernetes/kube-openapi](https://github.com/kubernetes/kube-openapi) - Kubernetes OpenAPI spec generation &amp; serving (1 week ago)
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go (1 week ago)
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.16.6](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.16.6), 1 day ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.23](https://github.com/kubeshop/testkube/releases/tag/v1.17.23), 4 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 5 days ago) - Deliver Go binaries as fast and easily as possible
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.17.2](https://github.com/onsi/ginkgo/releases/tag/v2.17.2), 1 week ago) - A Modern Testing Framework for Go
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.17.3](https://github.com/onsi/ginkgo/releases/tag/v2.17.3), 1 day ago) - A Modern Testing Framework for Go
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.24](https://github.com/kubeshop/testkube/releases/tag/v1.17.24), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.16.6](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.16.6), 2 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) ([v0.2.0](https://github.com/nginxinc/alpine-fips/releases/tag/v0.2.0), 1 week ago) - Alpine Linux with FIPS OpenSSL module
 
 #### 🔨 My recent Pull Requests
 
-- [Use new directories directive in dependabot](https://github.com/nginxinc/nginx-gateway-fabric/pull/1919) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
-- [Bump Dockerfile version to 1.7](https://github.com/nginxinc/nginx-gateway-fabric/pull/1916) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
-- [Bump js dependencies](https://github.com/nginxinc/nginx-gateway-fabric/pull/1915) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
-- [Fix conformance tests using cached binary](https://github.com/nginxinc/nginx-gateway-fabric/pull/1914) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
-- [Bump github.com/NYTimes/gziphandler to v1.1.1](https://github.com/kubernetes/kube-openapi/pull/475) on [kubernetes/kube-openapi](https://github.com/kubernetes/kube-openapi) (1 week ago)
+- [Run format, lint and build](https://github.com/actions/checkout/pull/1719) on [actions/checkout](https://github.com/actions/checkout) (1 day ago)
+- [Use new directories directive in dependabot](https://github.com/nginxinc/nginx-gateway-fabric/pull/1919) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
+- [Bump Dockerfile version to 1.7](https://github.com/nginxinc/nginx-gateway-fabric/pull/1916) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
+- [Bump js dependencies](https://github.com/nginxinc/nginx-gateway-fabric/pull/1915) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
+- [Fix conformance tests using cached binary](https://github.com/nginxinc/nginx-gateway-fabric/pull/1914) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
 
 #### ⭐ Recent Stars
 
