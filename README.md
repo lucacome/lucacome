@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.29](https://github.com/kubeshop/testkube/releases/tag/v1.17.29), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [nginxinc/kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) ([v3.5.1](https://github.com/nginxinc/kubernetes-ingress/releases/tag/v3.5.1), 3 days ago) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.17.3](https://github.com/onsi/ginkgo/releases/tag/v2.17.3), 4 days ago) - A Modern Testing Framework for Go
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.16.6](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.16.6), 5 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.26.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.26.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.29](https://github.com/kubeshop/testkube/releases/tag/v1.17.29), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [nginxinc/kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) ([v3.5.1](https://github.com/nginxinc/kubernetes-ingress/releases/tag/v3.5.1), 4 days ago) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.17.3](https://github.com/onsi/ginkgo/releases/tag/v2.17.3), 5 days ago) - A Modern Testing Framework for Go
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.16.6](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.16.6), 6 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 
 #### 🔨 My recent Pull Requests
 
-- [Overwrite existing conformance files](https://github.com/nginxinc/nginx-gateway-fabric/pull/1951) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
-- [Run format, lint and build](https://github.com/actions/checkout/pull/1719) on [actions/checkout](https://github.com/actions/checkout) (4 days ago)
+- [Overwrite existing conformance files](https://github.com/nginxinc/nginx-gateway-fabric/pull/1951) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
+- [Run format, lint and build](https://github.com/actions/checkout/pull/1719) on [actions/checkout](https://github.com/actions/checkout) (5 days ago)
 - [Use new directories directive in dependabot](https://github.com/nginxinc/nginx-gateway-fabric/pull/1919) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
 - [Bump Dockerfile version to 1.7](https://github.com/nginxinc/nginx-gateway-fabric/pull/1916) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
 - [Bump js dependencies](https://github.com/nginxinc/nginx-gateway-fabric/pull/1915) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
