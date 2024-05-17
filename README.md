@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([mai](https://github.com/kubeshop/testkube/releases/tag/mai), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.37](https://github.com/kubeshop/testkube/releases/tag/v1.17.37), today) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.17.3](https://github.com/onsi/ginkgo/releases/tag/v2.17.3), 1 week ago) - A Modern Testing Framework for Go
 - [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.16.6](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.16.6), 1 week ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
