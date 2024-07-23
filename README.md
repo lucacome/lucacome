@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (4 days ago)
-- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (5 days ago)
-- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (5 days ago)
-- [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser (6 days ago)
-- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (6 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (5 days ago)
+- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (6 days ago)
+- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (6 days ago)
+- [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser (1 week ago)
+- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.4.0-beta.2](https://github.com/atuinsh/atuin/releases/tag/v18.4.0-beta.2), 6 days ago) - ✨ Magical shell history
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.4.0-beta.2](https://github.com/atuinsh/atuin/releases/tag/v18.4.0-beta.2), 1 week ago) - ✨ Magical shell history
 - [open-telemetry/build-tools](https://github.com/open-telemetry/build-tools) ([v0.25.0](https://github.com/open-telemetry/build-tools/releases/tag/v0.25.0), 1 week ago) - Building tools provided by OpenTelemetry
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.0.10](https://github.com/kubeshop/testkube/releases/tag/v2.0.10), 1 week ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.35.3](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.35.3), 1 week ago) - NGINX plugin for OpenTracing
+- [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) ([v1.14.2](https://github.com/norwoodj/helm-docs/releases/tag/v1.14.2), 2 weeks ago) - A tool for automatically generating markdown documentation for helm charts
 
 #### 🔨 My recent Pull Requests
 
-- [Add golangci-lint](https://github.com/alecthomas/kingpin/pull/354) on [alecthomas/kingpin](https://github.com/alecthomas/kingpin) (3 days ago)
-- [Add oss suffix to OSS tests results](https://github.com/nginxinc/nginx-gateway-fabric/pull/2261) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (4 days ago)
-- [Use custom NGF Debian image for tests](https://github.com/nginxinc/nginx-gateway-fabric/pull/2260) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (4 days ago)
-- [Bump golang.org/x/sys to v0.22.0](https://github.com/godbus/dbus/pull/386) on [godbus/dbus](https://github.com/godbus/dbus) (4 days ago)
-- [Truncate test result files](https://github.com/nginxinc/nginx-gateway-fabric/pull/2255) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (5 days ago)
+- [Add golangci-lint](https://github.com/alecthomas/kingpin/pull/354) on [alecthomas/kingpin](https://github.com/alecthomas/kingpin) (4 days ago)
+- [Add oss suffix to OSS tests results](https://github.com/nginxinc/nginx-gateway-fabric/pull/2261) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (5 days ago)
+- [Use custom NGF Debian image for tests](https://github.com/nginxinc/nginx-gateway-fabric/pull/2260) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (5 days ago)
+- [Bump golang.org/x/sys to v0.22.0](https://github.com/godbus/dbus/pull/386) on [godbus/dbus](https://github.com/godbus/dbus) (5 days ago)
+- [Truncate test result files](https://github.com/nginxinc/nginx-gateway-fabric/pull/2255) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser (5 days ago)
+- [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser (6 days ago)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (1 week ago)
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (2 weeks ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries (1 month ago)
