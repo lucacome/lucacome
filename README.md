@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (2 days ago)
-- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (2 days ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (5 days ago)
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go (6 days ago)
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (6 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
+- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (3 days ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (6 days ago)
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go (1 week ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.67-beta001](https://github.com/kubeshop/testkube/releases/tag/v1.17.67-beta001), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.19.1](https://github.com/onsi/ginkgo/releases/tag/v2.19.1), 1 week ago) - A Modern Testing Framework for Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 week ago) - Deliver Go binaries as fast and easily as possible
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.20.0](https://github.com/onsi/ginkgo/releases/tag/v2.20.0), 1 day ago) - A Modern Testing Framework for Go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.0.19](https://github.com/kubeshop/testkube/releases/tag/v2.0.19), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) ([v1.3.0](https://github.com/nginxinc/nginx-prometheus-exporter/releases/tag/v1.3.0), 2 weeks ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.4.0-beta.3](https://github.com/atuinsh/atuin/releases/tag/v18.4.0-beta.3), 2 weeks ago) - ✨ Magical shell history
 
 #### 🔨 My recent Pull Requests
 
-- [Add options for chart version and add command output](https://github.com/nginxinc/nginx-gateway-fabric/pull/2332) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Bump dependencies](https://github.com/lucacome/draft-release/pull/306) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (4 days ago)
-- [Add missing variables and format scripts](https://github.com/nginxinc/nginx-gateway-fabric/pull/2330) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (5 days ago)
-- [Add buildvcs flag](https://github.com/onsi/ginkgo/pull/1442) on [onsi/ginkgo](https://github.com/onsi/ginkgo) (5 days ago)
-- [Remove steps no longer needed](https://github.com/nginxinc/nginx-gateway-fabric/pull/2324) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
+- [Add options for chart version and add command output](https://github.com/nginxinc/nginx-gateway-fabric/pull/2332) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
+- [Bump dependencies](https://github.com/lucacome/draft-release/pull/306) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (5 days ago)
+- [Add missing variables and format scripts](https://github.com/nginxinc/nginx-gateway-fabric/pull/2330) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
+- [Add buildvcs flag](https://github.com/onsi/ginkgo/pull/1442) on [onsi/ginkgo](https://github.com/onsi/ginkgo) (6 days ago)
+- [Remove steps no longer needed](https://github.com/nginxinc/nginx-gateway-fabric/pull/2324) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -42,11 +42,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [botprzemek](https://github.com/botprzemek)
 - [kehoecj](https://github.com/kehoecj)
 - [eust-w](https://github.com/eust-w)
 - [scottrigby](https://github.com/scottrigby)
 - [afasari](https://github.com/afasari)
+- [sammorozov](https://github.com/sammorozov)
 
 #### 💬 Feedback
 
