@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (2 days ago)
-- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (2 days ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (3 days ago)
-- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (3 days ago)
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (3 days ago)
+- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (3 days ago)
+- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (3 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (4 days ago)
+- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (4 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,25 +18,25 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.36.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.36.0), 2 days ago) - NGINX plugin for OpenTracing
-- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) ([v1.3.0](https://github.com/nginxinc/nginx-plus-go-client/releases/tag/v1.3.0), 3 days ago) - A client for NGINX Plus API for Go
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.1](https://github.com/kubeshop/testkube/releases/tag/v2.1.1), 3 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.19.0](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.19.0), 3 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.2.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.2.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.36.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.36.0), 3 days ago) - NGINX plugin for OpenTracing
+- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) ([v1.3.0](https://github.com/nginxinc/nginx-plus-go-client/releases/tag/v1.3.0), 4 days ago) - A client for NGINX Plus API for Go
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.1](https://github.com/kubeshop/testkube/releases/tag/v2.1.1), 4 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.19.0](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.19.0), 4 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.2.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.2.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 My recent Pull Requests
 
-- [Build modules for NGINX 1.27.1 and 1.26.2](https://github.com/opentracing-contrib/nginx-opentracing/pull/665) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
-- [Refactor prepareBatches](https://github.com/nginxinc/nginx-asg-sync/pull/750) on [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) (3 days ago)
-- [Update dependabot](https://github.com/nginxinc/nginx-asg-sync/pull/749) on [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) (4 days ago)
-- [Update Dockerfile version](https://github.com/nginxinc/nginx-prometheus-exporter/pull/813) on [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) (4 days ago)
-- [Update dependabot](https://github.com/nginxinc/nginx-plus-go-client/pull/345) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (4 days ago)
+- [Build modules for NGINX 1.27.1 and 1.26.2](https://github.com/opentracing-contrib/nginx-opentracing/pull/665) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 days ago)
+- [Refactor prepareBatches](https://github.com/nginxinc/nginx-asg-sync/pull/750) on [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) (4 days ago)
+- [Update dependabot](https://github.com/nginxinc/nginx-asg-sync/pull/749) on [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) (5 days ago)
+- [Update Dockerfile version](https://github.com/nginxinc/nginx-prometheus-exporter/pull/813) on [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) (5 days ago)
+- [Update dependabot](https://github.com/nginxinc/nginx-plus-go-client/pull/345) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (3 days ago)
-- [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles (3 days ago)
-- [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker &#34;Official Images&#34; program (4 days ago)
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (4 days ago)
+- [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles (4 days ago)
+- [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker &#34;Official Images&#34; program (5 days ago)
 - [nginxinc/homebrew-tap](https://github.com/nginxinc/homebrew-tap) -  (3 weeks ago)
 - [nginxinc/scoop-bucket](https://github.com/nginxinc/scoop-bucket) -  (3 weeks ago)
 
