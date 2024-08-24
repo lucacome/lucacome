@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (1 day ago)
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
 - [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (1 day ago)
+- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (1 day ago)
+- [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) - Alpine Linux with FIPS OpenSSL module (1 day ago)
+- [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos (1 day ago)
 - [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (1 day ago)
-- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.2](https://github.com/kubeshop/testkube/releases/tag/v2.1.2), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.20.1](https://github.com/onsi/ginkgo/releases/tag/v2.20.1), 2 days ago) - A Modern Testing Framework for Go
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) ([v1.4.0](https://github.com/nginxinc/nginx-gateway-fabric/releases/tag/v1.4.0), 3 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.36.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.36.0), 1 week ago) - NGINX plugin for OpenTracing
+- [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) ([v0.2.2](https://github.com/nginxinc/kic-test-containers/releases/tag/v0.2.2), 1 day ago) - Docker containers used by the KIC team
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.2](https://github.com/kubeshop/testkube/releases/tag/v2.1.2), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.20.1](https://github.com/onsi/ginkgo/releases/tag/v2.20.1), 3 days ago) - A Modern Testing Framework for Go
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) ([v1.4.0](https://github.com/nginxinc/nginx-gateway-fabric/releases/tag/v1.4.0), 4 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix dependency for OTEL collector](https://github.com/nginxinc/telemetry-exporter/pull/208) on [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) (1 day ago)
-- [Fix dependency name for OTEL collector](https://github.com/nginxinc/nginx-gateway-fabric/pull/2458) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Fix wrong package name](https://github.com/nginxinc/nginx-gateway-fabric/pull/2456) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Remove dependabot and add more dependencies to renovate](https://github.com/nginxinc/telemetry-exporter/pull/205) on [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) (1 day ago)
-- [Remove dependabot, add more tools to renovate](https://github.com/nginxinc/nginx-gateway-fabric/pull/2448) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Replace prettier mirror in pre-commit](https://github.com/nginxinc/nginx-gateway-fabric/pull/2464) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Remove dependabot and use labeler from common](https://github.com/nginxinc/alpine-fips/pull/102) on [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) (1 day ago)
+- [Switch to yarn](https://github.com/nginxinc/aws-marketplace-publish/pull/318) on [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) (1 day ago)
+- [Fix dependency for OTEL collector](https://github.com/nginxinc/telemetry-exporter/pull/208) on [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) (2 days ago)
+- [Fix dependency name for OTEL collector](https://github.com/nginxinc/nginx-gateway-fabric/pull/2458) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
 
 #### ⭐ Recent Stars
 
