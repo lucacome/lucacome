@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (1 day ago)
-- [lucacome/renovate-kustomize-remote](https://github.com/lucacome/renovate-kustomize-remote) -  (1 day ago)
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
-- [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) - Alpine Linux with FIPS OpenSSL module (2 days ago)
-- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (2 days ago)
+- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (2 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (2 days ago)
+- [lucacome/renovate-kustomize-remote](https://github.com/lucacome/renovate-kustomize-remote) -  (2 days ago)
+- [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) - Alpine Linux with FIPS OpenSSL module (3 days ago)
+- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.4](https://github.com/kubeshop/testkube/releases/tag/v2.1.4), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) ([v1.0.0](https://github.com/nginxinc/nginx-asg-sync/releases/tag/v1.0.0), 2 days ago) - NGINX Plus Integration with Cloud Autoscaling 
-- [prometheus/common](https://github.com/prometheus/common) ([v0.57.0](https://github.com/prometheus/common/releases/tag/v0.57.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.20.2](https://github.com/onsi/ginkgo/releases/tag/v2.20.2), 2 days ago) - A Modern Testing Framework for Go
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.6](https://github.com/kubeshop/testkube/releases/tag/v2.1.6), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) ([v1.0.0](https://github.com/nginxinc/nginx-asg-sync/releases/tag/v1.0.0), 3 days ago) - NGINX Plus Integration with Cloud Autoscaling 
+- [prometheus/common](https://github.com/prometheus/common) ([v0.57.0](https://github.com/prometheus/common/releases/tag/v0.57.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.20.2](https://github.com/onsi/ginkgo/releases/tag/v2.20.2), 3 days ago) - A Modern Testing Framework for Go
 
 #### 🔨 My recent Pull Requests
 
-- [Only use prettier for javascript](https://github.com/nginxinc/nginx-gateway-fabric/pull/2484) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Remove dependabot and use labeler from common](https://github.com/nginxinc/nginx-prometheus-exporter/pull/831) on [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) (2 days ago)
-- [Fix license for snap and brew](https://github.com/nginxinc/nginx-asg-sync/pull/779) on [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) (2 days ago)
-- [Fix snapcraft](https://github.com/nginxinc/nginx-asg-sync/pull/778) on [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) (2 days ago)
-- [Add login step to updater](https://github.com/nginxinc/nginx-gateway-fabric/pull/2478) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
+- [Switch to slog](https://github.com/prometheus/exporter-toolkit/pull/240) on [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) (today)
+- [Run tests in internal/mode/static/nginx/config in parallel (1)](https://github.com/nginxinc/nginx-gateway-fabric/pull/2493) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Add Helm schema](https://github.com/nginxinc/nginx-gateway-fabric/pull/2492) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Only use prettier for javascript](https://github.com/nginxinc/nginx-gateway-fabric/pull/2484) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
+- [Remove dependabot and use labeler from common](https://github.com/nginxinc/nginx-prometheus-exporter/pull/831) on [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
