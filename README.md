@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (1 day ago)
-- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (1 day ago)
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
-- [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) - Alpine Linux with FIPS OpenSSL module (1 day ago)
-- [nginx/agent](https://github.com/nginx/agent) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances (1 day ago)
+- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (2 days ago)
+- [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) - Alpine Linux with FIPS OpenSSL module (2 days ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,26 +18,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.18](https://github.com/kubeshop/testkube/releases/tag/v2.1.18), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.13.0](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.13.0), 3 days ago) - Utility package to build exporters
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.3.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.3.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.19](https://github.com/kubeshop/testkube/releases/tag/v2.1.19), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.13.0](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.13.0), 4 days ago) - Utility package to build exporters
 - [prometheus/common](https://github.com/prometheus/common) ([v0.59.1](https://github.com/prometheus/common/releases/tag/v0.59.1), 1 week ago) - Go libraries shared across Prometheus components and libraries.
 - [nginx/agent](https://github.com/nginx/agent) ([v2.38.0](https://github.com/nginx/agent/releases/tag/v2.38.0), 1 week ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 
 #### 🔨 My recent Pull Requests
 
-- [Run tests in parallel](https://github.com/nginxinc/nginx-gateway-fabric/pull/2537) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Run tests in internal/mode/static/state in parallel (1)](https://github.com/nginxinc/nginx-gateway-fabric/pull/2534) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Run tests in internal/mode/static/nginx/config in parallel (2)](https://github.com/nginxinc/nginx-gateway-fabric/pull/2533) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Fix workflows](https://github.com/lucacome/nginx-ubi/pull/111) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 day ago)
-- [Update OpenSSF badge](https://github.com/nginxinc/nginx-gateway-fabric/pull/2527) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Add permissions for GoReleaser](https://github.com/nginxinc/nginx-plus-go-client/pull/367) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (1 day ago)
+- [Enable more linters](https://github.com/nginxinc/nginx-gateway-fabric/pull/2545) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Run tests in parallel](https://github.com/nginxinc/nginx-gateway-fabric/pull/2537) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
+- [Run tests in internal/mode/static/state in parallel (1)](https://github.com/nginxinc/nginx-gateway-fabric/pull/2534) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
+- [Run tests in internal/mode/static/nginx/config in parallel (2)](https://github.com/nginxinc/nginx-gateway-fabric/pull/2533) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (1 week ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (4 weeks ago)
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles (4 weeks ago)
-- [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker &#34;Official Images&#34; program (4 weeks ago)
+- [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker &#34;Official Images&#34; program (1 month ago)
 - [nginxinc/homebrew-tap](https://github.com/nginxinc/homebrew-tap) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
