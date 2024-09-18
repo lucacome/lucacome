@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (1 day ago)
-- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (1 day ago)
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (4 days ago)
-- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (5 days ago)
-- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (6 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
+- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (2 days ago)
+- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (6 days ago)
+- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) ([v0.2.3](https://github.com/nginxinc/alpine-fips/releases/tag/v0.2.3), 1 day ago) - Alpine Linux with FIPS OpenSSL module
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.3.1](https://github.com/goreleaser/goreleaser/releases/tag/v2.3.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.19](https://github.com/kubeshop/testkube/releases/tag/v2.1.19), 5 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.3.2](https://github.com/goreleaser/goreleaser/releases/tag/v2.3.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.20](https://github.com/kubeshop/testkube/releases/tag/v2.1.20), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [nginxinc/alpine-fips](https://github.com/nginxinc/alpine-fips) ([v0.2.3](https://github.com/nginxinc/alpine-fips/releases/tag/v0.2.3), 2 days ago) - Alpine Linux with FIPS OpenSSL module
 - [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.13.0](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.13.0), 1 week ago) - Utility package to build exporters
 - [prometheus/common](https://github.com/prometheus/common) ([v0.59.1](https://github.com/prometheus/common/releases/tag/v0.59.1), 1 week ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
-- [Skip workflow runs the right way](https://github.com/nginxinc/nginx-plus-go-client/pull/379) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (1 day ago)
-- [Skip dependency review run on merge queue](https://github.com/nginxinc/nginx-plus-go-client/pull/378) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (1 day ago)
-- [Add merge_group](https://github.com/nginxinc/nginx-plus-go-client/pull/377) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (1 day ago)
-- [Build for more platforms](https://github.com/nginxinc/nginx-prometheus-exporter/pull/844) on [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) (1 day ago)
-- [Add permissions for GoReleaser](https://github.com/nginxinc/nginx-plus-go-client/pull/367) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (5 days ago)
+- [Add more linters](https://github.com/nginxinc/nginx-plus-go-client/pull/382) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (1 day ago)
+- [Fix import shadowing and unchecked type assertions in test](https://github.com/nginxinc/nginx-gateway-fabric/pull/2574) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Enable more parallel tests](https://github.com/nginxinc/nginx-gateway-fabric/pull/2572) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Skip workflow runs the right way](https://github.com/nginxinc/nginx-plus-go-client/pull/379) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (2 days ago)
+- [Skip dependency review run on merge queue](https://github.com/nginxinc/nginx-plus-go-client/pull/378) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (2 days ago)
 
 #### ⭐ Recent Stars
 
