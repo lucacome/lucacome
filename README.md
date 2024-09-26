@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (6 days ago)
-- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (6 days ago)
-- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (6 days ago)
-- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (6 days ago)
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (6 days ago)
+- [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) - Docker containers used by the KIC team (1 day ago)
+- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (1 day ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (2 days ago)
+- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) - A client for NGINX Plus API for Go (2 days ago)
+- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.22](https://github.com/kubeshop/testkube/releases/tag/v2.1.22), 4 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
+- [actions/checkout](https://github.com/actions/checkout) ([v4.2.0](https://github.com/actions/checkout/releases/tag/v4.2.0), 1 day ago) - Action for checking out a repo
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.24](https://github.com/kubeshop/testkube/releases/tag/v2.1.24), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) ([v2.0.1](https://github.com/nginxinc/nginx-plus-go-client/releases/tag/v2.0.1), 2 days ago) - A client for NGINX Plus API for Go
 - [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.13.0](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.13.0), 2 weeks ago) - Utility package to build exporters
-- [prometheus/common](https://github.com/prometheus/common) ([v0.59.1](https://github.com/prometheus/common/releases/tag/v0.59.1), 2 weeks ago) - Go libraries shared across Prometheus components and libraries.
-- [nginx/agent](https://github.com/nginx/agent) ([v2.38.0](https://github.com/nginx/agent/releases/tag/v2.38.0), 2 weeks ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 
 #### 🔨 My recent Pull Requests
 
-- [Unit tests report](https://github.com/nginxinc/nginx-gateway-fabric/pull/2594) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (today)
-- [Unit tests report](https://github.com/nginxinc/nginx-gateway-fabric/pull/2593) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Fix unchecked type assertions](https://github.com/nginxinc/nginx-gateway-fabric/pull/2580) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
-- [Support cancellation of NGINX Plus API calls](https://github.com/nginxinc/nginx-plus-go-client/pull/383) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (6 days ago)
-- [Add more linters](https://github.com/nginxinc/nginx-plus-go-client/pull/382) on [nginxinc/nginx-plus-go-client](https://github.com/nginxinc/nginx-plus-go-client) (1 week ago)
+- [Add more linters and fix workflows](https://github.com/nginxinc/kic-test-containers/pull/75) on [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) (today)
+- [Add more linters](https://github.com/nginxinc/nginx-prometheus-exporter/pull/857) on [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) (today)
+- [feat(github-runners): mark ubuntu 24.04 as stable](https://github.com/renovatebot/renovate/pull/31619) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (1 day ago)
+- [Set snap as stable](https://github.com/nginxinc/nginx-asg-sync/pull/805) on [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) (1 day ago)
+- [Enable more linters](https://github.com/nginxinc/nginx-asg-sync/pull/804) on [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) (1 day ago)
 
 #### ⭐ Recent Stars
 
