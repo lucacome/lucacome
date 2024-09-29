@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (2 days ago)
-- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (2 days ago)
-- [alecthomas/units](https://github.com/alecthomas/units) - Helpful unit multipliers and functions for Go (2 days ago)
-- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (3 days ago)
-- [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) - Docker containers used by the KIC team (3 days ago)
+- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) - Prometheus exporter for PgBouncer (2 days ago)
+- [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) - Exporter for systemd unit metrics (2 days ago)
+- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (3 days ago)
+- [alecthomas/units](https://github.com/alecthomas/units) - Helpful unit multipliers and functions for Go (3 days ago)
+- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.26-beta002](https://github.com/kubeshop/testkube/releases/tag/v2.1.26-beta002), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.100.0](https://github.com/renovatebot/renovate/releases/tag/38.100.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.6](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.6), 1 day ago) - Publish Docker images to AWS Marketplace
-- [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) ([v0.2.3](https://github.com/nginxinc/kic-test-containers/releases/tag/v0.2.3), 2 days ago) - Docker containers used by the KIC team
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.101.0](https://github.com/renovatebot/renovate/releases/tag/38.101.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.26-beta002](https://github.com/kubeshop/testkube/releases/tag/v2.1.26-beta002), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.6](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.6), 2 days ago) - Publish Docker images to AWS Marketplace
+- [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) ([v0.2.3](https://github.com/nginxinc/kic-test-containers/releases/tag/v0.2.3), 3 days ago) - Docker containers used by the KIC team
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 My recent Pull Requests
 
-- [Switch to slog](https://github.com/prometheus-community/pgbouncer_exporter/pull/167) on [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) (today)
-- [Switch to slog](https://github.com/prometheus-community/systemd_exporter/pull/142) on [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) (1 day ago)
-- [Run CI on all supported versions of Go](https://github.com/alecthomas/kingpin/pull/356) on [alecthomas/kingpin](https://github.com/alecthomas/kingpin) (1 day ago)
-- [Update dependencies, add go.sum](https://github.com/go-yaml/yaml/pull/1051) on [go-yaml/yaml](https://github.com/go-yaml/yaml) (1 day ago)
-- [Use NGINX_PAT](https://github.com/nginxinc/aws-marketplace-publish/pull/351) on [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) (1 day ago)
+- [Switch to slog](https://github.com/ncabatoff/process-exporter/pull/317) on [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter) (1 day ago)
+- [Add linters and fix errors](https://github.com/tynany/frr_exporter/pull/115) on [tynany/frr_exporter](https://github.com/tynany/frr_exporter) (1 day ago)
+- [Switch to slog](https://github.com/prometheus-community/pgbouncer_exporter/pull/167) on [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) (1 day ago)
+- [Switch to slog](https://github.com/prometheus-community/systemd_exporter/pull/142) on [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) (2 days ago)
+- [Run CI on all supported versions of Go](https://github.com/alecthomas/kingpin/pull/356) on [alecthomas/kingpin](https://github.com/alecthomas/kingpin) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (1 day ago)
+- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (2 days ago)
 - [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (3 weeks ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 month ago)
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles (1 month ago)
