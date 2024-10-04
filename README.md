@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (3 days ago)
-- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (3 days ago)
-- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (3 days ago)
-- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (3 days ago)
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (3 days ago)
+- [anchore/scan-action](https://github.com/anchore/scan-action) - Anchore container analysis and scan provided as a GitHub Action (1 day ago)
+- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (4 days ago)
+- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (4 days ago)
+- [nginxinc/nur](https://github.com/nginxinc/nur) -  (4 days ago)
+- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.106.4](https://github.com/renovatebot/renovate/releases/tag/38.106.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.29](https://github.com/kubeshop/testkube/releases/tag/v2.1.29), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [prometheus/common](https://github.com/prometheus/common) ([v0.60.0](https://github.com/prometheus/common/releases/tag/v0.60.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.107.1](https://github.com/renovatebot/renovate/releases/tag/38.107.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.32](https://github.com/kubeshop/testkube/releases/tag/v2.1.32), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus/common](https://github.com/prometheus/common) ([v0.60.0](https://github.com/prometheus/common/releases/tag/v0.60.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
 - [actions/checkout](https://github.com/actions/checkout) ([v4.2.0](https://github.com/actions/checkout/releases/tag/v4.2.0), 1 week ago) - Action for checking out a repo
 
 #### 🔨 My recent Pull Requests
 
-- [Use timeout flag for context cancelation](https://github.com/nginxinc/nginx-prometheus-exporter/pull/868) on [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) (2 days ago)
-- [Add packer](https://github.com/nginxinc/k8s-common/pull/38) on [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) (3 days ago)
-- [Add CLA bot](https://github.com/nginxinc/k8s-common/pull/36) on [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) (3 days ago)
-- [Update nixPaths](https://github.com/nginxinc/nur/pull/10) on [nginxinc/nur](https://github.com/nginxinc/nur) (3 days ago)
-- [Switch to slog](https://github.com/ncabatoff/process-exporter/pull/317) on [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter) (5 days ago)
+- [Use timeout flag for context cancelation](https://github.com/nginxinc/nginx-prometheus-exporter/pull/868) on [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) (3 days ago)
+- [Add packer](https://github.com/nginxinc/k8s-common/pull/38) on [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) (4 days ago)
+- [Add CLA bot](https://github.com/nginxinc/k8s-common/pull/36) on [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) (4 days ago)
+- [Update nixPaths](https://github.com/nginxinc/nur/pull/10) on [nginxinc/nur](https://github.com/nginxinc/nur) (4 days ago)
+- [Switch to slog](https://github.com/ncabatoff/process-exporter/pull/317) on [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (6 days ago)
+- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (1 week ago)
 - [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (1 month ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 month ago)
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles (1 month ago)
@@ -42,11 +42,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [samarjitsahoo](https://github.com/samarjitsahoo)
 - [investor-wallflex](https://github.com/investor-wallflex)
 - [SAMUEL-52](https://github.com/SAMUEL-52)
 - [superdragonstar1226](https://github.com/superdragonstar1226)
 - [KevinInStLouis](https://github.com/KevinInStLouis)
-- [eust-w](https://github.com/eust-w)
 
 #### 💬 Feedback
 
