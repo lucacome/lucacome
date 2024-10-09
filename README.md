@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (1 day ago)
-- [anchore/scan-action](https://github.com/anchore/scan-action) - Anchore container analysis and scan provided as a GitHub Action (5 days ago)
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (1 week ago)
+- [anchore/scan-action](https://github.com/anchore/scan-action) - Anchore container analysis and scan provided as a GitHub Action (6 days ago)
+- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) - Prometheus exporter for Free Range Routing (1 week ago)
+- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (1 week ago)
 - [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (1 week ago)
-- [nginxinc/nur](https://github.com/nginxinc/nur) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.110.4](https://github.com/renovatebot/renovate/releases/tag/38.110.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [actions/checkout](https://github.com/actions/checkout) ([v4.2.1](https://github.com/actions/checkout/releases/tag/v4.2.1), 1 day ago) - Action for checking out a repo
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.29-beta017](https://github.com/kubeshop/testkube/releases/tag/v2.1.29-beta017), 4 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.114.0](https://github.com/renovatebot/renovate/releases/tag/38.114.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.33](https://github.com/kubeshop/testkube/releases/tag/v2.1.33), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [actions/checkout](https://github.com/actions/checkout) ([v4.2.1](https://github.com/actions/checkout/releases/tag/v4.2.1), 2 days ago) - Action for checking out a repo
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [prometheus/common](https://github.com/prometheus/common) ([v0.60.0](https://github.com/prometheus/common/releases/tag/v0.60.0), 1 week ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
