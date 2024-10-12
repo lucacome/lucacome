@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 day ago)
-- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (3 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
+- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (4 days ago)
 - [anchore/scan-action](https://github.com/anchore/scan-action) - Anchore container analysis and scan provided as a GitHub Action (1 week ago)
-- [nginxinc/nginx-asg-sync](https://github.com/nginxinc/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (1 week ago)
-- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) - Prometheus exporter for Free Range Routing (1 week ago)
+- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.116.0](https://github.com/renovatebot/renovate/releases/tag/38.116.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.36](https://github.com/kubeshop/testkube/releases/tag/v2.1.36), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.10.0](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.10.0), 2 days ago) - Prometheus exporter for PgBouncer
-- [actions/checkout](https://github.com/actions/checkout) ([v4.2.1](https://github.com/actions/checkout/releases/tag/v4.2.1), 4 days ago) - Action for checking out a repo
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v5.0.0](https://github.com/anchore/scan-action/releases/tag/v5.0.0), 1 day ago) - Anchore container analysis and scan provided as a GitHub Action
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.119.0](https://github.com/renovatebot/renovate/releases/tag/38.119.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.37](https://github.com/kubeshop/testkube/releases/tag/v2.1.37), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.10.0](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.10.0), 3 days ago) - Prometheus exporter for PgBouncer
 
 #### 🔨 My recent Pull Requests
 
-- [Create codeql-analysis.yml](https://github.com/lucacome/docker-image-update-checker/pull/45) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (today)
-- [Switch to typescript based Action](https://github.com/lucacome/docker-image-update-checker/pull/42) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
-- [Update failing test](https://github.com/lucacome/docker-image-update-checker/pull/41) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
-- [Use timeout flag for context cancelation](https://github.com/nginxinc/nginx-prometheus-exporter/pull/868) on [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) (1 week ago)
-- [Add packer](https://github.com/nginxinc/k8s-common/pull/38) on [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) (1 week ago)
+- [Update README](https://github.com/lucacome/docker-image-update-checker/pull/64) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
+- [Update Docker updater workflow](https://github.com/nginxinc/nginx-gateway-fabric/pull/2679) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Release 2.0.0](https://github.com/lucacome/docker-image-update-checker/pull/63) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
+- [Create SECURITY.md](https://github.com/lucacome/docker-image-update-checker/pull/60) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
+- [Update workflows](https://github.com/lucacome/docker-image-update-checker/pull/59) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
 
 #### ⭐ Recent Stars
 
