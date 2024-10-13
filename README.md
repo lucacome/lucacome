@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 day ago)
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
-- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (4 days ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (2 days ago)
+- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (5 days ago)
 - [anchore/scan-action](https://github.com/anchore/scan-action) - Anchore container analysis and scan provided as a GitHub Action (1 week ago)
 - [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (1 week ago)
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v5.0.0](https://github.com/anchore/scan-action/releases/tag/v5.0.0), 1 day ago) - Anchore container analysis and scan provided as a GitHub Action
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.119.0](https://github.com/renovatebot/renovate/releases/tag/38.119.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.37](https://github.com/kubeshop/testkube/releases/tag/v2.1.37), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.10.0](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.10.0), 3 days ago) - Prometheus exporter for PgBouncer
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.120.0](https://github.com/renovatebot/renovate/releases/tag/38.120.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v5.0.0](https://github.com/anchore/scan-action/releases/tag/v5.0.0), 2 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.37](https://github.com/kubeshop/testkube/releases/tag/v2.1.37), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.10.0](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.10.0), 4 days ago) - Prometheus exporter for PgBouncer
 
 #### 🔨 My recent Pull Requests
 
-- [Update README](https://github.com/lucacome/docker-image-update-checker/pull/64) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
-- [Update Docker updater workflow](https://github.com/nginxinc/nginx-gateway-fabric/pull/2679) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Release 2.0.0](https://github.com/lucacome/docker-image-update-checker/pull/63) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
-- [Create SECURITY.md](https://github.com/lucacome/docker-image-update-checker/pull/60) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
-- [Update workflows](https://github.com/lucacome/docker-image-update-checker/pull/59) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
+- [Update README](https://github.com/lucacome/docker-image-update-checker/pull/64) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 days ago)
+- [Update Docker updater workflow](https://github.com/nginxinc/nginx-gateway-fabric/pull/2679) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
+- [Release 2.0.0](https://github.com/lucacome/docker-image-update-checker/pull/63) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 days ago)
+- [Create SECURITY.md](https://github.com/lucacome/docker-image-update-checker/pull/60) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 days ago)
+- [Update workflows](https://github.com/lucacome/docker-image-update-checker/pull/59) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 days ago)
 
 #### ⭐ Recent Stars
 
@@ -38,7 +38,7 @@
 - [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (1 month ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 month ago)
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles (1 month ago)
-- [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker &#34;Official Images&#34; program (1 month ago)
+- [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker &#34;Official Images&#34; program (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
