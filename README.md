@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 day ago)
-- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (1 day ago)
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (6 days ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (6 days ago)
-- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (1 week ago)
+- [nginxinc/homebrew-tap](https://github.com/nginxinc/homebrew-tap) -  (1 day ago)
+- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (2 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (2 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 week ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.124.3](https://github.com/renovatebot/renovate/releases/tag/38.124.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.41](https://github.com/kubeshop/testkube/releases/tag/v2.1.41), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v5.0.1](https://github.com/anchore/scan-action/releases/tag/v5.0.1), 2 days ago) - Anchore container analysis and scan provided as a GitHub Action
-- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.10.1](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.10.1), 2 days ago) - Prometheus exporter for PgBouncer
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.126.2](https://github.com/renovatebot/renovate/releases/tag/38.126.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.42](https://github.com/kubeshop/testkube/releases/tag/v2.1.42), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v5.0.1](https://github.com/anchore/scan-action/releases/tag/v5.0.1), 3 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.10.1](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.10.1), 3 days ago) - Prometheus exporter for PgBouncer
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 week ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 My recent Pull Requests
 
-- [Build module for NGINX 1.27.2](https://github.com/opentracing-contrib/nginx-opentracing/pull/692) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
-- [Update runners to 24.04](https://github.com/opentracing-contrib/nginx-opentracing/pull/691) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
-- [Update README](https://github.com/lucacome/docker-image-update-checker/pull/64) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (6 days ago)
-- [Update Docker updater workflow](https://github.com/nginxinc/nginx-gateway-fabric/pull/2679) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (6 days ago)
-- [Release 2.0.0](https://github.com/lucacome/docker-image-update-checker/pull/63) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (6 days ago)
+- [Update README and add more pre-commit checks](https://github.com/opentracing-contrib/nginx-opentracing/pull/694) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
+- [Add workaround for renovate](https://github.com/nginxinc/telemetry-exporter/pull/266) on [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) (1 day ago)
+- [Add workaround for renovate](https://github.com/nginxinc/nginx-gateway-fabric/pull/2698) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Build module for NGINX 1.27.2](https://github.com/opentracing-contrib/nginx-opentracing/pull/692) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
+- [Update runners to 24.04](https://github.com/opentracing-contrib/nginx-opentracing/pull/691) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (2 weeks ago)
+- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (3 weeks ago)
 - [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (1 month ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (2 months ago)
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles (2 months ago)
@@ -42,11 +42,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [llathieyre](https://github.com/llathieyre)
 - [VIEJOSANO](https://github.com/VIEJOSANO)
 - [Mmagkooo](https://github.com/Mmagkooo)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [investor-wallflex](https://github.com/investor-wallflex)
-- [SAMUEL-52](https://github.com/SAMUEL-52)
 
 #### 💬 Feedback
 
