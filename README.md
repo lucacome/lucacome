@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (5 days ago)
-- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (5 days ago)
-- [nginxinc/homebrew-tap](https://github.com/nginxinc/homebrew-tap) -  (6 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (2 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (6 days ago)
+- [nginxinc/telemetry-exporter](https://github.com/nginxinc/telemetry-exporter) -  (6 days ago)
+- [nginxinc/homebrew-tap](https://github.com/nginxinc/homebrew-tap) -  (1 week ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.130.0](https://github.com/renovatebot/renovate/releases/tag/38.130.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.46](https://github.com/kubeshop/testkube/releases/tag/v2.1.46), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v5.1.0](https://github.com/anchore/scan-action/releases/tag/v5.1.0), 2 days ago) - Anchore container analysis and scan provided as a GitHub Action
-- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.10.2](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.10.2), 4 days ago) - Prometheus exporter for PgBouncer
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 week ago) - Deliver Go binaries as fast and easily as possible
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.130.2](https://github.com/renovatebot/renovate/releases/tag/38.130.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta006](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta006), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [actions/checkout](https://github.com/actions/checkout) ([v4.2.2](https://github.com/actions/checkout/releases/tag/v4.2.2), 1 day ago) - Action for checking out a repo
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v5.1.0](https://github.com/anchore/scan-action/releases/tag/v5.1.0), 3 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.10.2](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.10.2), 5 days ago) - Prometheus exporter for PgBouncer
 
 #### 🔨 My recent Pull Requests
 
-- [Limit PRs from renovate to once a day](https://github.com/nginxinc/nginx-gateway-fabric/pull/2720) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Move renovate build to separate workflow](https://github.com/nginxinc/nginx-gateway-fabric/pull/2712) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Use NGINX_PAT to checkout renovate&#39;s PRs](https://github.com/nginxinc/nginx-gateway-fabric/pull/2710) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
-- [Fix permissions for git-auto-commit-action](https://github.com/nginxinc/nginx-gateway-fabric/pull/2705) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
-- [Update README and add more pre-commit checks](https://github.com/opentracing-contrib/nginx-opentracing/pull/694) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (6 days ago)
+- [Update to Go 1.23](https://github.com/jacobtomlinson/gha-find-replace/pull/68) on [jacobtomlinson/gha-find-replace](https://github.com/jacobtomlinson/gha-find-replace) (1 day ago)
+- [Limit PRs from renovate to once a day](https://github.com/nginxinc/nginx-gateway-fabric/pull/2720) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
+- [Move renovate build to separate workflow](https://github.com/nginxinc/nginx-gateway-fabric/pull/2712) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
+- [Use NGINX_PAT to checkout renovate&#39;s PRs](https://github.com/nginxinc/nginx-gateway-fabric/pull/2710) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
+- [Fix permissions for git-auto-commit-action](https://github.com/nginxinc/nginx-gateway-fabric/pull/2705) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
 
 #### ⭐ Recent Stars
 
