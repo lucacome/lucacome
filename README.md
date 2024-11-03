@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (2 days ago)
-- [Wilcolab/Anythink-Market-otlmupka](https://github.com/Wilcolab/Anythink-Market-otlmupka) -  (3 days ago)
-- [Wilcolab/Anythink-Market-zlgvef4f](https://github.com/Wilcolab/Anythink-Market-zlgvef4f) -  (4 days ago)
+- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (3 days ago)
+- [Wilcolab/Anythink-Market-otlmupka](https://github.com/Wilcolab/Anythink-Market-otlmupka) -  (4 days ago)
+- [Wilcolab/Anythink-Market-zlgvef4f](https://github.com/Wilcolab/Anythink-Market-zlgvef4f) -  (5 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [ahmetb/gen-crd-api-reference-docs](https://github.com/ahmetb/gen-crd-api-reference-docs) - API Reference Docs generator for Kubernetes CRDs (used by Knative, Kubeflow and others) (1 week ago)
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.142.2](https://github.com/renovatebot/renovate/releases/tag/38.142.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.56](https://github.com/kubeshop/testkube/releases/tag/v2.1.56), 3 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.21.0](https://github.com/onsi/ginkgo/releases/tag/v2.21.0), 4 days ago) - A Modern Testing Framework for Go
-- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.13.1](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.13.1), 4 days ago) - Utility package to build exporters
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v2.4.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.142.3](https://github.com/renovatebot/renovate/releases/tag/38.142.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.56](https://github.com/kubeshop/testkube/releases/tag/v2.1.56), 4 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.21.0](https://github.com/onsi/ginkgo/releases/tag/v2.21.0), 5 days ago) - A Modern Testing Framework for Go
+- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.13.1](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.13.1), 5 days ago) - Utility package to build exporters
 
 #### 🔨 My recent Pull Requests
 
-- [Create eslint.yml](https://github.com/lucacome/docker-image-update-checker/pull/84) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 days ago)
-- [update readme](https://github.com/Wilcolab/Anythink-Market-otlmupka/pull/14) on [Wilcolab/Anythink-Market-otlmupka](https://github.com/Wilcolab/Anythink-Market-otlmupka) (3 days ago)
-- [migrations](https://github.com/Wilcolab/Anythink-Market-otlmupka/pull/13) on [Wilcolab/Anythink-Market-otlmupka](https://github.com/Wilcolab/Anythink-Market-otlmupka) (3 days ago)
-- [node](https://github.com/Wilcolab/Anythink-Market-otlmupka/pull/12) on [Wilcolab/Anythink-Market-otlmupka](https://github.com/Wilcolab/Anythink-Market-otlmupka) (3 days ago)
-- [test](https://github.com/Wilcolab/Anythink-Market-otlmupka/pull/11) on [Wilcolab/Anythink-Market-otlmupka](https://github.com/Wilcolab/Anythink-Market-otlmupka) (3 days ago)
+- [Create eslint.yml](https://github.com/lucacome/docker-image-update-checker/pull/84) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (3 days ago)
+- [update readme](https://github.com/Wilcolab/Anythink-Market-otlmupka/pull/14) on [Wilcolab/Anythink-Market-otlmupka](https://github.com/Wilcolab/Anythink-Market-otlmupka) (4 days ago)
+- [migrations](https://github.com/Wilcolab/Anythink-Market-otlmupka/pull/13) on [Wilcolab/Anythink-Market-otlmupka](https://github.com/Wilcolab/Anythink-Market-otlmupka) (4 days ago)
+- [node](https://github.com/Wilcolab/Anythink-Market-otlmupka/pull/12) on [Wilcolab/Anythink-Market-otlmupka](https://github.com/Wilcolab/Anythink-Market-otlmupka) (4 days ago)
+- [test](https://github.com/Wilcolab/Anythink-Market-otlmupka/pull/11) on [Wilcolab/Anythink-Market-otlmupka](https://github.com/Wilcolab/Anythink-Market-otlmupka) (4 days ago)
 
 #### ⭐ Recent Stars
 
