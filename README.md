@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.26.3](https://github.com/renovatebot/renovate/releases/tag/39.26.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.4.8](https://github.com/goreleaser/goreleaser/releases/tag/v2.4.8), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.70](https://github.com/kubeshop/testkube/releases/tag/v2.1.70), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v5.3.0](https://github.com/anchore/scan-action/releases/tag/v5.3.0), 2 days ago) - Anchore container analysis and scan provided as a GitHub Action
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.19.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.19.2), 2 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.26.3](https://github.com/renovatebot/renovate/releases/tag/39.26.3), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.4.8](https://github.com/goreleaser/goreleaser/releases/tag/v2.4.8), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.70](https://github.com/kubeshop/testkube/releases/tag/v2.1.70), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v5.3.0](https://github.com/anchore/scan-action/releases/tag/v5.3.0), 3 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.19.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.19.2), 3 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 
 #### 🔨 My recent Pull Requests
 
