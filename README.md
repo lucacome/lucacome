@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.26.3](https://github.com/renovatebot/renovate/releases/tag/39.26.3), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.4.8](https://github.com/goreleaser/goreleaser/releases/tag/v2.4.8), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.70](https://github.com/kubeshop/testkube/releases/tag/v2.1.70), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v5.3.0](https://github.com/anchore/scan-action/releases/tag/v5.3.0), 3 days ago) - Anchore container analysis and scan provided as a GitHub Action
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.19.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.19.2), 3 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.28.0](https://github.com/renovatebot/renovate/releases/tag/39.28.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.4.8](https://github.com/goreleaser/goreleaser/releases/tag/v2.4.8), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.70](https://github.com/kubeshop/testkube/releases/tag/v2.1.70), 3 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v5.3.0](https://github.com/anchore/scan-action/releases/tag/v5.3.0), 4 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.19.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.19.2), 4 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 
 #### 🔨 My recent Pull Requests
 
@@ -35,7 +35,7 @@
 #### ⭐ Recent Stars
 
 - [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (2 weeks ago)
-- [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (2 weeks ago)
+- [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (3 weeks ago)
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (1 month ago)
 - [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (2 months ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (3 months ago)
