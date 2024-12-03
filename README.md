@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (3 days ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (6 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 day ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 week ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 weeks ago)
 - [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (3 weeks ago)
 - [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (3 weeks ago)
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.42.4](https://github.com/renovatebot/renovate/releases/tag/39.42.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.71](https://github.com/kubeshop/testkube/releases/tag/v2.1.71), 4 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v5.3.0](https://github.com/anchore/scan-action/releases/tag/v5.3.0), 1 week ago) - Anchore container analysis and scan provided as a GitHub Action
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.19.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.19.2), 1 week ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.45.2](https://github.com/renovatebot/renovate/releases/tag/39.45.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.38.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.38.0), 1 day ago) - NGINX plugin for OpenTracing
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.19.3](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.19.3), 1 day ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.72](https://github.com/kubeshop/testkube/releases/tag/v2.1.72), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 My recent Pull Requests
 
-- [Build modules for NGINX 1.27.3](https://github.com/opentracing-contrib/nginx-opentracing/pull/741) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (4 days ago)
-- [Remove dependabot](https://github.com/opentracing-contrib/nginx-opentracing/pull/740) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (4 days ago)
+- [Build modules for NGINX 1.27.3](https://github.com/opentracing-contrib/nginx-opentracing/pull/741) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (5 days ago)
+- [Remove dependabot](https://github.com/opentracing-contrib/nginx-opentracing/pull/740) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (5 days ago)
 - [Add golangci-lint and fix problems](https://github.com/opentracing-contrib/go-stdlib/pull/75) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (3 weeks ago)
 - [Add common workflows and files](https://github.com/opentracing-contrib/go-stdlib/pull/74) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (3 weeks ago)
 - [Create dependency-review.yml](https://github.com/opentracing-contrib/go-grpc/pull/28) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (3 weeks ago)
