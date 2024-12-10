@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (5 days ago)
-- [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) - AMQP instrumentation in Go (6 days ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (6 days ago)
-- [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) - Integration with go.uber.org/zap (6 days ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
+- [opentracing-contrib/go-aws-sdk](https://github.com/opentracing-contrib/go-aws-sdk) - OpenTracing support for AWS SDK in Go (1 day ago)
+- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (6 days ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
+- [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) - Integration with go.uber.org/zap (1 week ago)
+- [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) - AMQP instrumentation in Go (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.57.4](https://github.com/renovatebot/renovate/releases/tag/39.57.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([18.4.0-beta.5](https://github.com/atuinsh/atuin/releases/tag/18.4.0-beta.5), 4 days ago) - ✨ Magical shell history
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [prometheus/common](https://github.com/prometheus/common) ([v0.61.0](https://github.com/prometheus/common/releases/tag/v0.61.0), 5 days ago) - Go libraries shared across Prometheus components and libraries.
-- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) ([v1.4.0](https://github.com/nginxinc/nginx-prometheus-exporter/releases/tag/v1.4.0), 5 days ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.60.0](https://github.com/renovatebot/renovate/releases/tag/39.60.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.73](https://github.com/kubeshop/testkube/releases/tag/v2.1.73), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([18.4.0-beta.5](https://github.com/atuinsh/atuin/releases/tag/18.4.0-beta.5), 5 days ago) - ✨ Magical shell history
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [prometheus/common](https://github.com/prometheus/common) ([v0.61.0](https://github.com/prometheus/common/releases/tag/v0.61.0), 6 days ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
-- [Add common workflows and files](https://github.com/opentracing-contrib/go-zap/pull/10) on [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) (5 days ago)
-- [Add golangci-lint](https://github.com/opentracing-contrib/go-zap/pull/9) on [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) (5 days ago)
-- [Add go.mod](https://github.com/opentracing-contrib/go-zap/pull/8) on [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) (5 days ago)
-- [Add common workflows and files](https://github.com/opentracing-contrib/go-amqp/pull/8) on [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) (5 days ago)
-- [Add go.mod](https://github.com/opentracing-contrib/go-amqp/pull/7) on [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) (5 days ago)
+- [Add common workflows and files](https://github.com/opentracing-contrib/go-zap/pull/10) on [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) (6 days ago)
+- [Add golangci-lint](https://github.com/opentracing-contrib/go-zap/pull/9) on [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) (6 days ago)
+- [Add go.mod](https://github.com/opentracing-contrib/go-zap/pull/8) on [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) (6 days ago)
+- [Add common workflows and files](https://github.com/opentracing-contrib/go-amqp/pull/8) on [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) (6 days ago)
+- [Add go.mod](https://github.com/opentracing-contrib/go-amqp/pull/7) on [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) (6 days ago)
 
 #### ⭐ Recent Stars
 
