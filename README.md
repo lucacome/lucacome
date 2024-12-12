@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/go-aws-sdk](https://github.com/opentracing-contrib/go-aws-sdk) - OpenTracing support for AWS SDK in Go (2 days ago)
+- [opentracing-contrib/go-aws-sdk](https://github.com/opentracing-contrib/go-aws-sdk) - OpenTracing support for AWS SDK in Go (3 days ago)
 - [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (1 week ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) - Integration with go.uber.org/zap (1 week ago)
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.62.0](https://github.com/renovatebot/renovate/releases/tag/39.62.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.74](https://github.com/kubeshop/testkube/releases/tag/v2.1.74), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([18.4.0-beta.5](https://github.com/atuinsh/atuin/releases/tag/18.4.0-beta.5), 6 days ago) - ✨ Magical shell history
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.62.6](https://github.com/renovatebot/renovate/releases/tag/39.62.6), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.74](https://github.com/kubeshop/testkube/releases/tag/v2.1.74), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([18.4.0-beta.5](https://github.com/atuinsh/atuin/releases/tag/18.4.0-beta.5), 1 week ago) - ✨ Magical shell history
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [prometheus/common](https://github.com/prometheus/common) ([v0.61.0](https://github.com/prometheus/common/releases/tag/v0.61.0), 1 week ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
