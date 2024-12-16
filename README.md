@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (2 days ago)
-- [opentracing-contrib/go-aws-sdk](https://github.com/opentracing-contrib/go-aws-sdk) - OpenTracing support for AWS SDK in Go (6 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (3 days ago)
+- [opentracing-contrib/go-aws-sdk](https://github.com/opentracing-contrib/go-aws-sdk) - OpenTracing support for AWS SDK in Go (1 week ago)
 - [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (1 week ago)
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) - Integration with go.uber.org/zap (1 week ago)
 - [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) - AMQP instrumentation in Go (1 week ago)
@@ -18,17 +18,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.69.1](https://github.com/renovatebot/renovate/releases/tag/39.69.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.0.0](https://github.com/anchore/scan-action/releases/tag/v6.0.0), 2 days ago) - Anchore container analysis and scan provided as a GitHub Action
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.75](https://github.com/kubeshop/testkube/releases/tag/v2.1.75), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.13.2](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.13.2), 2 days ago) - Utility package to build exporters
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.69.2](https://github.com/renovatebot/renovate/releases/tag/39.69.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.0.0](https://github.com/anchore/scan-action/releases/tag/v6.0.0), 3 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.75](https://github.com/kubeshop/testkube/releases/tag/v2.1.75), 3 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.13.2](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.13.2), 3 days ago) - Utility package to build exporters
 
 #### 🔨 My recent Pull Requests
 
-- [Fix search and replace for imagePullPolicy (#2889)](https://github.com/nginxinc/nginx-gateway-fabric/pull/2909) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
-- [Use OpenTofu to create GCP infrastructure](https://github.com/nginxinc/nginx-gateway-fabric/pull/2898) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
-- [Fix search and replace for imagePullPolicy](https://github.com/nginxinc/nginx-gateway-fabric/pull/2889) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
+- [Fix search and replace for imagePullPolicy (#2889)](https://github.com/nginxinc/nginx-gateway-fabric/pull/2909) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
+- [Use OpenTofu to create GCP infrastructure](https://github.com/nginxinc/nginx-gateway-fabric/pull/2898) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
+- [Fix search and replace for imagePullPolicy](https://github.com/nginxinc/nginx-gateway-fabric/pull/2889) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (4 days ago)
 - [Add common workflows and files](https://github.com/opentracing-contrib/go-zap/pull/10) on [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) (1 week ago)
 - [Add golangci-lint](https://github.com/opentracing-contrib/go-zap/pull/9) on [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) (1 week ago)
 
