@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (3 days ago)
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
+- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (1 day ago)
 - [opentracing-contrib/go-aws-sdk](https://github.com/opentracing-contrib/go-aws-sdk) - OpenTracing support for AWS SDK in Go (1 week ago)
 - [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (2 weeks ago)
-- [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) - Integration with go.uber.org/zap (2 weeks ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 weeks ago)
+- [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) - AMQP instrumentation in Go (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.74.1](https://github.com/renovatebot/renovate/releases/tag/39.74.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta013](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta013), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [nginxinc/nginx-ingress-helm-operator](https://github.com/nginxinc/nginx-ingress-helm-operator) ([v3.0.0](https://github.com/nginxinc/nginx-ingress-helm-operator/releases/tag/v3.0.0), 2 days ago) - NGINX Ingress Operator for NGINX and NGINX Plus Ingress Controllers. Based on the Helm chart for NGINX Ingress Controller - https://github.com/nginxinc/helm-charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.5.0), 3 days ago) - Release engineering, simplified
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.0.0](https://github.com/anchore/scan-action/releases/tag/v6.0.0), 6 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.22.1](https://github.com/onsi/ginkgo/releases/tag/v2.22.1), today) - A Modern Testing Framework for Go
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.75.1](https://github.com/renovatebot/renovate/releases/tag/39.75.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.81](https://github.com/kubeshop/testkube/releases/tag/v2.1.81), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [nginxinc/nginx-ingress-helm-operator](https://github.com/nginxinc/nginx-ingress-helm-operator) ([v3.0.0](https://github.com/nginxinc/nginx-ingress-helm-operator/releases/tag/v3.0.0), 3 days ago) - NGINX Ingress Operator for NGINX and NGINX Plus Ingress Controllers. Based on the Helm chart for NGINX Ingress Controller - https://github.com/nginxinc/helm-charts
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) ([v1.5.1](https://github.com/nginxinc/nginx-gateway-fabric/releases/tag/v1.5.1), 4 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
 #### 🔨 My recent Pull Requests
 
-- [Add missing variable in NFR script](https://github.com/nginxinc/nginx-gateway-fabric/pull/2927) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
-- [Update version in docker pull](https://github.com/nginxinc/nginx-gateway-fabric/pull/2919) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
-- [Update main with 1.5.1](https://github.com/nginxinc/nginx-gateway-fabric/pull/2918) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
-- [Update to 1.5.1 in missed files](https://github.com/nginxinc/nginx-gateway-fabric/pull/2917) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
-- [Add PLUS_USAGE_ENDPOINT to NFR tests](https://github.com/nginxinc/nginx-gateway-fabric/pull/2916) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (3 days ago)
+- [Fix conformance profile upload](https://github.com/nginxinc/nginx-gateway-fabric/pull/2932) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Update dependency-review-config.yml](https://github.com/nginxinc/k8s-common/pull/55) on [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) (1 day ago)
+- [Skip CI run on docs changes](https://github.com/nginxinc/nginx-gateway-fabric/pull/2931) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (1 day ago)
+- [Add missing variable in NFR script](https://github.com/nginxinc/nginx-gateway-fabric/pull/2927) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (2 days ago)
+- [Update version in docker pull](https://github.com/nginxinc/nginx-gateway-fabric/pull/2919) on [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) (4 days ago)
 
 #### ⭐ Recent Stars
 
