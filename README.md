@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.83.2](https://github.com/renovatebot/renovate/releases/tag/39.83.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.83](https://github.com/kubeshop/testkube/releases/tag/v2.1.83), 4 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.83.4](https://github.com/renovatebot/renovate/releases/tag/39.83.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.4.0](https://github.com/atuinsh/atuin/releases/tag/v18.4.0), 1 day ago) - ✨ Magical shell history
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.83](https://github.com/kubeshop/testkube/releases/tag/v2.1.83), 5 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.22.1](https://github.com/onsi/ginkgo/releases/tag/v2.22.1), 1 week ago) - A Modern Testing Framework for Go
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) ([v1.5.1](https://github.com/nginxinc/nginx-gateway-fabric/releases/tag/v1.5.1), 1 week ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.0.0](https://github.com/anchore/scan-action/releases/tag/v6.0.0), 2 weeks ago) - Anchore container analysis and scan provided as a GitHub Action
 
 #### 🔨 My recent Pull Requests
 
