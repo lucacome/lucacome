@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (5 days ago)
-- [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) - Docker containers used by the KIC team (5 days ago)
+- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (6 days ago)
+- [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) - Docker containers used by the KIC team (6 days ago)
 - [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (2 weeks ago)
-- [opentracing-contrib/go-aws-sdk](https://github.com/opentracing-contrib/go-aws-sdk) - OpenTracing support for AWS SDK in Go (4 weeks ago)
+- [opentracing-contrib/go-aws-sdk](https://github.com/opentracing-contrib/go-aws-sdk) - OpenTracing support for AWS SDK in Go (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.3.2](https://github.com/tynany/frr_exporter/releases/tag/v1.3.2), 1 day ago) - Prometheus exporter for Free Range Routing
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.91.3](https://github.com/renovatebot/renovate/releases/tag/39.91.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) ([v0.2.4](https://github.com/nginxinc/kic-test-containers/releases/tag/v0.2.4), 4 days ago) - Docker containers used by the KIC team
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.7](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.7), 4 days ago) - Publish Docker images to AWS Marketplace
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.22.2](https://github.com/onsi/ginkgo/releases/tag/v2.22.2), 1 week ago) - A Modern Testing Framework for Go
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.93.0](https://github.com/renovatebot/renovate/releases/tag/39.93.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.19.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.19.4), 1 day ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.3.2](https://github.com/tynany/frr_exporter/releases/tag/v1.3.2), 2 days ago) - Prometheus exporter for Free Range Routing
+- [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) ([v0.2.4](https://github.com/nginxinc/kic-test-containers/releases/tag/v0.2.4), 5 days ago) - Docker containers used by the KIC team
+- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.7](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.7), 5 days ago) - Publish Docker images to AWS Marketplace
 
 #### 🔨 My recent Pull Requests
 
-- [Update references to new repo](https://github.com/nginx/nginx-gateway-fabric/pull/2983) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 day ago)
-- [Update shfmt](https://github.com/nginx/nginx-gateway-fabric/pull/2974) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (3 days ago)
-- [Check if tag directly](https://github.com/nginxinc/kic-test-containers/pull/127) on [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) (4 days ago)
+- [Update references to new repo (2)](https://github.com/nginx/nginx-gateway-fabric/pull/2985) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 day ago)
+- [Update references to new repo](https://github.com/nginx/nginx-gateway-fabric/pull/2983) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (2 days ago)
+- [Update shfmt](https://github.com/nginx/nginx-gateway-fabric/pull/2974) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (4 days ago)
+- [Check if tag directly](https://github.com/nginxinc/kic-test-containers/pull/127) on [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) (5 days ago)
 - [Fix conformance profile upload](https://github.com/nginx/nginx-gateway-fabric/pull/2932) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (2 weeks ago)
-- [Update dependency-review-config.yml](https://github.com/nginxinc/k8s-common/pull/55) on [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
