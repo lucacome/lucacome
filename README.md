@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (1 week ago)
-- [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) - Docker containers used by the KIC team (1 week ago)
-- [nginxinc/k8s-common](https://github.com/nginxinc/k8s-common) -  (3 weeks ago)
-- [opentracing-contrib/go-aws-sdk](https://github.com/opentracing-contrib/go-aws-sdk) - OpenTracing support for AWS SDK in Go (1 month ago)
+- [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus (1 day ago)
+- [nginx/nur](https://github.com/nginx/nur) -  (1 day ago)
+- [nginx/k8s-common](https://github.com/nginx/k8s-common) -  (1 day ago)
+- [nginx/nginx-plus-go-client](https://github.com/nginx/nginx-plus-go-client) - A client for NGINX Plus API for Go (1 day ago)
+- [nginx/alpine-fips](https://github.com/nginx/alpine-fips) - Alpine Linux with FIPS OpenSSL module (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.96.2](https://github.com/renovatebot/renovate/releases/tag/39.96.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.19.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.19.4), 2 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.3.2](https://github.com/tynany/frr_exporter/releases/tag/v1.3.2), 3 days ago) - Prometheus exporter for Free Range Routing
-- [nginxinc/kic-test-containers](https://github.com/nginxinc/kic-test-containers) ([v0.2.4](https://github.com/nginxinc/kic-test-containers/releases/tag/v0.2.4), 6 days ago) - Docker containers used by the KIC team
-- [nginxinc/aws-marketplace-publish](https://github.com/nginxinc/aws-marketplace-publish) ([v1.0.7](https://github.com/nginxinc/aws-marketplace-publish/releases/tag/v1.0.7), 6 days ago) - Publish Docker images to AWS Marketplace
+- [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.4.1](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.4.1), today) - NGINX Prometheus Exporter for NGINX and NGINX Plus
+- [nginx/nginx-plus-go-client](https://github.com/nginx/nginx-plus-go-client) ([v2.2.0](https://github.com/nginx/nginx-plus-go-client/releases/tag/v2.2.0), 1 day ago) - A client for NGINX Plus API for Go
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.99.0](https://github.com/renovatebot/renovate/releases/tag/39.99.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.84](https://github.com/kubeshop/testkube/releases/tag/v2.1.84), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.19.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.19.4), 3 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 
 #### 🔨 My recent Pull Requests
 
-- [Update from nginxinc to nginx](https://github.com/nginx/nginx-plus-go-client/pull/437) on [nginx/nginx-plus-go-client](https://github.com/nginx/nginx-plus-go-client) (today)
-- [Change Plus runner name](https://github.com/nginx/nginx-gateway-fabric/pull/2989) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 day ago)
-- [Change Plus runner name](https://github.com/nginx/nginx-gateway-fabric/pull/2988) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 day ago)
-- [Update references to new repo (2)](https://github.com/nginx/nginx-gateway-fabric/pull/2985) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (2 days ago)
-- [Update references to new repo](https://github.com/nginx/nginx-gateway-fabric/pull/2983) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (3 days ago)
+- [Update from nginxinc to nginx](https://github.com/nginx/alpine-fips/pull/178) on [nginx/alpine-fips](https://github.com/nginx/alpine-fips) (1 day ago)
+- [Update from nginxinc to nginx](https://github.com/nginx/nginx-asg-sync/pull/876) on [nginx/nginx-asg-sync](https://github.com/nginx/nginx-asg-sync) (1 day ago)
+- [Update from nginxinc to nginx](https://github.com/nginx/nginx-prometheus-exporter/pull/943) on [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) (1 day ago)
+- [Update from nginxinc to nginx](https://github.com/nginx/nginx-plus-go-client/pull/437) on [nginx/nginx-plus-go-client](https://github.com/nginx/nginx-plus-go-client) (1 day ago)
+- [Change Plus runner name](https://github.com/nginx/nginx-gateway-fabric/pull/2989) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (2 days ago)
 
 #### ⭐ Recent Stars
 
