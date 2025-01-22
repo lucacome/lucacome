@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginx/kubernetes-ingress](https://github.com/nginx/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes (1 week ago)
 - [nginx/nginx-asg-sync](https://github.com/nginx/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (1 week ago)
+- [nginx/kubernetes-ingress](https://github.com/nginx/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes (1 week ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 week ago)
 - [nginx/kic-test-containers](https://github.com/nginx/kic-test-containers) - Docker containers used by the KIC team (1 week ago)
-- [nginx/telemetry-exporter](https://github.com/nginx/telemetry-exporter) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.118.2](https://github.com/renovatebot/renovate/releases/tag/39.118.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.86](https://github.com/kubeshop/testkube/releases/tag/v2.1.86), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.3.3](https://github.com/tynany/frr_exporter/releases/tag/v1.3.3), 3 days ago) - Prometheus exporter for Free Range Routing
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.0](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.0), 5 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.120.3](https://github.com/renovatebot/renovate/releases/tag/39.120.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.86](https://github.com/kubeshop/testkube/releases/tag/v2.1.86), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.3.3](https://github.com/tynany/frr_exporter/releases/tag/v1.3.3), 4 days ago) - Prometheus exporter for Free Range Routing
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.0](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.0), 6 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [nginx/nginx-asg-sync](https://github.com/nginx/nginx-asg-sync) ([v1.0.1](https://github.com/nginx/nginx-asg-sync/releases/tag/v1.0.1), 1 week ago) - NGINX Plus Integration with Cloud Autoscaling 
 
 #### 🔨 My recent Pull Requests
