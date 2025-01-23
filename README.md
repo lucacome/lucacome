@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (2 days ago)
+- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (2 days ago)
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (2 days ago)
 - [nginx/nginx-asg-sync](https://github.com/nginx/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (1 week ago)
 - [nginx/kubernetes-ingress](https://github.com/nginx/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes (1 week ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 week ago)
-- [nginx/kic-test-containers](https://github.com/nginx/kic-test-containers) - Docker containers used by the KIC team (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.120.3](https://github.com/renovatebot/renovate/releases/tag/39.120.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.86](https://github.com/kubeshop/testkube/releases/tag/v2.1.86), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.3.3](https://github.com/tynany/frr_exporter/releases/tag/v1.3.3), 4 days ago) - Prometheus exporter for Free Range Routing
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.0](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.0), 6 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [nginx/nginx-asg-sync](https://github.com/nginx/nginx-asg-sync) ([v1.0.1](https://github.com/nginx/nginx-asg-sync/releases/tag/v1.0.1), 1 week ago) - NGINX Plus Integration with Cloud Autoscaling 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.124.0](https://github.com/renovatebot/renovate/releases/tag/39.124.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.88](https://github.com/kubeshop/testkube/releases/tag/v2.1.88), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.1](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.1), 1 day ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
+- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.3.3](https://github.com/tynany/frr_exporter/releases/tag/v1.3.3), 5 days ago) - Prometheus exporter for Free Range Routing
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.0](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.0), 1 week ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 
 #### 🔨 My recent Pull Requests
 
+- [Update go to 1.22](https://github.com/opentracing-contrib/echo/pull/12) on [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) (1 day ago)
+- [Add common workflows and files](https://github.com/opentracing-contrib/echo/pull/7) on [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) (1 day ago)
+- [Add common workflows and files](https://github.com/opentracing-contrib/go-aws-sdk/pull/11) on [opentracing-contrib/go-aws-sdk](https://github.com/opentracing-contrib/go-aws-sdk) (1 day ago)
+- [Run tests for oldstable](https://github.com/opentracing-contrib/go-grpc/pull/35) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (1 day ago)
 - [Update from nginxinc to nginx (3) (#3000)](https://github.com/nginx/nginx-gateway-fabric/pull/3012) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 week ago)
-- [Update from nginxinc to nginx (3)](https://github.com/nginx/nginx-gateway-fabric/pull/3000) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 week ago)
-- [Update from nginxinc to nginx](https://github.com/nginx/kic-test-containers/pull/132) on [nginx/kic-test-containers](https://github.com/nginx/kic-test-containers) (1 week ago)
-- [Update from nginxinc to nginx](https://github.com/nginx/kubernetes-ingress/pull/7103) on [nginx/kubernetes-ingress](https://github.com/nginx/kubernetes-ingress) (1 week ago)
-- [Use NGINX bot to commit](https://github.com/nginx/telemetry-exporter/pull/335) on [nginx/telemetry-exporter](https://github.com/nginx/telemetry-exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
