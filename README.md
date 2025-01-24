@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (2 days ago)
-- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (2 days ago)
-- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (2 days ago)
+- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (3 days ago)
+- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (3 days ago)
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (3 days ago)
 - [nginx/nginx-asg-sync](https://github.com/nginx/nginx-asg-sync) - NGINX Plus Integration with Cloud Autoscaling  (1 week ago)
 - [nginx/kubernetes-ingress](https://github.com/nginx/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes (1 week ago)
 
@@ -18,18 +18,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.124.0](https://github.com/renovatebot/renovate/releases/tag/39.124.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.88](https://github.com/kubeshop/testkube/releases/tag/v2.1.88), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.1](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.1), 1 day ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
-- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.3.3](https://github.com/tynany/frr_exporter/releases/tag/v1.3.3), 5 days ago) - Prometheus exporter for Free Range Routing
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.0](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.0), 1 week ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.126.1](https://github.com/renovatebot/renovate/releases/tag/39.126.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.1.0](https://github.com/anchore/scan-action/releases/tag/v6.1.0), 1 day ago) - Anchore container analysis and scan provided as a GitHub Action
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.1](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.1), 1 day ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.88](https://github.com/kubeshop/testkube/releases/tag/v2.1.88), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.1](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.1), 2 days ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
 
 #### 🔨 My recent Pull Requests
 
-- [Update go to 1.22](https://github.com/opentracing-contrib/echo/pull/12) on [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) (1 day ago)
-- [Add common workflows and files](https://github.com/opentracing-contrib/echo/pull/7) on [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) (1 day ago)
-- [Add common workflows and files](https://github.com/opentracing-contrib/go-aws-sdk/pull/11) on [opentracing-contrib/go-aws-sdk](https://github.com/opentracing-contrib/go-aws-sdk) (1 day ago)
-- [Run tests for oldstable](https://github.com/opentracing-contrib/go-grpc/pull/35) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (1 day ago)
+- [Update go to 1.22](https://github.com/opentracing-contrib/echo/pull/12) on [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) (2 days ago)
+- [Add common workflows and files](https://github.com/opentracing-contrib/echo/pull/7) on [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) (2 days ago)
+- [Add common workflows and files](https://github.com/opentracing-contrib/go-aws-sdk/pull/11) on [opentracing-contrib/go-aws-sdk](https://github.com/opentracing-contrib/go-aws-sdk) (2 days ago)
+- [Run tests for oldstable](https://github.com/opentracing-contrib/go-grpc/pull/35) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (2 days ago)
 - [Update from nginxinc to nginx (3) (#3000)](https://github.com/nginx/nginx-gateway-fabric/pull/3012) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 week ago)
 
 #### ⭐ Recent Stars
