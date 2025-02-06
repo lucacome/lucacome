@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginx/aws-marketplace-publish](https://github.com/nginx/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (1 day ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 week ago)
+- [nginx/aws-marketplace-publish](https://github.com/nginx/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (2 days ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
-- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (2 weeks ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 week ago)
 - [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (2 weeks ago)
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.160.1](https://github.com/renovatebot/renovate/releases/tag/39.160.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.161.4](https://github.com/renovatebot/renovate/releases/tag/39.161.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta019](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta019), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.4.0](https://github.com/tynany/frr_exporter/releases/tag/v1.4.0), 1 week ago) - Prometheus exporter for Free Range Routing
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.1.0](https://github.com/anchore/scan-action/releases/tag/v6.1.0), 1 week ago) - Anchore container analysis and scan provided as a GitHub Action
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.1](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.1), 1 week ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.88](https://github.com/kubeshop/testkube/releases/tag/v2.1.88), 2 weeks ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.1.0](https://github.com/anchore/scan-action/releases/tag/v6.1.0), 2 weeks ago) - Anchore container analysis and scan provided as a GitHub Action
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.1](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.1), 2 weeks ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 
 #### 🔨 My recent Pull Requests
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (2 months ago)
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (3 months ago)
 - [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (3 months ago)
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (4 months ago)
 - [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (5 months ago)
