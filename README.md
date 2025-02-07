@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nginx/aws-marketplace-publish](https://github.com/nginx/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (2 days ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 day ago)
+- [nginx/aws-marketplace-publish](https://github.com/nginx/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (3 days ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 week ago)
-- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (2 weeks ago)
-- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (2 weeks ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
+- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.161.4](https://github.com/renovatebot/renovate/releases/tag/39.161.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta019](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta019), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v1.6.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v1.6.1), today) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.162.1](https://github.com/renovatebot/renovate/releases/tag/39.162.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.14.0](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.14.0), 1 day ago) - Utility package to build exporters
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta019](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta019), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.4.0](https://github.com/tynany/frr_exporter/releases/tag/v1.4.0), 1 week ago) - Prometheus exporter for Free Range Routing
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.1.0](https://github.com/anchore/scan-action/releases/tag/v6.1.0), 2 weeks ago) - Anchore container analysis and scan provided as a GitHub Action
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.1](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.1), 2 weeks ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 
 #### 🔨 My recent Pull Requests
 
-- [Update go to 1.22](https://github.com/opentracing-contrib/echo/pull/12) on [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) (2 weeks ago)
-- [Add common workflows and files](https://github.com/opentracing-contrib/echo/pull/7) on [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) (2 weeks ago)
-- [Add common workflows and files](https://github.com/opentracing-contrib/go-aws-sdk/pull/11) on [opentracing-contrib/go-aws-sdk](https://github.com/opentracing-contrib/go-aws-sdk) (2 weeks ago)
-- [Run tests for oldstable](https://github.com/opentracing-contrib/go-grpc/pull/35) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (2 weeks ago)
-- [Update from nginxinc to nginx (3) (#3000)](https://github.com/nginx/nginx-gateway-fabric/pull/3012) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (3 weeks ago)
+- [Remove announce for slack (#3104)](https://github.com/nginx/nginx-gateway-fabric/pull/3105) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 day ago)
+- [Remove announce for slack](https://github.com/nginx/nginx-gateway-fabric/pull/3104) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 day ago)
+- [Release NGF 1.6.1](https://github.com/nginx/documentation/pull/172) on [nginx/documentation](https://github.com/nginx/documentation) (1 day ago)
+- [Update nginx Docker tag to v1.27.4 (#3099)](https://github.com/nginx/nginx-gateway-fabric/pull/3102) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 day ago)
+- [Build packages for s390x](https://github.com/lucacome/nginx-ubi/pull/201) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 day ago)
 
 #### ⭐ Recent Stars
 
