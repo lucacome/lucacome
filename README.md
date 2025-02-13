@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 days ago)
-- [nginx/documentation](https://github.com/nginx/documentation) - Public source for docs.nginx.com (5 days ago)
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (6 days ago)
+- [nginx/documentation](https://github.com/nginx/documentation) - Public source for docs.nginx.com (6 days ago)
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 week ago)
 - [nginx/aws-marketplace-publish](https://github.com/nginx/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (1 week ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 weeks ago)
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.166.0](https://github.com/renovatebot/renovate/releases/tag/39.166.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v1.6.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v1.6.1), 5 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.14.0](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.14.0), 6 days ago) - Utility package to build exporters
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.169.2](https://github.com/renovatebot/renovate/releases/tag/39.169.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v1.6.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v1.6.1), 6 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.14.0](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.14.0), 1 week ago) - Utility package to build exporters
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta019](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta019), 1 week ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.4.0](https://github.com/tynany/frr_exporter/releases/tag/v1.4.0), 2 weeks ago) - Prometheus exporter for Free Range Routing
 
 #### 🔨 My recent Pull Requests
 
-- [Remove announce for slack (#3104)](https://github.com/nginx/nginx-gateway-fabric/pull/3105) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (6 days ago)
-- [Remove announce for slack](https://github.com/nginx/nginx-gateway-fabric/pull/3104) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (6 days ago)
-- [Release NGF 1.6.1](https://github.com/nginx/documentation/pull/172) on [nginx/documentation](https://github.com/nginx/documentation) (6 days ago)
-- [Update nginx Docker tag to v1.27.4 (#3099)](https://github.com/nginx/nginx-gateway-fabric/pull/3102) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (6 days ago)
-- [Build packages for s390x](https://github.com/lucacome/nginx-ubi/pull/201) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (6 days ago)
+- [Remove announce for slack (#3104)](https://github.com/nginx/nginx-gateway-fabric/pull/3105) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 week ago)
+- [Remove announce for slack](https://github.com/nginx/nginx-gateway-fabric/pull/3104) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 week ago)
+- [Release NGF 1.6.1](https://github.com/nginx/documentation/pull/172) on [nginx/documentation](https://github.com/nginx/documentation) (1 week ago)
+- [Update nginx Docker tag to v1.27.4 (#3099)](https://github.com/nginx/nginx-gateway-fabric/pull/3102) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 week ago)
+- [Build packages for s390x](https://github.com/lucacome/nginx-ubi/pull/201) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 week ago)
 
 #### ⭐ Recent Stars
 
