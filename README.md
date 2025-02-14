@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 days ago)
-- [nginx/documentation](https://github.com/nginx/documentation) - Public source for docs.nginx.com (6 days ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (3 days ago)
+- [nginx/documentation](https://github.com/nginx/documentation) - Public source for docs.nginx.com (1 week ago)
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 week ago)
 - [nginx/aws-marketplace-publish](https://github.com/nginx/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (1 week ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 weeks ago)
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.169.2](https://github.com/renovatebot/renovate/releases/tag/39.169.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v1.6.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v1.6.1), 6 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta020](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta020), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.169.3](https://github.com/renovatebot/renovate/releases/tag/39.169.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v1.6.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v1.6.1), 1 week ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.14.0](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.14.0), 1 week ago) - Utility package to build exporters
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta019](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta019), 1 week ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.4.0](https://github.com/tynany/frr_exporter/releases/tag/v1.4.0), 2 weeks ago) - Prometheus exporter for Free Range Routing
 
 #### 🔨 My recent Pull Requests
@@ -42,11 +42,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [kjxai](https://github.com/kjxai)
 - [XiaomingX](https://github.com/XiaomingX)
 - [LinuxJS](https://github.com/LinuxJS)
 - [standardgalactic](https://github.com/standardgalactic)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [reed6868](https://github.com/reed6868)
 
 #### 💬 Feedback
 
