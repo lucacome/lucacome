@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (4 days ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (5 days ago)
 - [nginx/documentation](https://github.com/nginx/documentation) - Public source for docs.nginx.com (1 week ago)
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 week ago)
 - [nginx/aws-marketplace-publish](https://github.com/nginx/aws-marketplace-publish) - Publish Docker images to AWS Marketplace (1 week ago)
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta021](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta021), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.2), 1 day ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.170.1](https://github.com/renovatebot/renovate/releases/tag/39.170.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.170.3](https://github.com/renovatebot/renovate/releases/tag/39.170.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta021](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta021), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.2), 2 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v1.6.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v1.6.1), 1 week ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.14.0](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.14.0), 1 week ago) - Utility package to build exporters
 
