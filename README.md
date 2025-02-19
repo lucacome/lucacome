@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (1 day ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (1 day ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 day ago)
+- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (2 days ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
 - [nginx/documentation](https://github.com/nginx/documentation) - Public source for docs.nginx.com (1 week ago)
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.172.1](https://github.com/renovatebot/renovate/releases/tag/39.172.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta022](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta022), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.2), 4 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v1.6.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v1.6.1), 1 week ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.14.0](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.14.0), 1 week ago) - Utility package to build exporters
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.175.1](https://github.com/renovatebot/renovate/releases/tag/39.175.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.39.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.39.0), 1 day ago) - NGINX plugin for OpenTracing
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta023](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta023), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.2](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.2), 5 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [nginx/kubernetes-ingress](https://github.com/nginx/kubernetes-ingress) ([v4.0.1](https://github.com/nginx/kubernetes-ingress/releases/tag/v4.0.1), 1 week ago) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [Update nginx to 1.27.4](https://github.com/lucacome/nginx-ubi/pull/205) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 day ago)
-- [Replace deprecated imports](https://github.com/rs/curlie/pull/86) on [rs/curlie](https://github.com/rs/curlie) (2 days ago)
-- [Update Go version and GoReleaser](https://github.com/rs/curlie/pull/85) on [rs/curlie](https://github.com/rs/curlie) (2 days ago)
+- [Build modules for NGINX 1.27.4 and 1.26.3](https://github.com/opentracing-contrib/nginx-opentracing/pull/794) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
+- [Update nginx to 1.27.4](https://github.com/lucacome/nginx-ubi/pull/205) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (2 days ago)
+- [Replace deprecated imports](https://github.com/rs/curlie/pull/86) on [rs/curlie](https://github.com/rs/curlie) (3 days ago)
+- [Update Go version and GoReleaser](https://github.com/rs/curlie/pull/85) on [rs/curlie](https://github.com/rs/curlie) (3 days ago)
 - [Remove announce for slack (#3104)](https://github.com/nginx/nginx-gateway-fabric/pull/3105) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 week ago)
-- [Remove announce for slack](https://github.com/nginx/nginx-gateway-fabric/pull/3104) on [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (2 days ago)
+- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (3 days ago)
 - [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (3 months ago)
 - [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (3 months ago)
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (4 months ago)
