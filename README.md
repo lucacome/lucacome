@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) - AMQP instrumentation in Go (1 day ago)
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere (1 week ago)
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (1 week ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 weeks ago)
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) ([v0.1.0](https://github.com/opentracing-contrib/go-amqp/releases/tag/v0.1.0), today) - AMQP instrumentation in Go
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.114](https://github.com/kubeshop/testkube/releases/tag/v2.1.114), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.200.2](https://github.com/renovatebot/renovate/releases/tag/39.200.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.5.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.5.0-beta.1), 3 days ago) - ✨ Magical shell history
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v1.6.2](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v1.6.2), 3 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.19.7](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.19.7), 6 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 
 #### 🔨 My recent Pull Requests
 
+- [Add golangci-lint](https://github.com/opentracing-contrib/go-amqp/pull/11) on [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) (today)
 - [Update outdated GitHub Actions](https://github.com/brancz/kube-rbac-proxy/pull/362) on [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) (1 week ago)
 - [Add more info about version](https://github.com/cterence/tailout/pull/213) on [cterence/tailout](https://github.com/cterence/tailout) (1 week ago)
 - [Automatically create single-use auth keys](https://github.com/cterence/tailout/pull/212) on [cterence/tailout](https://github.com/cterence/tailout) (1 week ago)
 - [Add e2e to CI and skip run on forks](https://github.com/cterence/tailout/pull/211) on [cterence/tailout](https://github.com/cterence/tailout) (1 week ago)
-- [Add context support](https://github.com/cterence/tailout/pull/203) on [cterence/tailout](https://github.com/cterence/tailout) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -51,6 +51,12 @@
 #### 💬 Feedback
 
 Say Hello, I don't bite!
+
+#### ☕ Buy me a coffee
+
+If you find my work helpful or interesting, consider buying me a coffee!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lucacome)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucacome.visitor-badge)
 #
