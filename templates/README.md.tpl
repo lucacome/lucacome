@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 {{range recentStars 5}}
-- [{{.Repo.Name}}]({{.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
 #### 👯 Check out some of my recent followers
