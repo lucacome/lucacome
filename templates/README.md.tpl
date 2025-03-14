@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 {{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+- [{{.Repo.Name}}]({{.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
 #### 👯 Check out some of my recent followers
@@ -33,6 +33,12 @@
 #### 💬 Feedback
 
 Say Hello, I don't bite!
+
+#### ☕ Buy me a coffee
+
+If you find my work helpful or interesting, consider buying me a coffee!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lucacome)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucacome.visitor-badge)
 #<!--
