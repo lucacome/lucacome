@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) - AMQP instrumentation in Go (1 day ago)
-- [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere (1 week ago)
-- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (1 week ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 weeks ago)
+- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (1 day ago)
+- [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) - AMQP instrumentation in Go (2 days ago)
+- [opentracing-contrib/go-restful](https://github.com/opentracing-contrib/go-restful) - OpenTracing instrumentation for the go-restful framework (2 days ago)
+- [opentracing-contrib/go-gorilla](https://github.com/opentracing-contrib/go-gorilla) - OpenTracing instrumentation for Gorilla framework (github.com/gorilla) (2 days ago)
+- [opentracing-contrib/go-observer](https://github.com/opentracing-contrib/go-observer) - an Observer API for OpenTracing-Go Tracers (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,35 +18,35 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) ([v0.1.0](https://github.com/opentracing-contrib/go-amqp/releases/tag/v0.1.0), today) - AMQP instrumentation in Go
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.114](https://github.com/kubeshop/testkube/releases/tag/v2.1.114), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.200.2](https://github.com/renovatebot/renovate/releases/tag/39.200.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.5.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.5.0-beta.1), 3 days ago) - ✨ Magical shell history
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v1.6.2](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v1.6.2), 3 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) ([v0.1.0](https://github.com/opentracing-contrib/echo/releases/tag/v0.1.0), today) - a middleware for the echov4 web framework to use opentracing
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.202.0](https://github.com/renovatebot/renovate/releases/tag/39.202.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.116](https://github.com/kubeshop/testkube/releases/tag/v2.1.116), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) ([v0.7.0](https://github.com/prometheus-community/systemd_exporter/releases/tag/v0.7.0), 1 day ago) - Exporter for systemd unit metrics
+- [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.2](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.2), 1 day ago) - OpenTracing middleware for gin-gonic
 
 #### 🔨 My recent Pull Requests
 
-- [Add golangci-lint](https://github.com/opentracing-contrib/go-amqp/pull/11) on [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) (today)
-- [Update outdated GitHub Actions](https://github.com/brancz/kube-rbac-proxy/pull/362) on [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) (1 week ago)
-- [Add more info about version](https://github.com/cterence/tailout/pull/213) on [cterence/tailout](https://github.com/cterence/tailout) (1 week ago)
-- [Automatically create single-use auth keys](https://github.com/cterence/tailout/pull/212) on [cterence/tailout](https://github.com/cterence/tailout) (1 week ago)
-- [Add e2e to CI and skip run on forks](https://github.com/cterence/tailout/pull/211) on [cterence/tailout](https://github.com/cterence/tailout) (1 week ago)
+- [Add golangci-lint](https://github.com/opentracing-contrib/echo/pull/14) on [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) (today)
+- [Add go.mod](https://github.com/opentracing-contrib/go-restful/pull/5) on [opentracing-contrib/go-restful](https://github.com/opentracing-contrib/go-restful) (1 day ago)
+- [Add go.mod](https://github.com/opentracing-contrib/go-observer/pull/5) on [opentracing-contrib/go-observer](https://github.com/opentracing-contrib/go-observer) (1 day ago)
+- [Update examples](https://github.com/opentracing-contrib/go-gin/pull/27) on [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) (1 day ago)
+- [Update golang.org/x deps for CVEs](https://github.com/opentracing-contrib/go-gin/pull/26) on [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (1 week ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 weeks ago)
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron (2 weeks ago)
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (2 weeks ago)
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (3 weeks ago)
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [Amirjobi](https://github.com/Amirjobi)
 - [miledxz](https://github.com/miledxz)
 - [cterence](https://github.com/cterence)
 - [kjxai](https://github.com/kjxai)
 - [LinuxJS](https://github.com/LinuxJS)
-- [standardgalactic](https://github.com/standardgalactic)
 
 #### 💬 Feedback
 
