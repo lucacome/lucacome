@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (1 day ago)
-- [opentracing-contrib/go-amqp](https://github.com/opentracing-contrib/go-amqp) - AMQP instrumentation in Go (2 days ago)
-- [opentracing-contrib/go-restful](https://github.com/opentracing-contrib/go-restful) - OpenTracing instrumentation for the go-restful framework (2 days ago)
-- [opentracing-contrib/go-gorilla](https://github.com/opentracing-contrib/go-gorilla) - OpenTracing instrumentation for Gorilla framework (github.com/gorilla) (2 days ago)
-- [opentracing-contrib/go-observer](https://github.com/opentracing-contrib/go-observer) - an Observer API for OpenTracing-Go Tracers (2 days ago)
+- [opentracing-contrib/python-requests](https://github.com/opentracing-contrib/python-requests) - OpenTracing instrumentation for Requests (1 day ago)
+- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (1 day ago)
+- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (2 days ago)
+- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (2 days ago)
+- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) ([v0.1.0](https://github.com/opentracing-contrib/echo/releases/tag/v0.1.0), today) - a middleware for the echov4 web framework to use opentracing
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.202.0](https://github.com/renovatebot/renovate/releases/tag/39.202.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.116](https://github.com/kubeshop/testkube/releases/tag/v2.1.116), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) ([v0.7.0](https://github.com/prometheus-community/systemd_exporter/releases/tag/v0.7.0), 1 day ago) - Exporter for systemd unit metrics
-- [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.2](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.2), 1 day ago) - OpenTracing middleware for gin-gonic
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.203.0](https://github.com/renovatebot/renovate/releases/tag/39.203.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 1 day ago) - a middleware for go-redis/redis to use opentracing
+- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) ([v0.1.0](https://github.com/opentracing-contrib/echo/releases/tag/v0.1.0), 1 day ago) - a middleware for the echov4 web framework to use opentracing
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.116](https://github.com/kubeshop/testkube/releases/tag/v2.1.116), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) ([v0.7.0](https://github.com/prometheus-community/systemd_exporter/releases/tag/v0.7.0), 2 days ago) - Exporter for systemd unit metrics
 
 #### 🔨 My recent Pull Requests
 
-- [Add golangci-lint](https://github.com/opentracing-contrib/echo/pull/14) on [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) (today)
-- [Add go.mod](https://github.com/opentracing-contrib/go-restful/pull/5) on [opentracing-contrib/go-restful](https://github.com/opentracing-contrib/go-restful) (1 day ago)
-- [Add go.mod](https://github.com/opentracing-contrib/go-observer/pull/5) on [opentracing-contrib/go-observer](https://github.com/opentracing-contrib/go-observer) (1 day ago)
-- [Update examples](https://github.com/opentracing-contrib/go-gin/pull/27) on [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) (1 day ago)
-- [Update golang.org/x deps for CVEs](https://github.com/opentracing-contrib/go-gin/pull/26) on [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) (1 day ago)
+- [Add pkg badge](https://github.com/opentracing-contrib/go-stdlib/pull/79) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (1 day ago)
+- [Fix lint errors and add lint workflow](https://github.com/opentracing-contrib/go-stdlib/pull/78) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (1 day ago)
+- [Update examples for CVEs](https://github.com/opentracing-contrib/goredis/pull/49) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (1 day ago)
+- [Fix lint errors](https://github.com/opentracing-contrib/goredis/pull/48) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (1 day ago)
+- [Add common workflows and files](https://github.com/opentracing-contrib/goredis/pull/47) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (1 week ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (2 weeks ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 weeks ago)
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron (2 weeks ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (3 weeks ago)
