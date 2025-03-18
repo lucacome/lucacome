@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/python-requests](https://github.com/opentracing-contrib/python-requests) - OpenTracing instrumentation for Requests (2 days ago)
-- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (2 days ago)
-- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (3 days ago)
-- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (3 days ago)
-- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (3 days ago)
+- [opentracing-contrib/python-requests](https://github.com/opentracing-contrib/python-requests) - OpenTracing instrumentation for Requests (3 days ago)
+- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (3 days ago)
+- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (4 days ago)
+- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (4 days ago)
+- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.205.0](https://github.com/renovatebot/renovate/releases/tag/39.205.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 2 days ago) - a middleware for go-redis/redis to use opentracing
-- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) ([v0.1.0](https://github.com/opentracing-contrib/echo/releases/tag/v0.1.0), 2 days ago) - a middleware for the echov4 web framework to use opentracing
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.116](https://github.com/kubeshop/testkube/releases/tag/v2.1.116), 3 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) ([v0.7.0](https://github.com/prometheus-community/systemd_exporter/releases/tag/v0.7.0), 3 days ago) - Exporter for systemd unit metrics
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.117](https://github.com/kubeshop/testkube/releases/tag/v2.1.117), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.207.2](https://github.com/renovatebot/renovate/releases/tag/39.207.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 3 days ago) - a middleware for go-redis/redis to use opentracing
+- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) ([v0.1.0](https://github.com/opentracing-contrib/echo/releases/tag/v0.1.0), 3 days ago) - a middleware for the echov4 web framework to use opentracing
+- [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) ([v0.7.0](https://github.com/prometheus-community/systemd_exporter/releases/tag/v0.7.0), 4 days ago) - Exporter for systemd unit metrics
 
 #### 🔨 My recent Pull Requests
 
-- [Add pkg badge](https://github.com/opentracing-contrib/go-stdlib/pull/79) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (2 days ago)
-- [Fix lint errors and add lint workflow](https://github.com/opentracing-contrib/go-stdlib/pull/78) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (2 days ago)
-- [Update examples for CVEs](https://github.com/opentracing-contrib/goredis/pull/49) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (2 days ago)
-- [Fix lint errors](https://github.com/opentracing-contrib/goredis/pull/48) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (2 days ago)
-- [Add common workflows and files](https://github.com/opentracing-contrib/goredis/pull/47) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (2 days ago)
+- [Add pkg badge](https://github.com/opentracing-contrib/go-stdlib/pull/79) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (3 days ago)
+- [Fix lint errors and add lint workflow](https://github.com/opentracing-contrib/go-stdlib/pull/78) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (3 days ago)
+- [Update examples for CVEs](https://github.com/opentracing-contrib/goredis/pull/49) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (3 days ago)
+- [Fix lint errors](https://github.com/opentracing-contrib/goredis/pull/48) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (3 days ago)
+- [Add common workflows and files](https://github.com/opentracing-contrib/goredis/pull/47) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (3 days ago)
 
 #### ⭐ Recent Stars
 
