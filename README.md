@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/python-requests](https://github.com/opentracing-contrib/python-requests) - OpenTracing instrumentation for Requests (6 days ago)
-- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (6 days ago)
+- [opentracing-contrib/python-requests](https://github.com/opentracing-contrib/python-requests) - OpenTracing instrumentation for Requests (1 week ago)
+- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (1 week ago)
 - [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (1 week ago)
 - [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (1 week ago)
 - [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (1 week ago)
@@ -18,26 +18,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.23.2](https://github.com/onsi/ginkgo/releases/tag/v2.23.2), 1 day ago) - A Modern Testing Framework for Go
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.119](https://github.com/kubeshop/testkube/releases/tag/v2.1.119), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.210.0](https://github.com/renovatebot/renovate/releases/tag/39.210.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 6 days ago) - a middleware for go-redis/redis to use opentracing
-- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) ([v0.1.0](https://github.com/opentracing-contrib/echo/releases/tag/v0.1.0), 6 days ago) - a middleware for the echov4 web framework to use opentracing
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.23.3](https://github.com/onsi/ginkgo/releases/tag/v2.23.3), 1 day ago) - A Modern Testing Framework for Go
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.121](https://github.com/kubeshop/testkube/releases/tag/v2.1.121), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.211.0](https://github.com/renovatebot/renovate/releases/tag/39.211.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 1 week ago) - a middleware for go-redis/redis to use opentracing
+- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) ([v0.1.0](https://github.com/opentracing-contrib/echo/releases/tag/v0.1.0), 1 week ago) - a middleware for the echov4 web framework to use opentracing
 
 #### 🔨 My recent Pull Requests
 
-- [Add pkg badge](https://github.com/opentracing-contrib/go-stdlib/pull/79) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (6 days ago)
-- [Fix lint errors and add lint workflow](https://github.com/opentracing-contrib/go-stdlib/pull/78) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (6 days ago)
-- [Update examples for CVEs](https://github.com/opentracing-contrib/goredis/pull/49) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (6 days ago)
-- [Fix lint errors](https://github.com/opentracing-contrib/goredis/pull/48) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (6 days ago)
-- [Add common workflows and files](https://github.com/opentracing-contrib/goredis/pull/47) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (6 days ago)
+- [Add pkg badge](https://github.com/opentracing-contrib/go-stdlib/pull/79) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (1 week ago)
+- [Fix lint errors and add lint workflow](https://github.com/opentracing-contrib/go-stdlib/pull/78) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (1 week ago)
+- [Update examples for CVEs](https://github.com/opentracing-contrib/goredis/pull/49) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (1 week ago)
+- [Fix lint errors](https://github.com/opentracing-contrib/goredis/pull/48) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (1 week ago)
+- [Add common workflows and files](https://github.com/opentracing-contrib/goredis/pull/47) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (2 weeks ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 weeks ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 weeks ago)
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron (3 weeks ago)
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (3 weeks ago)
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (4 weeks ago)
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
