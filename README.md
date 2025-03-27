@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.216.1](https://github.com/renovatebot/renovate/releases/tag/39.216.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.124](https://github.com/kubeshop/testkube/releases/tag/v2.1.124), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.4), 2 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.23.3](https://github.com/onsi/ginkgo/releases/tag/v2.23.3), 5 days ago) - A Modern Testing Framework for Go
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.125](https://github.com/kubeshop/testkube/releases/tag/v2.1.125), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.218.1](https://github.com/renovatebot/renovate/releases/tag/39.218.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.4), 3 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.23.3](https://github.com/onsi/ginkgo/releases/tag/v2.23.3), 6 days ago) - A Modern Testing Framework for Go
 - [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 1 week ago) - a middleware for go-redis/redis to use opentracing
 
 #### 🔨 My recent Pull Requests
