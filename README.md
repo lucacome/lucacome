@@ -4,9 +4,9 @@
 
 - [opentracing-contrib/python-requests](https://github.com/opentracing-contrib/python-requests) - OpenTracing instrumentation for Requests (1 week ago)
 - [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (1 week ago)
-- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (1 week ago)
-- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (1 week ago)
-- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (1 week ago)
+- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (2 weeks ago)
+- [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (2 weeks ago)
+- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.125](https://github.com/kubeshop/testkube/releases/tag/v2.1.125), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.218.1](https://github.com/renovatebot/renovate/releases/tag/39.218.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.4), 3 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.23.3](https://github.com/onsi/ginkgo/releases/tag/v2.23.3), 6 days ago) - A Modern Testing Framework for Go
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.129](https://github.com/kubeshop/testkube/releases/tag/v2.1.129), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.219.2](https://github.com/renovatebot/renovate/releases/tag/39.219.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.4), 4 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.23.3](https://github.com/onsi/ginkgo/releases/tag/v2.23.3), 1 week ago) - A Modern Testing Framework for Go
 - [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 1 week ago) - a middleware for go-redis/redis to use opentracing
 
 #### 🔨 My recent Pull Requests
@@ -36,7 +36,7 @@
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (3 weeks ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 weeks ago)
-- [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron (3 weeks ago)
+- [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron (4 weeks ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (1 month ago)
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere (1 month ago)
 
