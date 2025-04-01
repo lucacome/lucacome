@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.222.1](https://github.com/renovatebot/renovate/releases/tag/39.222.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.130](https://github.com/kubeshop/testkube/releases/tag/v2.1.130), 3 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.227.2](https://github.com/renovatebot/renovate/releases/tag/39.227.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta030](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta030), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.4), 1 week ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.23.3](https://github.com/onsi/ginkgo/releases/tag/v2.23.3), 1 week ago) - A Modern Testing Framework for Go
 - [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 2 weeks ago) - a middleware for go-redis/redis to use opentracing
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (4 weeks ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (1 month ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 month ago)
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron (1 month ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (1 month ago)
