@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (1 day ago)
+- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (1 day ago)
 - [opentracing-contrib/python-requests](https://github.com/opentracing-contrib/python-requests) - OpenTracing instrumentation for Requests (2 weeks ago)
 - [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (2 weeks ago)
-- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (2 weeks ago)
 - [opentracing-contrib/echo](https://github.com/opentracing-contrib/echo) - a middleware for the echov4 web framework to use opentracing (2 weeks ago)
-- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.227.2](https://github.com/renovatebot/renovate/releases/tag/39.227.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta030](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta030), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.2](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.2), 1 day ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.230.1](https://github.com/renovatebot/renovate/releases/tag/39.230.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.132](https://github.com/kubeshop/testkube/releases/tag/v2.1.132), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.20.4](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.20.4), 1 week ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.23.3](https://github.com/onsi/ginkgo/releases/tag/v2.23.3), 1 week ago) - A Modern Testing Framework for Go
-- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 2 weeks ago) - a middleware for go-redis/redis to use opentracing
 
 #### 🔨 My recent Pull Requests
 
-- [Add pkg badge](https://github.com/opentracing-contrib/go-stdlib/pull/79) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (2 weeks ago)
-- [Fix lint errors and add lint workflow](https://github.com/opentracing-contrib/go-stdlib/pull/78) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (2 weeks ago)
-- [Update examples for CVEs](https://github.com/opentracing-contrib/goredis/pull/49) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (2 weeks ago)
-- [Fix lint errors](https://github.com/opentracing-contrib/goredis/pull/48) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (2 weeks ago)
-- [Add common workflows and files](https://github.com/opentracing-contrib/goredis/pull/47) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (2 weeks ago)
+- [Update golangci-lint to v2](https://github.com/opentracing-contrib/go-stdlib/pull/81) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (1 day ago)
+- [Wrap errors](https://github.com/opentracing-contrib/go-grpc/pull/43) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (1 day ago)
+- [Update golang.org/x deps for CVEs](https://github.com/opentracing-contrib/go-grpc/pull/42) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (1 day ago)
+- [Update golangci-lint to v2](https://github.com/opentracing-contrib/go-grpc/pull/40) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (1 day ago)
+- [Build krp-curl in a GitHub Action](https://github.com/brancz/kube-rbac-proxy/pull/367) on [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) (1 day ago)
 
 #### ⭐ Recent Stars
 
