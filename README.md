@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.235.2](https://github.com/renovatebot/renovate/releases/tag/39.235.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([18.5.0-beta.3](https://github.com/atuinsh/atuin/releases/tag/18.5.0-beta.3), 1 day ago) - ✨ Magical shell history
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.137](https://github.com/kubeshop/testkube/releases/tag/v2.1.137), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.23.4](https://github.com/onsi/ginkgo/releases/tag/v2.23.4), 2 days ago) - A Modern Testing Framework for Go
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.236.0](https://github.com/renovatebot/renovate/releases/tag/39.236.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([18.5.0-beta.3](https://github.com/atuinsh/atuin/releases/tag/18.5.0-beta.3), 2 days ago) - ✨ Magical shell history
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.137](https://github.com/kubeshop/testkube/releases/tag/v2.1.137), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.23.4](https://github.com/onsi/ginkgo/releases/tag/v2.23.4), 3 days ago) - A Modern Testing Framework for Go
 - [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.2](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.2), 1 week ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
 
 #### 🔨 My recent Pull Requests
 
-- [[PM-19836] Add prefix to fastmail](https://github.com/bitwarden/clients/pull/14105) on [bitwarden/clients](https://github.com/bitwarden/clients) (5 days ago)
+- [[PM-19836] Add prefix to fastmail](https://github.com/bitwarden/clients/pull/14105) on [bitwarden/clients](https://github.com/bitwarden/clients) (6 days ago)
 - [Update golangci-lint to v2](https://github.com/opentracing-contrib/go-stdlib/pull/81) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (1 week ago)
 - [Wrap errors](https://github.com/opentracing-contrib/go-grpc/pull/43) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (1 week ago)
 - [Update golang.org/x deps for CVEs](https://github.com/opentracing-contrib/go-grpc/pull/42) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (1 week ago)
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [Yubico/yubikey-manager](https://github.com/Yubico/yubikey-manager) - Python library and command line tool for configuring any YubiKey over all USB interfaces. (3 days ago)
+- [Yubico/yubikey-manager](https://github.com/Yubico/yubikey-manager) - Python library and command line tool for configuring any YubiKey over all USB interfaces. (4 days ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (1 month ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 month ago)
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron (1 month ago)
