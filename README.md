@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (1 week ago)
-- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (1 week ago)
-- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (1 month ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 day ago)
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (2 weeks ago)
+- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (2 weeks ago)
 - [opentracing-contrib/python-requests](https://github.com/opentracing-contrib/python-requests) - OpenTracing instrumentation for Requests (1 month ago)
-- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (1 month ago)
+- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.240.1](https://github.com/renovatebot/renovate/releases/tag/39.240.1), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.140](https://github.com/kubeshop/testkube/releases/tag/v2.1.140), 3 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.5.0](https://github.com/atuinsh/atuin/releases/tag/v18.5.0), 5 days ago) - ✨ Magical shell history
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.2.2](https://github.com/lucacome/draft-release/releases/tag/v1.2.2), 1 day ago) - Draft the next GitHub release
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.242.2](https://github.com/renovatebot/renovate/releases/tag/39.242.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.140](https://github.com/kubeshop/testkube/releases/tag/v2.1.140), 4 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.5.0](https://github.com/atuinsh/atuin/releases/tag/v18.5.0), 6 days ago) - ✨ Magical shell history
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) ([v2.23.4](https://github.com/onsi/ginkgo/releases/tag/v2.23.4), 1 week ago) - A Modern Testing Framework for Go
-- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.2](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.2), 1 week ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
 
 #### 🔨 My recent Pull Requests
 
-- [Add domain field to fastmail-masked-email extension](https://github.com/raycast/extensions/pull/18468) on [raycast/extensions](https://github.com/raycast/extensions) (5 days ago)
+- [Use node 20](https://github.com/lucacome/docker-image-update-checker/pull/218) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (today)
+- [Use node 20](https://github.com/lucacome/draft-release/pull/543) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (1 day ago)
+- [Add domain field to fastmail-masked-email extension](https://github.com/raycast/extensions/pull/18468) on [raycast/extensions](https://github.com/raycast/extensions) (6 days ago)
 - [[PM-19836] Add prefix to fastmail](https://github.com/bitwarden/clients/pull/14105) on [bitwarden/clients](https://github.com/bitwarden/clients) (1 week ago)
-- [Update golangci-lint to v2](https://github.com/opentracing-contrib/go-stdlib/pull/81) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (1 week ago)
-- [Wrap errors](https://github.com/opentracing-contrib/go-grpc/pull/43) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (1 week ago)
-- [Update golang.org/x deps for CVEs](https://github.com/opentracing-contrib/go-grpc/pull/42) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (1 week ago)
+- [Update golangci-lint to v2](https://github.com/opentracing-contrib/go-stdlib/pull/81) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
