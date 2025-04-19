@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (4 days ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (4 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (2 days ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (5 days ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (5 days ago)
 - [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (2 weeks ago)
 - [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (2 weeks ago)
-- [opentracing-contrib/python-requests](https://github.com/opentracing-contrib/python-requests) - OpenTracing instrumentation for Requests (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,35 +18,35 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.250.3](https://github.com/renovatebot/renovate/releases/tag/39.250.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.143](https://github.com/kubeshop/testkube/releases/tag/v2.1.143), 2 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [nginx/agent](https://github.com/nginx/agent) ([v2.40.1](https://github.com/nginx/agent/releases/tag/v2.40.1), 2 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.2.2](https://github.com/lucacome/draft-release/releases/tag/v1.2.2), 4 days ago) - Draft the next GitHub release
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.5.0](https://github.com/atuinsh/atuin/releases/tag/v18.5.0), 1 week ago) - ✨ Magical shell history
+- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.5.0](https://github.com/tynany/frr_exporter/releases/tag/v1.5.0), 1 day ago) - Prometheus exporter for Free Range Routing
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.40.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.40.0), 1 day ago) - NGINX plugin for OpenTracing
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.251.0](https://github.com/renovatebot/renovate/releases/tag/39.251.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.143](https://github.com/kubeshop/testkube/releases/tag/v2.1.143), 3 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [nginx/agent](https://github.com/nginx/agent) ([v2.40.1](https://github.com/nginx/agent/releases/tag/v2.40.1), 3 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 
 #### 🔨 My recent Pull Requests
 
-- [Use node 20](https://github.com/lucacome/docker-image-update-checker/pull/218) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (3 days ago)
-- [Use node 20](https://github.com/lucacome/draft-release/pull/543) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (4 days ago)
+- [Improve tests](https://github.com/opentracing-contrib/nginx-opentracing/pull/836) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
+- [Build modules for NGINX 1.27.5](https://github.com/opentracing-contrib/nginx-opentracing/pull/835) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
+- [Use node 20](https://github.com/lucacome/docker-image-update-checker/pull/218) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (4 days ago)
+- [Use node 20](https://github.com/lucacome/draft-release/pull/543) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (5 days ago)
 - [Add domain field to fastmail-masked-email extension](https://github.com/raycast/extensions/pull/18468) on [raycast/extensions](https://github.com/raycast/extensions) (1 week ago)
-- [[PM-19836] Add prefix to fastmail](https://github.com/bitwarden/clients/pull/14105) on [bitwarden/clients](https://github.com/bitwarden/clients) (2 weeks ago)
-- [Update golangci-lint to v2](https://github.com/opentracing-contrib/go-stdlib/pull/81) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering. (1 day ago)
-- [Yubico/yubikey-manager](https://github.com/Yubico/yubikey-manager) - Python library and command line tool for configuring any YubiKey over all USB interfaces. (1 week ago)
+- [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS iOS app (1 day ago)
+- [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering. (2 days ago)
+- [Yubico/yubikey-manager](https://github.com/Yubico/yubikey-manager) - Python library and command line tool for configuring any YubiKey over all USB interfaces. (2 weeks ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (1 month ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 month ago)
-- [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [filedonkey](https://github.com/filedonkey)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Amirjobi](https://github.com/Amirjobi)
 - [miledxz](https://github.com/miledxz)
 - [cterence](https://github.com/cterence)
-- [kjxai](https://github.com/kjxai)
 
 #### 💬 Feedback
 
