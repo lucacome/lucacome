@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (2 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (3 days ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 week ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
 - [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (3 weeks ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.258.1](https://github.com/renovatebot/renovate/releases/tag/39.258.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginx/nginx-plus-go-client](https://github.com/nginx/nginx-plus-go-client) ([v2.4.0](https://github.com/nginx/nginx-plus-go-client/releases/tag/v2.4.0), 1 day ago) - A client for NGINX Plus API for Go
-- [nginx/telemetry-exporter](https://github.com/nginx/telemetry-exporter) ([v0.1.4](https://github.com/nginx/telemetry-exporter/releases/tag/v0.1.4), 1 day ago) - 
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.147](https://github.com/kubeshop/testkube/releases/tag/v2.1.147), 3 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.259.0](https://github.com/renovatebot/renovate/releases/tag/39.259.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nginx/nginx-plus-go-client](https://github.com/nginx/nginx-plus-go-client) ([v2.4.0](https://github.com/nginx/nginx-plus-go-client/releases/tag/v2.4.0), 2 days ago) - A client for NGINX Plus API for Go
+- [nginx/telemetry-exporter](https://github.com/nginx/telemetry-exporter) ([v0.1.4](https://github.com/nginx/telemetry-exporter/releases/tag/v0.1.4), 2 days ago) - 
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.147](https://github.com/kubeshop/testkube/releases/tag/v2.1.147), 4 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.5.0](https://github.com/tynany/frr_exporter/releases/tag/v1.5.0), 1 week ago) - Prometheus exporter for Free Range Routing
 
 #### 🔨 My recent Pull Requests
 
-- [Build modules for NGINX 1.28.0](https://github.com/opentracing-contrib/nginx-opentracing/pull/840) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 days ago)
+- [Build modules for NGINX 1.28.0](https://github.com/opentracing-contrib/nginx-opentracing/pull/840) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (4 days ago)
 - [Improve tests](https://github.com/opentracing-contrib/nginx-opentracing/pull/836) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
 - [Build modules for NGINX 1.27.5](https://github.com/opentracing-contrib/nginx-opentracing/pull/835) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
 - [Use node 20](https://github.com/lucacome/docker-image-update-checker/pull/218) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 week ago)
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (2 days ago)
+- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (3 days ago)
 - [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS iOS app (1 week ago)
 - [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering. (1 week ago)
 - [Yubico/yubikey-manager](https://github.com/Yubico/yubikey-manager) - Python library and command line tool for configuring any YubiKey over all USB interfaces. (3 weeks ago)
@@ -42,8 +42,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [jbontech](https://github.com/jbontech)
 - [TyMill](https://github.com/TyMill)
-- [BEPb](https://github.com/BEPb)
 - [Bassa75338](https://github.com/Bassa75338)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [filedonkey](https://github.com/filedonkey)
