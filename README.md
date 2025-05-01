@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (6 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 weeks ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 weeks ago)
-- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (4 weeks ago)
-- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (4 weeks ago)
+- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (1 month ago)
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.264.0](https://github.com/renovatebot/renovate/releases/tag/39.264.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.2.0](https://github.com/anchore/scan-action/releases/tag/v6.2.0), 1 day ago) - Anchore container analysis and scan provided as a GitHub Action
-- [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.4.2](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.4.2), 2 days ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([18.6.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/18.6.0-beta.1), 2 days ago) - ✨ Magical shell history
-- [nginx/nginx-plus-go-client](https://github.com/nginx/nginx-plus-go-client) ([v2.4.0](https://github.com/nginx/nginx-plus-go-client/releases/tag/v2.4.0), 5 days ago) - A client for NGINX Plus API for Go
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.0.6](https://github.com/renovatebot/renovate/releases/tag/40.0.6), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.148](https://github.com/kubeshop/testkube/releases/tag/v2.1.148), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.2.0](https://github.com/anchore/scan-action/releases/tag/v6.2.0), 2 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.4.2](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.4.2), 3 days ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([18.6.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/18.6.0-beta.1), 3 days ago) - ✨ Magical shell history
 
 #### 🔨 My recent Pull Requests
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (6 days ago)
+- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (1 week ago)
 - [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS iOS app (1 week ago)
-- [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering. (1 week ago)
+- [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering. (2 weeks ago)
 - [Yubico/yubikey-manager](https://github.com/Yubico/yubikey-manager) - Python library and command line tool for configuring any YubiKey over all USB interfaces. (3 weeks ago)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (1 month ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
