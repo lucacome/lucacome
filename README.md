@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.0.0-next.3](https://github.com/renovatebot/renovate/releases/tag/41.0.0-next.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginx/agent](https://github.com/nginx/agent) ([v2.41.0](https://github.com/nginx/agent/releases/tag/v2.41.0), 2 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.148](https://github.com/kubeshop/testkube/releases/tag/v2.1.148), 3 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.2.0](https://github.com/anchore/scan-action/releases/tag/v6.2.0), 4 days ago) - Anchore container analysis and scan provided as a GitHub Action
-- [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.4.2](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.4.2), 5 days ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.1.3](https://github.com/renovatebot/renovate/releases/tag/40.1.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.6.0](https://github.com/tynany/frr_exporter/releases/tag/v1.6.0), 1 day ago) - Prometheus exporter for Free Range Routing
+- [nginx/agent](https://github.com/nginx/agent) ([v2.41.0](https://github.com/nginx/agent/releases/tag/v2.41.0), 3 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.148](https://github.com/kubeshop/testkube/releases/tag/v2.1.148), 4 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.2.0](https://github.com/anchore/scan-action/releases/tag/v6.2.0), 5 days ago) - Anchore container analysis and scan provided as a GitHub Action
 
 #### 🔨 My recent Pull Requests
 
