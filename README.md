@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.14.6](https://github.com/renovatebot/renovate/releases/tag/40.14.6), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.152](https://github.com/kubeshop/testkube/releases/tag/v2.1.152), 3 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.18.1](https://github.com/renovatebot/renovate/releases/tag/40.18.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v2.1.152](https://github.com/kubeshop/testkube/releases/tag/v2.1.152), 4 days ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.6.1](https://github.com/atuinsh/atuin/releases/tag/v18.6.1), 1 week ago) - ✨ Magical shell history
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.6.0](https://github.com/tynany/frr_exporter/releases/tag/v1.6.0), 2 weeks ago) - Prometheus exporter for Free Range Routing
 - [nginx/agent](https://github.com/nginx/agent) ([v2.41.0](https://github.com/nginx/agent/releases/tag/v2.41.0), 2 weeks ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS  (6 days ago)
+- [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS  (1 week ago)
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend &amp; API (1 week ago)
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (3 weeks ago)
 - [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS iOS app (1 month ago)
