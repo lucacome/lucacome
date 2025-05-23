@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.21.6](https://github.com/renovatebot/renovate/releases/tag/40.21.6), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) ([v1.17.69-beta039](https://github.com/kubeshop/testkube/releases/tag/v1.17.69-beta039), 1 day ago) - ☸️ Kubernetes-native testing framework for test execution and orchestration
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.25.0](https://github.com/renovatebot/renovate/releases/tag/40.25.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.21.0](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.21.0), 1 day ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.6.1](https://github.com/atuinsh/atuin/releases/tag/v18.6.1), 2 weeks ago) - ✨ Magical shell history
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.6.0](https://github.com/tynany/frr_exporter/releases/tag/v1.6.0), 2 weeks ago) - Prometheus exporter for Free Range Routing
 - [nginx/agent](https://github.com/nginx/agent) ([v2.41.0](https://github.com/nginx/agent/releases/tag/v2.41.0), 3 weeks ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 
 #### 🔨 My recent Pull Requests
 
-- [Build modules for NGINX 1.28.0](https://github.com/opentracing-contrib/nginx-opentracing/pull/840) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (4 weeks ago)
+- [Build modules for NGINX 1.28.0](https://github.com/opentracing-contrib/nginx-opentracing/pull/840) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 month ago)
 - [Improve tests](https://github.com/opentracing-contrib/nginx-opentracing/pull/836) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 month ago)
 - [Build modules for NGINX 1.27.5](https://github.com/opentracing-contrib/nginx-opentracing/pull/835) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 month ago)
 - [Use node 20](https://github.com/lucacome/docker-image-update-checker/pull/218) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 month ago)
