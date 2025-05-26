@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 week ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (2 weeks ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 month ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 month ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 month ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.29.1](https://github.com/renovatebot/renovate/releases/tag/40.29.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.21.0](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.21.0), 3 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.31.0](https://github.com/renovatebot/renovate/releases/tag/40.31.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ([v0.21.0](https://github.com/kubernetes-sigs/controller-runtime/releases/tag/v0.21.0), 4 days ago) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.6.1](https://github.com/atuinsh/atuin/releases/tag/v18.6.1), 2 weeks ago) - ✨ Magical shell history
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.6.0](https://github.com/tynany/frr_exporter/releases/tag/v1.6.0), 3 weeks ago) - Prometheus exporter for Free Range Routing
 - [nginx/agent](https://github.com/nginx/agent) ([v2.41.0](https://github.com/nginx/agent/releases/tag/v2.41.0), 3 weeks ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
