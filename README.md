@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.42.4](https://github.com/renovatebot/renovate/releases/tag/40.42.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.0), 1 day ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.2.3](https://github.com/lucacome/draft-release/releases/tag/v1.2.3), 1 day ago) - Draft the next GitHub release
-- [nginx/agent](https://github.com/nginx/agent) ([v3.0.0](https://github.com/nginx/agent/releases/tag/v3.0.0), 2 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.45.0](https://github.com/renovatebot/renovate/releases/tag/40.45.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.0), 2 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.2.3](https://github.com/lucacome/draft-release/releases/tag/v1.2.3), 2 days ago) - Draft the next GitHub release
+- [nginx/agent](https://github.com/nginx/agent) ([v3.0.0](https://github.com/nginx/agent/releases/tag/v3.0.0), 3 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.7.0](https://github.com/tynany/frr_exporter/releases/tag/v1.7.0), 1 week ago) - Prometheus exporter for Free Range Routing
 
 #### 🔨 My recent Pull Requests
@@ -36,9 +36,9 @@
 
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (1 week ago)
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS  (3 weeks ago)
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend &amp; API (4 weeks ago)
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend &amp; API (1 month ago)
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (1 month ago)
-- [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS iOS app (1 month ago)
+- [twofas/2fas-ios](https://github.com/twofas/2fas-ios) - Source code for 2FAS Auth iOS app (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
