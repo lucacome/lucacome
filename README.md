@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.45.0](https://github.com/renovatebot/renovate/releases/tag/40.45.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.0), 2 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.2.3](https://github.com/lucacome/draft-release/releases/tag/v1.2.3), 2 days ago) - Draft the next GitHub release
-- [nginx/agent](https://github.com/nginx/agent) ([v3.0.0](https://github.com/nginx/agent/releases/tag/v3.0.0), 3 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.48.1](https://github.com/renovatebot/renovate/releases/tag/40.48.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.0), 3 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.2.3](https://github.com/lucacome/draft-release/releases/tag/v1.2.3), 3 days ago) - Draft the next GitHub release
+- [nginx/agent](https://github.com/nginx/agent) ([v3.0.0](https://github.com/nginx/agent/releases/tag/v3.0.0), 4 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.7.0](https://github.com/tynany/frr_exporter/releases/tag/v1.7.0), 1 week ago) - Prometheus exporter for Free Range Routing
 
 #### 🔨 My recent Pull Requests
