@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (3 weeks ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (4 weeks ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 month ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 month ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 month ago)
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.48.1](https://github.com/renovatebot/renovate/releases/tag/40.48.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.0), 3 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.2.3](https://github.com/lucacome/draft-release/releases/tag/v1.2.3), 3 days ago) - Draft the next GitHub release
-- [nginx/agent](https://github.com/nginx/agent) ([v3.0.0](https://github.com/nginx/agent/releases/tag/v3.0.0), 4 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.48.4](https://github.com/renovatebot/renovate/releases/tag/40.48.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.0), 4 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.2.3](https://github.com/lucacome/draft-release/releases/tag/v1.2.3), 4 days ago) - Draft the next GitHub release
+- [nginx/agent](https://github.com/nginx/agent) ([v3.0.0](https://github.com/nginx/agent/releases/tag/v3.0.0), 5 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.7.0](https://github.com/tynany/frr_exporter/releases/tag/v1.7.0), 1 week ago) - Prometheus exporter for Free Range Routing
 
 #### 🔨 My recent Pull Requests
