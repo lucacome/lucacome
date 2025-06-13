@@ -4,8 +4,8 @@
 
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 month ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 month ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 month ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 month ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 months ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 months ago)
 - [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (2 months ago)
 
 #### 🌱 My latest projects
@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.1), today) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.49.12](https://github.com/renovatebot/renovate/releases/tag/40.49.12), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginx/agent](https://github.com/nginx/agent) ([v3.0.1](https://github.com/nginx/agent/releases/tag/v3.0.1), 2 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.11.0](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.11.0), 1 day ago) - Prometheus exporter for PgBouncer
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.51.1](https://github.com/renovatebot/renovate/releases/tag/40.51.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.1), 1 day ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [nginx/agent](https://github.com/nginx/agent) ([v3.0.1](https://github.com/nginx/agent/releases/tag/v3.0.1), 3 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v1.2.3](https://github.com/lucacome/draft-release/releases/tag/v1.2.3), 1 week ago) - Draft the next GitHub release
-- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.7.0](https://github.com/tynany/frr_exporter/releases/tag/v1.7.0), 1 week ago) - Prometheus exporter for Free Range Routing
 
 #### 🔨 My recent Pull Requests
 
@@ -30,7 +30,7 @@
 - [Improve tests](https://github.com/opentracing-contrib/nginx-opentracing/pull/836) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 month ago)
 - [Build modules for NGINX 1.27.5](https://github.com/opentracing-contrib/nginx-opentracing/pull/835) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 month ago)
 - [Use node 20](https://github.com/lucacome/docker-image-update-checker/pull/218) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 month ago)
-- [Use node 20](https://github.com/lucacome/draft-release/pull/543) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (1 month ago)
+- [Use node 20](https://github.com/lucacome/draft-release/pull/543) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 months ago)
 
 #### ⭐ Recent Stars
 
