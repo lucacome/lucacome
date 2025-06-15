@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.54.1](https://github.com/renovatebot/renovate/releases/tag/40.54.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.3.0](https://github.com/anchore/scan-action/releases/tag/v6.3.0), 1 day ago) - Anchore container analysis and scan provided as a GitHub Action
-- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.11.0](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.11.0), 2 days ago) - Prometheus exporter for PgBouncer
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.1), 2 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-- [nginx/agent](https://github.com/nginx/agent) ([v3.0.1](https://github.com/nginx/agent/releases/tag/v3.0.1), 4 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.55.1](https://github.com/renovatebot/renovate/releases/tag/40.55.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.3.0](https://github.com/anchore/scan-action/releases/tag/v6.3.0), 2 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.11.0](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.11.0), 3 days ago) - Prometheus exporter for PgBouncer
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.1), 3 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [nginx/agent](https://github.com/nginx/agent) ([v3.0.1](https://github.com/nginx/agent/releases/tag/v3.0.1), 5 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 
 #### 🔨 My recent Pull Requests
 
