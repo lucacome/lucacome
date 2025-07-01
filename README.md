@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (5 days ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (6 days ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (2 weeks ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 month ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 months ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.17.2](https://github.com/renovatebot/renovate/releases/tag/41.17.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginx/agent](https://github.com/nginx/agent) ([v3.0.3](https://github.com/nginx/agent/releases/tag/v3.0.3), 4 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.17.2](https://github.com/renovatebot/renovate/releases/tag/41.17.2), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nginx/agent](https://github.com/nginx/agent) ([v3.0.3](https://github.com/nginx/agent/releases/tag/v3.0.3), 5 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 - [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.3.0](https://github.com/anchore/scan-action/releases/tag/v6.3.0), 2 weeks ago) - Anchore container analysis and scan provided as a GitHub Action
 - [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.11.0](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.11.0), 2 weeks ago) - Prometheus exporter for PgBouncer
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.1), 2 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
 #### 🔨 My recent Pull Requests
 
-- [Use UBI 9.6 tag](https://github.com/lucacome/nginx-ubi/pull/265) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (5 days ago)
+- [Use UBI 9.6 tag](https://github.com/lucacome/nginx-ubi/pull/265) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (6 days ago)
 - [Update cmake to 3.31.8](https://github.com/opentracing-contrib/nginx-opentracing/pull/875) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 weeks ago)
 - [Build modules for NGINX 1.28.0](https://github.com/opentracing-contrib/nginx-opentracing/pull/840) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 months ago)
 - [Improve tests](https://github.com/opentracing-contrib/nginx-opentracing/pull/836) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 months ago)
