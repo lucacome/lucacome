@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.18.1](https://github.com/renovatebot/renovate/releases/tag/41.18.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.4.0](https://github.com/anchore/scan-action/releases/tag/v6.4.0), 2 days ago) - Anchore container analysis and scan provided as a GitHub Action
-- [nginx/alpine-fips](https://github.com/nginx/alpine-fips) ([v0.3.0](https://github.com/nginx/alpine-fips/releases/tag/v0.3.0), 3 days ago) - Alpine Linux with FIPS OpenSSL module
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.21.0](https://github.com/renovatebot/renovate/releases/tag/41.21.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.4.0](https://github.com/anchore/scan-action/releases/tag/v6.4.0), 3 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [nginx/alpine-fips](https://github.com/nginx/alpine-fips) ([v0.3.0](https://github.com/nginx/alpine-fips/releases/tag/v0.3.0), 4 days ago) - Alpine Linux with FIPS OpenSSL module
 - [nginx/agent](https://github.com/nginx/agent) ([v3.0.3](https://github.com/nginx/agent/releases/tag/v3.0.3), 1 week ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 - [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.11.0](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.11.0), 3 weeks ago) - Prometheus exporter for PgBouncer
 
 #### 🔨 My recent Pull Requests
 
-- [feat(starr): Add some scene groups](https://github.com/TRaSH-Guides/Guides/pull/2419) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (2 days ago)
+- [feat(starr): Add some scene groups](https://github.com/TRaSH-Guides/Guides/pull/2419) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (3 days ago)
 - [Use UBI 9.6 tag](https://github.com/lucacome/nginx-ubi/pull/265) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 week ago)
 - [Update cmake to 3.31.8](https://github.com/opentracing-contrib/nginx-opentracing/pull/875) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 weeks ago)
 - [Build modules for NGINX 1.28.0](https://github.com/opentracing-contrib/nginx-opentracing/pull/840) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 months ago)
