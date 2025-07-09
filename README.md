@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (1 week ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 days ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 weeks ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (3 weeks ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 month ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 months ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 months ago)
 
 #### 🌱 My latest projects
@@ -18,17 +18,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.24.0](https://github.com/renovatebot/renovate/releases/tag/41.24.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.4.0](https://github.com/anchore/scan-action/releases/tag/v6.4.0), 6 days ago) - Anchore container analysis and scan provided as a GitHub Action
-- [nginx/alpine-fips](https://github.com/nginx/alpine-fips) ([v0.3.0](https://github.com/nginx/alpine-fips/releases/tag/v0.3.0), 1 week ago) - Alpine Linux with FIPS OpenSSL module
-- [nginx/agent](https://github.com/nginx/agent) ([v3.0.3](https://github.com/nginx/agent/releases/tag/v3.0.3), 1 week ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
-- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) ([v0.11.0](https://github.com/prometheus-community/pgbouncer_exporter/releases/tag/v0.11.0), 3 weeks ago) - Prometheus exporter for PgBouncer
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-07-08](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-07-08), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.2](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.2), 1 day ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [nginx/agent](https://github.com/nginx/agent) ([v2.42.0](https://github.com/nginx/agent/releases/tag/v2.42.0), 1 day ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.26.0](https://github.com/renovatebot/renovate/releases/tag/41.26.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.4.0](https://github.com/anchore/scan-action/releases/tag/v6.4.0), 1 week ago) - Anchore container analysis and scan provided as a GitHub Action
 
 #### 🔨 My recent Pull Requests
 
-- [Ollama: fix update script](https://github.com/community-scripts/ProxmoxVE/pull/5819) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 day ago)
-- [feat(starr): Add some scene groups](https://github.com/TRaSH-Guides/Guides/pull/2419) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (6 days ago)
-- [Use UBI 9.6 tag](https://github.com/lucacome/nginx-ubi/pull/265) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 week ago)
+- [Ollama: fix update script](https://github.com/community-scripts/ProxmoxVE/pull/5819) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (2 days ago)
+- [feat(starr): Add some scene groups](https://github.com/TRaSH-Guides/Guides/pull/2419) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (1 week ago)
+- [Use UBI 9.6 tag](https://github.com/lucacome/nginx-ubi/pull/265) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (2 weeks ago)
 - [Update cmake to 3.31.8](https://github.com/opentracing-contrib/nginx-opentracing/pull/875) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
 - [Build modules for NGINX 1.28.0](https://github.com/opentracing-contrib/nginx-opentracing/pull/840) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 months ago)
 
