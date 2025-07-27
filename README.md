@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-07-25](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-07-25), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.43.3](https://github.com/renovatebot/renovate/releases/tag/41.43.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.5.0](https://github.com/anchore/scan-action/releases/tag/v6.5.0), 4 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-07-26](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-07-26), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.43.5](https://github.com/renovatebot/renovate/releases/tag/41.43.5), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.5.0](https://github.com/anchore/scan-action/releases/tag/v6.5.0), 5 days ago) - Anchore container analysis and scan provided as a GitHub Action
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.8.0](https://github.com/tynany/frr_exporter/releases/tag/v1.8.0), 2 weeks ago) - Prometheus exporter for Free Range Routing
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.2](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.2), 2 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(starr): remove sphd](https://github.com/TRaSH-Guides/Guides/pull/2426) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (1 week ago)
+- [fix(starr): remove sphd](https://github.com/TRaSH-Guides/Guides/pull/2426) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (2 weeks ago)
 - [Ollama: fix update script](https://github.com/community-scripts/ProxmoxVE/pull/5819) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (2 weeks ago)
 - [feat(starr): Add some scene groups](https://github.com/TRaSH-Guides/Guides/pull/2419) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (3 weeks ago)
 - [Use UBI 9.6 tag](https://github.com/lucacome/nginx-ubi/pull/265) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 month ago)
