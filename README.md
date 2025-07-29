@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-07-27](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-07-27), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.43.5](https://github.com/renovatebot/renovate/releases/tag/41.43.5), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.5.0](https://github.com/anchore/scan-action/releases/tag/v6.5.0), 6 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-07-28](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-07-28), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.43.7](https://github.com/renovatebot/renovate/releases/tag/41.43.7), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.5.0](https://github.com/anchore/scan-action/releases/tag/v6.5.0), 1 week ago) - Anchore container analysis and scan provided as a GitHub Action
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.8.0](https://github.com/tynany/frr_exporter/releases/tag/v1.8.0), 2 weeks ago) - Prometheus exporter for Free Range Routing
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.2](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.2), 2 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.2](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.2), 3 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
 #### 🔨 My recent Pull Requests
 
