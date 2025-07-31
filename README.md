@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-07-29](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-07-29), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.45.0](https://github.com/renovatebot/renovate/releases/tag/41.45.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-07-30](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-07-30), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.46.3](https://github.com/renovatebot/renovate/releases/tag/41.46.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nginx/agent](https://github.com/nginx/agent) ([v2.42.1](https://github.com/nginx/agent/releases/tag/v2.42.1), 1 day ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 - [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.5.0](https://github.com/anchore/scan-action/releases/tag/v6.5.0), 1 week ago) - Anchore container analysis and scan provided as a GitHub Action
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.8.0](https://github.com/tynany/frr_exporter/releases/tag/v1.8.0), 3 weeks ago) - Prometheus exporter for Free Range Routing
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.0.2](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.0.2), 3 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
 #### 🔨 My recent Pull Requests
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (2 weeks ago)
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (3 weeks ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 month ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 month ago)
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (2 months ago)
