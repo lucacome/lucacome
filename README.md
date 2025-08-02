@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.46.7](https://github.com/renovatebot/renovate/releases/tag/41.46.7), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-07-31](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-07-31), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [nginx/agent](https://github.com/nginx/agent) ([v3.2.0](https://github.com/nginx/agent/releases/tag/v3.2.0), 1 day ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-08-01](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-08-01), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.51.0](https://github.com/renovatebot/renovate/releases/tag/41.51.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nginx/agent](https://github.com/nginx/agent) ([v3.2.0](https://github.com/nginx/agent/releases/tag/v3.2.0), 2 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 - [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.5.0](https://github.com/anchore/scan-action/releases/tag/v6.5.0), 1 week ago) - Anchore container analysis and scan provided as a GitHub Action
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.8.0](https://github.com/tynany/frr_exporter/releases/tag/v1.8.0), 3 weeks ago) - Prometheus exporter for Free Range Routing
 
