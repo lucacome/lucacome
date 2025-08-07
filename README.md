@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-08-05](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-08-05), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.53.1](https://github.com/renovatebot/renovate/releases/tag/41.53.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.5.1](https://github.com/anchore/scan-action/releases/tag/v6.5.1), 2 days ago) - Anchore container analysis and scan provided as a GitHub Action
-- [nginx/agent](https://github.com/nginx/agent) ([v3.2.0](https://github.com/nginx/agent/releases/tag/v3.2.0), 6 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-08-06](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-08-06), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.55.2](https://github.com/renovatebot/renovate/releases/tag/41.55.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v6.5.1](https://github.com/anchore/scan-action/releases/tag/v6.5.1), 3 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [nginx/agent](https://github.com/nginx/agent) ([v3.2.0](https://github.com/nginx/agent/releases/tag/v3.2.0), 1 week ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.8.0](https://github.com/tynany/frr_exporter/releases/tag/v1.8.0), 4 weeks ago) - Prometheus exporter for Free Range Routing
 
 #### 🔨 My recent Pull Requests
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas (1 day ago)
-- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (3 weeks ago)
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (1 day ago)
+- [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas (2 days ago)
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (4 weeks ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 month ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 month ago)
-- [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
