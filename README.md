@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (4 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (5 days ago)
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it. (1 week ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 month ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (1 month ago)
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-08-18](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-08-18), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.81.0](https://github.com/renovatebot/renovate/releases/tag/41.81.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.41.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.41.0), 1 day ago) - NGINX plugin for OpenTracing
-- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.8.1](https://github.com/tynany/frr_exporter/releases/tag/v1.8.1), 2 days ago) - Prometheus exporter for Free Range Routing
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.1.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.1.0), 5 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-08-19](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-08-19), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.81.5](https://github.com/renovatebot/renovate/releases/tag/41.81.5), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.8.1](https://github.com/tynany/frr_exporter/releases/tag/v1.8.1), 3 days ago) - Prometheus exporter for Free Range Routing
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.1.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.1.0), 6 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [nginx/agent](https://github.com/nginx/agent) ([v3.2.1](https://github.com/nginx/agent/releases/tag/v3.2.1), 6 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 
 #### 🔨 My recent Pull Requests
 
-- [Fix markdown](https://github.com/opentracing-contrib/nginx-opentracing/pull/912) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (5 days ago)
-- [Build modules for NGINX 1.29.0 and 1.29.1](https://github.com/opentracing-contrib/nginx-opentracing/pull/911) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (5 days ago)
+- [Fix markdown](https://github.com/opentracing-contrib/nginx-opentracing/pull/912) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (6 days ago)
+- [Build modules for NGINX 1.29.0 and 1.29.1](https://github.com/opentracing-contrib/nginx-opentracing/pull/911) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (6 days ago)
 - [feat(starr): Update scene](https://github.com/TRaSH-Guides/Guides/pull/2447) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (1 week ago)
 - [fix(starr): remove sphd](https://github.com/TRaSH-Guides/Guides/pull/2426) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (1 month ago)
 - [Ollama: fix update script](https://github.com/community-scripts/ProxmoxVE/pull/5819) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (1 week ago)
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (2 weeks ago)
 - [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas (2 weeks ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 months ago)
