@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
-- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it. (1 week ago)
+- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it. (2 weeks ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 month ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (1 month ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (3 months ago)
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-08-21](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-08-21), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.82.3](https://github.com/renovatebot/renovate/releases/tag/41.82.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.8.1](https://github.com/tynany/frr_exporter/releases/tag/v1.8.1), 5 days ago) - Prometheus exporter for Free Range Routing
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-08-22](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-08-22), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.82.5](https://github.com/renovatebot/renovate/releases/tag/41.82.5), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.8.1](https://github.com/tynany/frr_exporter/releases/tag/v1.8.1), 6 days ago) - Prometheus exporter for Free Range Routing
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.1.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.1.0), 1 week ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [nginx/agent](https://github.com/nginx/agent) ([v3.2.1](https://github.com/nginx/agent/releases/tag/v3.2.1), 1 week ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 
