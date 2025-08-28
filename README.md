@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-08-26](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-08-26), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.86.0](https://github.com/renovatebot/renovate/releases/tag/41.86.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-08-27](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-08-27), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.87.4](https://github.com/renovatebot/renovate/releases/tag/41.87.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nginx/agent](https://github.com/nginx/agent) ([v2.42.2](https://github.com/nginx/agent/releases/tag/v2.42.2), 1 day ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [nginx/alpine-fips](https://github.com/nginx/alpine-fips) ([v0.4.0](https://github.com/nginx/alpine-fips/releases/tag/v0.4.0), 1 day ago) - Alpine Linux with FIPS OpenSSL module
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.8.1](https://github.com/tynany/frr_exporter/releases/tag/v1.8.1), 1 week ago) - Prometheus exporter for Free Range Routing
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.1.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.1.0), 1 week ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-- [nginx/agent](https://github.com/nginx/agent) ([v3.2.1](https://github.com/nginx/agent/releases/tag/v3.2.1), 1 week ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 
 #### 🔨 My recent Pull Requests
 
-- [Fix markdown](https://github.com/opentracing-contrib/nginx-opentracing/pull/912) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
-- [Build modules for NGINX 1.29.0 and 1.29.1](https://github.com/opentracing-contrib/nginx-opentracing/pull/911) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
+- [Fix markdown](https://github.com/opentracing-contrib/nginx-opentracing/pull/912) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 weeks ago)
+- [Build modules for NGINX 1.29.0 and 1.29.1](https://github.com/opentracing-contrib/nginx-opentracing/pull/911) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 weeks ago)
 - [feat(starr): Update scene](https://github.com/TRaSH-Guides/Guides/pull/2447) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (2 weeks ago)
 - [fix(starr): remove sphd](https://github.com/TRaSH-Guides/Guides/pull/2426) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (1 month ago)
 - [Ollama: fix update script](https://github.com/community-scripts/ProxmoxVE/pull/5819) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 month ago)
