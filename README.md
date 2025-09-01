@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-08-30](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-08-30), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.91.1](https://github.com/renovatebot/renovate/releases/tag/41.91.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginx/agent](https://github.com/nginx/agent) ([v3.3.0](https://github.com/nginx/agent/releases/tag/v3.3.0), 3 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
-- [nginx/alpine-fips](https://github.com/nginx/alpine-fips) ([v0.4.0](https://github.com/nginx/alpine-fips/releases/tag/v0.4.0), 4 days ago) - Alpine Linux with FIPS OpenSSL module
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-08-31](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-08-31), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.91.2](https://github.com/renovatebot/renovate/releases/tag/41.91.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nginx/agent](https://github.com/nginx/agent) ([v3.3.0](https://github.com/nginx/agent/releases/tag/v3.3.0), 4 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [nginx/alpine-fips](https://github.com/nginx/alpine-fips) ([v0.4.0](https://github.com/nginx/alpine-fips/releases/tag/v0.4.0), 5 days ago) - Alpine Linux with FIPS OpenSSL module
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.8.1](https://github.com/tynany/frr_exporter/releases/tag/v1.8.1), 2 weeks ago) - Prometheus exporter for Free Range Routing
 
 #### 🔨 My recent Pull Requests
