@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-08-31](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-08-31), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.91.2](https://github.com/renovatebot/renovate/releases/tag/41.91.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginx/agent](https://github.com/nginx/agent) ([v3.3.0](https://github.com/nginx/agent/releases/tag/v3.3.0), 4 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
-- [nginx/alpine-fips](https://github.com/nginx/alpine-fips) ([v0.4.0](https://github.com/nginx/alpine-fips/releases/tag/v0.4.0), 5 days ago) - Alpine Linux with FIPS OpenSSL module
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-01](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-01), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.92.1](https://github.com/renovatebot/renovate/releases/tag/41.92.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [nginx/agent](https://github.com/nginx/agent) ([v3.3.0](https://github.com/nginx/agent/releases/tag/v3.3.0), 5 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [nginx/alpine-fips](https://github.com/nginx/alpine-fips) ([v0.4.0](https://github.com/nginx/alpine-fips/releases/tag/v0.4.0), 6 days ago) - Alpine Linux with FIPS OpenSSL module
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) ([v1.8.1](https://github.com/tynany/frr_exporter/releases/tag/v1.8.1), 2 weeks ago) - Prometheus exporter for Free Range Routing
 
 #### 🔨 My recent Pull Requests
@@ -35,7 +35,7 @@
 #### ⭐ Recent Stars
 
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (3 weeks ago)
-- [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas (3 weeks ago)
+- [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas (4 weeks ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 months ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 months ago)
