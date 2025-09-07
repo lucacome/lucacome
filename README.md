@@ -18,18 +18,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-05](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-05), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.97.7](https://github.com/renovatebot/renovate/releases/tag/41.97.7), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.14.1](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.14.1), 1 day ago) - Utility package to build exporters
-- [nginx/agent](https://github.com/nginx/agent) ([v2.43.0](https://github.com/nginx/agent/releases/tag/v2.43.0), 2 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
-- [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.5.0](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.5.0), 2 days ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-06](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-06), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.97.7](https://github.com/renovatebot/renovate/releases/tag/41.97.7), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.14.1](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.14.1), 2 days ago) - Utility package to build exporters
+- [nginx/agent](https://github.com/nginx/agent) ([v2.43.0](https://github.com/nginx/agent/releases/tag/v2.43.0), 3 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.5.0](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.5.0), 3 days ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
 
 #### 🔨 My recent Pull Requests
 
-- [Update to libpcre2](https://github.com/opentracing-contrib/nginx-opentracing/pull/922) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
+- [Update to libpcre2](https://github.com/opentracing-contrib/nginx-opentracing/pull/922) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 days ago)
 - [Fix markdown](https://github.com/opentracing-contrib/nginx-opentracing/pull/912) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
 - [Build modules for NGINX 1.29.0 and 1.29.1](https://github.com/opentracing-contrib/nginx-opentracing/pull/911) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
-- [feat(starr): Update scene](https://github.com/TRaSH-Guides/Guides/pull/2447) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (4 weeks ago)
+- [feat(starr): Update scene](https://github.com/TRaSH-Guides/Guides/pull/2447) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (1 month ago)
 - [fix(starr): remove sphd](https://github.com/TRaSH-Guides/Guides/pull/2426) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (1 month ago)
 
 #### ⭐ Recent Stars
@@ -42,11 +42,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [peterruler](https://github.com/peterruler)
 - [sins921](https://github.com/sins921)
 - [EricMujjona](https://github.com/EricMujjona)
 - [codev612](https://github.com/codev612)
 - [djvelimir](https://github.com/djvelimir)
+- [adi1985a](https://github.com/adi1985a)
 
 #### 💬 Feedback
 
