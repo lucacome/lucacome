@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 day ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (2 days ago)
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it. (1 month ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 months ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 months ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-08](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-08), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.98.1](https://github.com/renovatebot/renovate/releases/tag/41.98.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.14.1](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.14.1), 4 days ago) - Utility package to build exporters
-- [nginx/agent](https://github.com/nginx/agent) ([v2.43.0](https://github.com/nginx/agent/releases/tag/v2.43.0), 5 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
-- [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.5.0](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.5.0), 5 days ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-09](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-09), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.99.4](https://github.com/renovatebot/renovate/releases/tag/41.99.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) ([v0.14.1](https://github.com/prometheus/exporter-toolkit/releases/tag/v0.14.1), 5 days ago) - Utility package to build exporters
+- [nginx/agent](https://github.com/nginx/agent) ([v2.43.0](https://github.com/nginx/agent/releases/tag/v2.43.0), 6 days ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
+- [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.5.0](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.5.0), 6 days ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
 
 #### 🔨 My recent Pull Requests
 
-- [Update to libpcre2](https://github.com/opentracing-contrib/nginx-opentracing/pull/922) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (5 days ago)
+- [Update to libpcre2](https://github.com/opentracing-contrib/nginx-opentracing/pull/922) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (6 days ago)
 - [Fix markdown](https://github.com/opentracing-contrib/nginx-opentracing/pull/912) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
 - [Build modules for NGINX 1.29.0 and 1.29.1](https://github.com/opentracing-contrib/nginx-opentracing/pull/911) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
 - [feat(starr): Update scene](https://github.com/TRaSH-Guides/Guides/pull/2447) on [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) (1 month ago)
