@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (5 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (6 days ago)
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications. (1 month ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 months ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 months ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-12](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-12), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.112.0](https://github.com/renovatebot/renovate/releases/tag/41.112.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-13](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-13), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.113.2](https://github.com/renovatebot/renovate/releases/tag/41.113.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [nginx/agent](https://github.com/nginx/agent) ([v2.43.0](https://github.com/nginx/agent/releases/tag/v2.43.0), 1 week ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 - [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.5.0](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.5.0), 1 week ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.1.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.1.1), 1 week ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
