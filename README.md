@@ -2,35 +2,35 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [lucacome/common](https://github.com/lucacome/common) - Common files (1 day ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 day ago)
+- [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (1 day ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications. (1 month ago)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 months ago)
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 months ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (4 months ago)
 
 #### 🌱 My latest projects
 
+- [lucacome/common](https://github.com/lucacome/common) - Common files
+- [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere
 - [lucacome/renovate-kustomize-remote](https://github.com/lucacome/renovate-kustomize-remote) - 
 - [lucacome/renovate-datasource](https://github.com/lucacome/renovate-datasource) - 
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-14](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-14), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.113.3](https://github.com/renovatebot/renovate/releases/tag/41.113.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-15](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-15), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v7.0.0](https://github.com/anchore/scan-action/releases/tag/v7.0.0), 1 day ago) - Anchore container analysis and scan provided as a GitHub Action
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.114.0](https://github.com/renovatebot/renovate/releases/tag/41.114.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [nginx/agent](https://github.com/nginx/agent) ([v2.43.0](https://github.com/nginx/agent/releases/tag/v2.43.0), 1 week ago) - NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances
 - [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.5.0](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.5.0), 1 week ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.1.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.1.1), 1 week ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
 #### 🔨 My recent Pull Requests
 
-- [Build with GoReleaser](https://github.com/lucacome/tailout/pull/6) on [lucacome/tailout](https://github.com/lucacome/tailout) (1 day ago)
-- [Automatically create single-use auth keys](https://github.com/lucacome/tailout/pull/5) on [lucacome/tailout](https://github.com/lucacome/tailout) (1 day ago)
-- [Add more info about version](https://github.com/lucacome/tailout/pull/4) on [lucacome/tailout](https://github.com/lucacome/tailout) (1 day ago)
-- [Update to Go 1.25 and generate templates](https://github.com/lucacome/tailout/pull/3) on [lucacome/tailout](https://github.com/lucacome/tailout) (1 day ago)
-- [Add e2e to CI and skip run on forks](https://github.com/lucacome/tailout/pull/2) on [lucacome/tailout](https://github.com/lucacome/tailout) (1 day ago)
+- [Update types/node to 24](https://github.com/lucacome/draft-release/pull/645) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (today)
+- [Enable corepack](https://github.com/lucacome/draft-release/pull/644) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (today)
+- [Update to Node 24](https://github.com/lucacome/draft-release/pull/642) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (today)
+- [Add labeler](https://github.com/lucacome/tailout/pull/25) on [lucacome/tailout](https://github.com/lucacome/tailout) (1 day ago)
+- [Add CodeQL workflow configuration](https://github.com/lucacome/tailout/pull/24) on [lucacome/tailout](https://github.com/lucacome/tailout) (1 day ago)
 
 #### ⭐ Recent Stars
 
