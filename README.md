@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (3 days ago)
-- [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) - Homebrew Formulae to my binaries (3 days ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (4 days ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (5 days ago)
+- [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (4 days ago)
+- [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) - Homebrew Formulae to my binaries (4 days ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (5 days ago)
+- [lucacome/common](https://github.com/lucacome/common) - Common files (6 days ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-19](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-19), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.119.5](https://github.com/renovatebot/renovate/releases/tag/41.119.5), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [lucacome/tailout](https://github.com/lucacome/tailout) ([v1.0.0](https://github.com/lucacome/tailout/releases/tag/v1.0.0), 2 days ago) - Spawn an exit node for your tailnet anywhere
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.0.0](https://github.com/lucacome/draft-release/releases/tag/v2.0.0), 3 days ago) - Draft the next GitHub release
-- [anchore/scan-action](https://github.com/anchore/scan-action) ([v7.0.0](https://github.com/anchore/scan-action/releases/tag/v7.0.0), 5 days ago) - Anchore container analysis and scan provided as a GitHub Action
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-20](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-20), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.121.4](https://github.com/renovatebot/renovate/releases/tag/41.121.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [lucacome/tailout](https://github.com/lucacome/tailout) ([v1.0.0](https://github.com/lucacome/tailout/releases/tag/v1.0.0), 3 days ago) - Spawn an exit node for your tailnet anywhere
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.0.0](https://github.com/lucacome/draft-release/releases/tag/v2.0.0), 4 days ago) - Draft the next GitHub release
+- [anchore/scan-action](https://github.com/anchore/scan-action) ([v7.0.0](https://github.com/anchore/scan-action/releases/tag/v7.0.0), 6 days ago) - Anchore container analysis and scan provided as a GitHub Action
 
 #### 🔨 My recent Pull Requests
 
-- [Attest binaries instead of Docker image](https://github.com/lucacome/tailout/pull/37) on [lucacome/tailout](https://github.com/lucacome/tailout) (2 days ago)
-- [Add homebrew and sign artifacts](https://github.com/lucacome/tailout/pull/34) on [lucacome/tailout](https://github.com/lucacome/tailout) (3 days ago)
-- [Use new bot names](https://github.com/lucacome/draft-release/pull/656) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (3 days ago)
-- [Use dirname for config](https://github.com/lucacome/draft-release/pull/655) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (3 days ago)
-- [Corepack renovate](https://github.com/lucacome/draft-release/pull/654) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (4 days ago)
+- [Attest binaries instead of Docker image](https://github.com/lucacome/tailout/pull/37) on [lucacome/tailout](https://github.com/lucacome/tailout) (3 days ago)
+- [Add homebrew and sign artifacts](https://github.com/lucacome/tailout/pull/34) on [lucacome/tailout](https://github.com/lucacome/tailout) (4 days ago)
+- [Use new bot names](https://github.com/lucacome/draft-release/pull/656) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (4 days ago)
+- [Use dirname for config](https://github.com/lucacome/draft-release/pull/655) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (4 days ago)
+- [Corepack renovate](https://github.com/lucacome/draft-release/pull/654) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (3 days ago)
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (4 days ago)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (1 month ago)
 - [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas (1 month ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (2 months ago)
