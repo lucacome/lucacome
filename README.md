@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-25](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-25), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.131.1](https://github.com/renovatebot/renovate/releases/tag/41.131.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.1.2](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.1.2), 1 day ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-26](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-26), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.1.2](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.1.2), 2 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.0](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.0), 1 week ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [anchore/scan-action](https://github.com/anchore/scan-action) ([v7.0.0](https://github.com/anchore/scan-action/releases/tag/v7.0.0), 1 week ago) - Anchore container analysis and scan provided as a GitHub Action
+- [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.5.0](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.5.0), 3 weeks ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
 
 #### 🔨 My recent Pull Requests
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients. (2 days ago)
+- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients. (3 days ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (1 week ago)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (1 month ago)
 - [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas (1 month ago)
