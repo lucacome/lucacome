@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (2 days ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (3 days ago)
+- [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (1 day ago)
+- [lucacome/common](https://github.com/lucacome/common) - Common files (4 days ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 weeks ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 weeks ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (3 weeks ago)
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-10-23](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-10-23), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.2.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.2.0), 2 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-10-24](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-10-24), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.2.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.2.0), 3 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.5.1](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.5.1), 1 week ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
 - [nginx/nginx-plus-go-client](https://github.com/nginx/nginx-plus-go-client) ([v3.0.1](https://github.com/nginx/nginx-plus-go-client/releases/tag/v3.0.1), 2 weeks ago) - A client for NGINX Plus API for Go
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.0](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.0), 1 month ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 
 #### 🔨 My recent Pull Requests
 
-- [Simplify e2e test](https://github.com/lucacome/tailout/pull/83) on [lucacome/tailout](https://github.com/lucacome/tailout) (1 day ago)
-- [Replace promptui with huh](https://github.com/lucacome/tailout/pull/82) on [lucacome/tailout](https://github.com/lucacome/tailout) (2 days ago)
-- [Add templ generation](https://github.com/lucacome/tailout/pull/81) on [lucacome/tailout](https://github.com/lucacome/tailout) (2 days ago)
-- [Save and restore artifacts cache](https://github.com/lucacome/tailout/pull/78) on [lucacome/tailout](https://github.com/lucacome/tailout) (3 days ago)
-- [Add cache busters](https://github.com/lucacome/tailout/pull/77) on [lucacome/tailout](https://github.com/lucacome/tailout) (3 days ago)
+- [Remove tailnet option](https://github.com/lucacome/tailout/pull/84) on [lucacome/tailout](https://github.com/lucacome/tailout) (1 day ago)
+- [Simplify e2e test](https://github.com/lucacome/tailout/pull/83) on [lucacome/tailout](https://github.com/lucacome/tailout) (2 days ago)
+- [Replace promptui with huh](https://github.com/lucacome/tailout/pull/82) on [lucacome/tailout](https://github.com/lucacome/tailout) (3 days ago)
+- [Add templ generation](https://github.com/lucacome/tailout/pull/81) on [lucacome/tailout](https://github.com/lucacome/tailout) (3 days ago)
+- [Save and restore artifacts cache](https://github.com/lucacome/tailout/pull/78) on [lucacome/tailout](https://github.com/lucacome/tailout) (4 days ago)
 
 #### ⭐ Recent Stars
 
