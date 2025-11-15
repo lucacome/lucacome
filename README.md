@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-11-13](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-11-13), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.2.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.2.1), 1 day ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-11-14](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-11-14), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.2.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.2.1), 2 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [nginx/kic-test-containers](https://github.com/nginx/kic-test-containers) ([v0.2.6](https://github.com/nginx/kic-test-containers/releases/tag/v0.2.6), 1 week ago) - Docker containers used by the KIC team
 - [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.5.1](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.5.1), 1 month ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
 - [nginx/nginx-plus-go-client](https://github.com/nginx/nginx-plus-go-client) ([v3.0.1](https://github.com/nginx/nginx-plus-go-client/releases/tag/v3.0.1), 1 month ago) - A client for NGINX Plus API for Go
 
 #### 🔨 My recent Pull Requests
 
-- [Add missing deps](https://github.com/lucacome/draft-release/pull/717) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (3 days ago)
+- [Add missing deps](https://github.com/lucacome/draft-release/pull/717) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (4 days ago)
 - [Use arm64 runner](https://github.com/opentracing-contrib/nginx-opentracing/pull/966) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 weeks ago)
 - [Update dependencies](https://github.com/lucacome/draft-release/pull/701) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 weeks ago)
 - [Remove tailnet option](https://github.com/lucacome/tailout/pull/84) on [lucacome/tailout](https://github.com/lucacome/tailout) (3 weeks ago)
@@ -43,10 +43,10 @@
 #### 👯 Check out some of my recent followers
 
 - [borjaOrtizLlamas](https://github.com/borjaOrtizLlamas)
-- [bugbounted](https://github.com/bugbounted)
 - [kukushking](https://github.com/kukushking)
 - [emilycodestar](https://github.com/emilycodestar)
 - [cherylqian209-cmyk](https://github.com/cherylqian209-cmyk)
+- [rmax](https://github.com/rmax)
 
 #### 💬 Feedback
 
