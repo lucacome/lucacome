@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-11-17](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-11-17), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.2.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.2.1), 5 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-11-18](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-11-18), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.2.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.2.1), 6 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [nginx/kic-test-containers](https://github.com/nginx/kic-test-containers) ([v0.2.6](https://github.com/nginx/kic-test-containers/releases/tag/v0.2.6), 1 week ago) - Docker containers used by the KIC team
 - [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.5.1](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.5.1), 1 month ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
 - [nginx/nginx-plus-go-client](https://github.com/nginx/nginx-plus-go-client) ([v3.0.1](https://github.com/nginx/nginx-plus-go-client/releases/tag/v3.0.1), 1 month ago) - A client for NGINX Plus API for Go
