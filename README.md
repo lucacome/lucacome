@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (6 days ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
 - [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (1 month ago)
 - [lucacome/common](https://github.com/lucacome/common) - Common files (1 month ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (1 month ago)
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-11-29](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-11-29), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.1](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.1), 5 days ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) ([v3.0.1](https://github.com/lucacome/docker-image-update-checker/releases/tag/v3.0.1), 5 days ago) - Docker Image Update Checker Action
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.0.2](https://github.com/lucacome/draft-release/releases/tag/v2.0.2), 5 days ago) - Draft the next GitHub release
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-11-30](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-11-30), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.1](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.1), 6 days ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) ([v3.0.1](https://github.com/lucacome/docker-image-update-checker/releases/tag/v3.0.1), 6 days ago) - Docker Image Update Checker Action
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.0.2](https://github.com/lucacome/draft-release/releases/tag/v2.0.2), 6 days ago) - Draft the next GitHub release
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.2.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.2.1), 2 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
 #### 🔨 My recent Pull Requests
