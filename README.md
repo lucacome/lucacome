@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-11-30](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-11-30), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.1](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.1), 6 days ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) ([v3.0.1](https://github.com/lucacome/docker-image-update-checker/releases/tag/v3.0.1), 6 days ago) - Docker Image Update Checker Action
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.0.2](https://github.com/lucacome/draft-release/releases/tag/v2.0.2), 6 days ago) - Draft the next GitHub release
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-01](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-01), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.1](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.1), 1 week ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.2.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.2.1), 2 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [nginx/kic-test-containers](https://github.com/nginx/kic-test-containers) ([v0.2.6](https://github.com/nginx/kic-test-containers/releases/tag/v0.2.6), 3 weeks ago) - Docker containers used by the KIC team
+- [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.5.1](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.5.1), 1 month ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
 
 #### 🔨 My recent Pull Requests
 
-- [Add missing deps](https://github.com/lucacome/draft-release/pull/717) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 weeks ago)
+- [Add missing deps](https://github.com/lucacome/draft-release/pull/717) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (3 weeks ago)
 - [Use arm64 runner](https://github.com/opentracing-contrib/nginx-opentracing/pull/966) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 month ago)
 - [Update dependencies](https://github.com/lucacome/draft-release/pull/701) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (1 month ago)
 - [Remove tailnet option](https://github.com/lucacome/tailout/pull/84) on [lucacome/tailout](https://github.com/lucacome/tailout) (1 month ago)
