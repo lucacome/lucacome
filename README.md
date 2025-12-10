@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-08](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-08), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-09](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-09), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.1](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.1), 2 weeks ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.2.1](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.2.1), 3 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [nginx/kic-test-containers](https://github.com/nginx/kic-test-containers) ([v0.2.6](https://github.com/nginx/kic-test-containers/releases/tag/v0.2.6), 1 month ago) - Docker containers used by the KIC team
