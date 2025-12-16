@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-14](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-14), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.2.2](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.2.2), 5 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.1](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.1), 2 weeks ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-15](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-15), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.2.2](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.2.2), 6 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.1](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.1), 3 weeks ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [nginx/kic-test-containers](https://github.com/nginx/kic-test-containers) ([v0.2.6](https://github.com/nginx/kic-test-containers/releases/tag/v0.2.6), 1 month ago) - Docker containers used by the KIC team
 - [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) ([v1.5.1](https://github.com/nginx/nginx-prometheus-exporter/releases/tag/v1.5.1), 2 months ago) - NGINX Prometheus Exporter for NGINX and NGINX Plus
 
@@ -36,17 +36,17 @@
 
 - [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives (2 months ago)
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients. (2 months ago)
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (2 months ago)
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (3 months ago)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (4 months ago)
 - [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [frieren-mage](https://github.com/frieren-mage)
 - [Pyshkin1978](https://github.com/Pyshkin1978)
 - [nukezie](https://github.com/nukezie)
 - [borjaOrtizLlamas](https://github.com/borjaOrtizLlamas)
 - [kukushking](https://github.com/kukushking)
-- [emilycodestar](https://github.com/emilycodestar)
 
 #### 💬 Feedback
 
