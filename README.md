@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (3 weeks ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (4 weeks ago)
 - [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (1 month ago)
 - [lucacome/common](https://github.com/lucacome/common) - Common files (2 months ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 months ago)
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-20](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-20), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [nginx/alpine-fips](https://github.com/nginx/alpine-fips) ([v0.5.0](https://github.com/nginx/alpine-fips/releases/tag/v0.5.0), 3 days ago) - Alpine Linux with FIPS OpenSSL module
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.3.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.3.0), 3 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-21](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-21), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [nginx/alpine-fips](https://github.com/nginx/alpine-fips) ([v0.5.0](https://github.com/nginx/alpine-fips/releases/tag/v0.5.0), 4 days ago) - Alpine Linux with FIPS OpenSSL module
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.3.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.3.0), 4 days ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.1](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.1), 3 weeks ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [nginx/kic-test-containers](https://github.com/nginx/kic-test-containers) ([v0.2.6](https://github.com/nginx/kic-test-containers/releases/tag/v0.2.6), 1 month ago) - Docker containers used by the KIC team
 
@@ -30,7 +30,7 @@
 - [Use arm64 runner](https://github.com/opentracing-contrib/nginx-opentracing/pull/966) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 month ago)
 - [Update dependencies](https://github.com/lucacome/draft-release/pull/701) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (1 month ago)
 - [Remove tailnet option](https://github.com/lucacome/tailout/pull/84) on [lucacome/tailout](https://github.com/lucacome/tailout) (1 month ago)
-- [Simplify e2e test](https://github.com/lucacome/tailout/pull/83) on [lucacome/tailout](https://github.com/lucacome/tailout) (1 month ago)
+- [Simplify e2e test](https://github.com/lucacome/tailout/pull/83) on [lucacome/tailout](https://github.com/lucacome/tailout) (2 months ago)
 
 #### ⭐ Recent Stars
 
