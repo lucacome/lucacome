@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-29](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-29), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-30](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-30), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [nginx/alpine-fips](https://github.com/nginx/alpine-fips) ([v0.5.0](https://github.com/nginx/alpine-fips/releases/tag/v0.5.0), 1 week ago) - Alpine Linux with FIPS OpenSSL module
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.3.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.3.0), 1 week ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.1](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.1), 1 month ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
