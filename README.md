@@ -5,7 +5,7 @@
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 month ago)
 - [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (2 months ago)
 - [lucacome/common](https://github.com/lucacome/common) - Common files (2 months ago)
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 months ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (3 months ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (3 months ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-05](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-05), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-06](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-06), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [nginx/alpine-fips](https://github.com/nginx/alpine-fips) ([v0.5.0](https://github.com/nginx/alpine-fips/releases/tag/v0.5.0), 2 weeks ago) - Alpine Linux with FIPS OpenSSL module
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.3.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.3.0), 2 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.1](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.1), 1 month ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives (2 months ago)
+- [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives (3 months ago)
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients. (3 months ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (3 months ago)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (5 months ago)
