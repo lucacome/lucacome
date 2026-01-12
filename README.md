@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (4 days ago)
+- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (5 days ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 month ago)
 - [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (2 months ago)
 - [lucacome/common](https://github.com/lucacome/common) - Common files (2 months ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-10](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-10), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) ([v1.1.1](https://github.com/opentracing-contrib/go-stdlib/releases/tag/v1.1.1), 3 days ago) - OpenTracing instrumentation for packages in the Go stdlib
-- [nginx/nginx-asg-sync](https://github.com/nginx/nginx-asg-sync) ([v1.0.2](https://github.com/nginx/nginx-asg-sync/releases/tag/v1.0.2), 4 days ago) - NGINX Plus Integration with Cloud Autoscaling 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-11](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-11), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) ([v1.1.1](https://github.com/opentracing-contrib/go-stdlib/releases/tag/v1.1.1), 4 days ago) - OpenTracing instrumentation for packages in the Go stdlib
+- [nginx/nginx-asg-sync](https://github.com/nginx/nginx-asg-sync) ([v1.0.2](https://github.com/nginx/nginx-asg-sync/releases/tag/v1.0.2), 5 days ago) - NGINX Plus Integration with Cloud Autoscaling 
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.3.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.3.0), 3 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.1](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.1), 1 month ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix lint errors](https://github.com/opentracing-contrib/go-stdlib/pull/92) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (3 days ago)
+- [Fix lint errors](https://github.com/opentracing-contrib/go-stdlib/pull/92) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (4 days ago)
 - [Add missing deps](https://github.com/lucacome/draft-release/pull/717) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 months ago)
 - [Use arm64 runner](https://github.com/opentracing-contrib/nginx-opentracing/pull/966) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 months ago)
 - [Update dependencies](https://github.com/lucacome/draft-release/pull/701) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 months ago)
