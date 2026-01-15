@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 day ago)
 - [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (1 week ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 month ago)
 - [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (2 months ago)
 - [lucacome/common](https://github.com/lucacome/common) - Common files (2 months ago)
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,25 +18,25 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-13](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-13), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.2](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.2), 1 day ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
-- [nginx/nginx-asg-sync](https://github.com/nginx/nginx-asg-sync) ([v1.0.3](https://github.com/nginx/nginx-asg-sync/releases/tag/v1.0.3), 2 days ago) - NGINX Plus Integration with Cloud Autoscaling 
-- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) ([v1.1.1](https://github.com/opentracing-contrib/go-stdlib/releases/tag/v1.1.1), 6 days ago) - OpenTracing instrumentation for packages in the Go stdlib
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.3.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.3.0), 3 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-14](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-14), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.2](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.2), 2 days ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
+- [nginx/nginx-asg-sync](https://github.com/nginx/nginx-asg-sync) ([v1.0.3](https://github.com/nginx/nginx-asg-sync/releases/tag/v1.0.3), 3 days ago) - NGINX Plus Integration with Cloud Autoscaling 
+- [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) ([v1.1.1](https://github.com/opentracing-contrib/go-stdlib/releases/tag/v1.1.1), 1 week ago) - OpenTracing instrumentation for packages in the Go stdlib
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.3.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.3.0), 4 weeks ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix lint errors](https://github.com/opentracing-contrib/go-stdlib/pull/92) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (6 days ago)
+- [Update yaml-cpp](https://github.com/opentracing-contrib/nginx-opentracing/pull/1013) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
+- [Build modules for NGINX 1.29.2, 1.29.3 and 1.29.4](https://github.com/opentracing-contrib/nginx-opentracing/pull/1012) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
+- [Fix lint errors](https://github.com/opentracing-contrib/go-stdlib/pull/92) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (1 week ago)
 - [Add missing deps](https://github.com/lucacome/draft-release/pull/717) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 months ago)
 - [Use arm64 runner](https://github.com/opentracing-contrib/nginx-opentracing/pull/966) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 months ago)
-- [Update dependencies](https://github.com/lucacome/draft-release/pull/701) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 months ago)
-- [Remove tailnet option](https://github.com/lucacome/tailout/pull/84) on [lucacome/tailout](https://github.com/lucacome/tailout) (2 months ago)
 
 #### ⭐ Recent Stars
 
 - [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives (3 months ago)
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients. (3 months ago)
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (3 months ago)
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (4 months ago)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (5 months ago)
 - [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas (5 months ago)
 
