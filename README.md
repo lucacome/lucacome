@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (4 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (5 days ago)
 - [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (1 week ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 month ago)
 - [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (2 months ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (2 months ago)
+- [lucacome/common](https://github.com/lucacome/common) - Common files (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-17](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-17), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.0.3](https://github.com/lucacome/draft-release/releases/tag/v2.0.3), 2 days ago) - Draft the next GitHub release
-- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.2](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.2), 5 days ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-18](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-18), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.0.3](https://github.com/lucacome/draft-release/releases/tag/v2.0.3), 3 days ago) - Draft the next GitHub release
+- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.2](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.2), 6 days ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) ([v1.1.1](https://github.com/opentracing-contrib/go-stdlib/releases/tag/v1.1.1), 1 week ago) - OpenTracing instrumentation for packages in the Go stdlib
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.3.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.3.0), 1 month ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 
 #### 🔨 My recent Pull Requests
 
-- [Update yaml-cpp](https://github.com/opentracing-contrib/nginx-opentracing/pull/1013) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (4 days ago)
-- [Build modules for NGINX 1.29.2, 1.29.3 and 1.29.4](https://github.com/opentracing-contrib/nginx-opentracing/pull/1012) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (4 days ago)
+- [Update yaml-cpp](https://github.com/opentracing-contrib/nginx-opentracing/pull/1013) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (5 days ago)
+- [Build modules for NGINX 1.29.2, 1.29.3 and 1.29.4](https://github.com/opentracing-contrib/nginx-opentracing/pull/1012) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (5 days ago)
 - [Fix lint errors](https://github.com/opentracing-contrib/go-stdlib/pull/92) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (1 week ago)
 - [Add missing deps](https://github.com/lucacome/draft-release/pull/717) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 months ago)
 - [Use arm64 runner](https://github.com/opentracing-contrib/nginx-opentracing/pull/966) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 months ago)
