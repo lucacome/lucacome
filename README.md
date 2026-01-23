@@ -4,7 +4,7 @@
 
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
 - [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (2 weeks ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 month ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 months ago)
 - [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (3 months ago)
 - [lucacome/common](https://github.com/lucacome/common) - Common files (3 months ago)
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-21](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-21), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-22](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-22), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.2](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.2), 1 week ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) ([v2.3.0](https://github.com/nginx/nginx-gateway-fabric/releases/tag/v2.3.0), 1 month ago) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 10 months ago) - a middleware for go-redis/redis to use opentracing
