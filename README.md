@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 day ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 days ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 month ago)
 - [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (1 month ago)
 - [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (3 months ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-02-13](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-02-13), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.0.4](https://github.com/lucacome/draft-release/releases/tag/v2.0.4), 1 day ago) - Draft the next GitHub release
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-02-14](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-02-14), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.0.4](https://github.com/lucacome/draft-release/releases/tag/v2.0.4), 2 days ago) - Draft the next GitHub release
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.2](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.2), 1 month ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 11 months ago) - a middleware for go-redis/redis to use opentracing
 - [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.2](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.2), 11 months ago) - OpenTracing middleware for gin-gonic
 
 #### 🔨 My recent Pull Requests
 
-- [Fix failing tests with new @actions/core dep](https://github.com/lucacome/draft-release/pull/803) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (1 day ago)
+- [Fix failing tests with new @actions/core dep](https://github.com/lucacome/draft-release/pull/803) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 days ago)
 - [Update yaml-cpp](https://github.com/opentracing-contrib/nginx-opentracing/pull/1013) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 month ago)
 - [Build modules for NGINX 1.29.2, 1.29.3 and 1.29.4](https://github.com/opentracing-contrib/nginx-opentracing/pull/1012) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 month ago)
 - [Fix lint errors](https://github.com/opentracing-contrib/go-stdlib/pull/92) on [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) (1 month ago)
