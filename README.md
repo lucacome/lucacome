@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (1 day ago)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (6 days ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 week ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 month ago)
 - [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-02-20](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-02-20), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-02-21](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-02-21), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.0.4](https://github.com/lucacome/draft-release/releases/tag/v2.0.4), 1 week ago) - Draft the next GitHub release
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.2](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.2), 1 month ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 11 months ago) - a middleware for go-redis/redis to use opentracing
@@ -26,15 +26,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix seerr URL in jellyseerr script](https://github.com/community-scripts/ProxmoxVE/pull/11951) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (6 days ago)
-- [Fix jellyseer and overseer script replacement](https://github.com/community-scripts/ProxmoxVE/pull/11949) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (6 days ago)
+- [Fix seerr URL in jellyseerr script](https://github.com/community-scripts/ProxmoxVE/pull/11951) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
+- [Fix jellyseer and overseer script replacement](https://github.com/community-scripts/ProxmoxVE/pull/11949) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
 - [Fix failing tests with new @actions/core dep](https://github.com/lucacome/draft-release/pull/803) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (1 week ago)
 - [Update yaml-cpp](https://github.com/opentracing-contrib/nginx-opentracing/pull/1013) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 month ago)
 - [Build modules for NGINX 1.29.2, 1.29.3 and 1.29.4](https://github.com/opentracing-contrib/nginx-opentracing/pull/1012) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS (2 days ago)
+- [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS (3 days ago)
 - [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives (4 months ago)
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients. (5 months ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (5 months ago)
