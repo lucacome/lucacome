@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (2 days ago)
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (2 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (3 days ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (3 days ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 weeks ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 weeks ago)
 - [opentracing-contrib/go-stdlib](https://github.com/opentracing-contrib/go-stdlib) - OpenTracing instrumentation for packages in the Go stdlib (1 month ago)
@@ -18,25 +18,25 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-02-28](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-02-28), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.42.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.42.0), 2 days ago) - NGINX plugin for OpenTracing
-- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.21.0](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.21.0), 3 days ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-03-01](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-03-01), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.42.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.42.0), 3 days ago) - NGINX plugin for OpenTracing
+- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.21.0](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.21.0), 4 days ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 11 months ago) - a middleware for go-redis/redis to use opentracing
 - [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.2](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.2), 11 months ago) - OpenTracing middleware for gin-gonic
 
 #### 🔨 My recent Pull Requests
 
-- [Build modules for NGINX 1.28.2 and 1.29.5](https://github.com/opentracing-contrib/nginx-opentracing/pull/1040) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
-- [Add back s390x builds](https://github.com/opentracing-contrib/nginx-opentracing/pull/1039) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
+- [Build modules for NGINX 1.28.2 and 1.29.5](https://github.com/opentracing-contrib/nginx-opentracing/pull/1040) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 days ago)
+- [Add back s390x builds](https://github.com/opentracing-contrib/nginx-opentracing/pull/1039) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 days ago)
 - [Fix seerr URL in jellyseerr script](https://github.com/community-scripts/ProxmoxVE/pull/11951) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (2 weeks ago)
 - [Fix jellyseer and overseer script replacement](https://github.com/community-scripts/ProxmoxVE/pull/11949) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (2 weeks ago)
 - [Fix failing tests with new @actions/core dep](https://github.com/lucacome/draft-release/pull/803) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (4 days ago)
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (5 days ago)
-- [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) - Native iOS app for interacting with a Paperless-ngx installation to manage documents (5 days ago)
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (5 days ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (6 days ago)
+- [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) - Native iOS app for interacting with a Paperless-ngx installation to manage documents (6 days ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (1 week ago)
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS (1 week ago)
 
