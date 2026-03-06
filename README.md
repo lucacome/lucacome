@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 day ago)
-- [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (3 days ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (6 days ago)
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (6 days ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 days ago)
+- [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (4 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (1 week ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-03-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-03-04), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-03-05](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-03-05), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.21.0](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.21.0), 1 week ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 11 months ago) - a middleware for go-redis/redis to use opentracing
 - [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.2](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.2), 11 months ago) - OpenTracing middleware for gin-gonic
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove axios](https://github.com/lucacome/docker-image-update-checker/pull/461) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (today)
-- [Update config](https://github.com/lucacome/docker-image-update-checker/pull/460) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (today)
-- [Change templ data source](https://github.com/lucacome/tailout/pull/177) on [lucacome/tailout](https://github.com/lucacome/tailout) (3 days ago)
-- [Add regions names](https://github.com/lucacome/tailout/pull/171) on [lucacome/tailout](https://github.com/lucacome/tailout) (3 days ago)
-- [Build modules for NGINX 1.28.2 and 1.29.5](https://github.com/opentracing-contrib/nginx-opentracing/pull/1040) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (6 days ago)
+- [Remove axios](https://github.com/lucacome/docker-image-update-checker/pull/461) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
+- [Update config](https://github.com/lucacome/docker-image-update-checker/pull/460) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
+- [Change templ data source](https://github.com/lucacome/tailout/pull/177) on [lucacome/tailout](https://github.com/lucacome/tailout) (4 days ago)
+- [Add regions names](https://github.com/lucacome/tailout/pull/171) on [lucacome/tailout](https://github.com/lucacome/tailout) (4 days ago)
+- [Build modules for NGINX 1.28.2 and 1.29.5](https://github.com/opentracing-contrib/nginx-opentracing/pull/1040) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
 
 #### ⭐ Recent Stars
 
