@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 days ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 days ago)
-- [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (6 days ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (3 days ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (3 days ago)
+- [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (1 week ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
 - [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (1 week ago)
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-03-07](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-03-07), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-03-08](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-03-08), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) ([v0.1.0](https://github.com/opentracing-contrib/goredis/releases/tag/v0.1.0), 11 months ago) - a middleware for go-redis/redis to use opentracing
-- [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.2](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.2), 11 months ago) - OpenTracing middleware for gin-gonic
+- [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.2](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.2), 1 year ago) - OpenTracing middleware for gin-gonic
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 - [opentracing-contrib/python-requests](https://github.com/opentracing-contrib/python-requests) ([v0.3.0](https://github.com/opentracing-contrib/python-requests/releases/tag/v0.3.0), 5 years ago) - OpenTracing instrumentation for Requests
 
 #### 🔨 My recent Pull Requests
 
-- [Add codespell](https://github.com/lucacome/tailout/pull/179) on [lucacome/tailout](https://github.com/lucacome/tailout) (2 days ago)
-- [Add codespell](https://github.com/lucacome/draft-release/pull/826) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 days ago)
-- [Add codespell](https://github.com/lucacome/docker-image-update-checker/pull/474) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 days ago)
-- [Update registry for tests](https://github.com/lucacome/docker-image-update-checker/pull/473) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 days ago)
-- [Remove axios](https://github.com/lucacome/docker-image-update-checker/pull/461) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (3 days ago)
+- [Add codespell](https://github.com/lucacome/tailout/pull/179) on [lucacome/tailout](https://github.com/lucacome/tailout) (3 days ago)
+- [Add codespell](https://github.com/lucacome/draft-release/pull/826) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (3 days ago)
+- [Add codespell](https://github.com/lucacome/docker-image-update-checker/pull/474) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (3 days ago)
+- [Update registry for tests](https://github.com/lucacome/docker-image-update-checker/pull/473) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (3 days ago)
+- [Remove axios](https://github.com/lucacome/docker-image-update-checker/pull/461) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (4 days ago)
 
 #### ⭐ Recent Stars
 
