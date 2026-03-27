@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (3 days ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (4 days ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (2 weeks ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 weeks ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (3 weeks ago)
 - [lucacome/tailout](https://github.com/lucacome/tailout) - Spawn an exit node for your tailnet anywhere (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-03-25](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-03-25), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-03-26](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-03-26), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 
 #### 🔨 My recent Pull Requests
 
-- [Add AGENTS.md](https://github.com/lucacome/draft-release/pull/857) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (6 days ago)
+- [Add AGENTS.md](https://github.com/lucacome/draft-release/pull/857) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (1 week ago)
 - [build](https://github.com/lucacome/karabiner/pull/12) on [lucacome/karabiner](https://github.com/lucacome/karabiner) (1 week ago)
-- [Don&#39;t commit mise prepare state](https://github.com/lucacome/draft-release/pull/849) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (1 week ago)
-- [Use mise prepare](https://github.com/lucacome/draft-release/pull/846) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (1 week ago)
+- [Don&#39;t commit mise prepare state](https://github.com/lucacome/draft-release/pull/849) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 weeks ago)
+- [Use mise prepare](https://github.com/lucacome/draft-release/pull/846) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 weeks ago)
 - [Remove old CircleCI jobs](https://github.com/opentracing-contrib/nginx-opentracing/pull/1059) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 weeks ago)
 
 #### ⭐ Recent Stars
@@ -35,7 +35,7 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (1 week ago)
 - [mostpinkest/pam-watchid](https://github.com/mostpinkest/pam-watchid) - PAM plugin module that allows the Apple Watch to be used for authentication (1 week ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
-- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (1 week ago)
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
