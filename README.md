@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 day ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (2 days ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (3 days ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (3 days ago)
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (5 days ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (3 days ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (4 days ago)
+- [lucacome/common](https://github.com/lucacome/common) - Common files (4 days ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,21 +18,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-04-03](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-04-03), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-04-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-04-04), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 
 #### 🔨 My recent Pull Requests
 
-- [Remove dockerhub login for GHCR](https://github.com/lucacome/docker-image-update-checker/pull/515) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
-- [Update README](https://github.com/lucacome/docker-image-update-checker/pull/510) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
-- [Add needs-building output](https://github.com/lucacome/docker-image-update-checker/pull/509) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
-- [Build modules for NGINX 1.28.3](https://github.com/opentracing-contrib/nginx-opentracing/pull/1080) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
-- [Support all major registries](https://github.com/lucacome/docker-image-update-checker/pull/508) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 days ago)
+- [Remove dockerhub login for GHCR](https://github.com/lucacome/docker-image-update-checker/pull/515) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 days ago)
+- [Update README](https://github.com/lucacome/docker-image-update-checker/pull/510) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 days ago)
+- [Add needs-building output](https://github.com/lucacome/docker-image-update-checker/pull/509) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 days ago)
+- [Build modules for NGINX 1.28.3](https://github.com/opentracing-contrib/nginx-opentracing/pull/1080) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 days ago)
+- [Support all major registries](https://github.com/lucacome/docker-image-update-checker/pull/508) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (1 day ago)
-- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (5 days ago)
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (2 days ago)
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (6 days ago)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (2 weeks ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (2 weeks ago)
 - [mostpinkest/pam-watchid](https://github.com/mostpinkest/pam-watchid) - PAM plugin module that allows the Apple Watch to be used for authentication (2 weeks ago)
