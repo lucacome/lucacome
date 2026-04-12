@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (2 days ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (3 days ago)
-- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (3 days ago)
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (4 days ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (5 days ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (3 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (4 days ago)
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (4 days ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (5 days ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,22 +18,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-04-10](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-04-10), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.45.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.45.0), 3 days ago) - NGINX plugin for OpenTracing
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) ([v3.1.0](https://github.com/lucacome/docker-image-update-checker/releases/tag/v3.1.0), 5 days ago) - Docker Image Update Checker Action
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-04-11](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-04-11), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.45.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.45.0), 4 days ago) - NGINX plugin for OpenTracing
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) ([v3.1.0](https://github.com/lucacome/docker-image-update-checker/releases/tag/v3.1.0), 6 days ago) - Docker Image Update Checker Action
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 
 #### 🔨 My recent Pull Requests
 
-- [Build arm64 modules](https://github.com/opentracing-contrib/nginx-opentracing/pull/1089) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 days ago)
-- [Build modules for NGINX 1.29.8](https://github.com/opentracing-contrib/nginx-opentracing/pull/1088) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 days ago)
-- [Fix dependencies](https://github.com/opentracing-contrib/nginx-opentracing/pull/1087) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 days ago)
-- [Remove go toolchain from tests](https://github.com/opentracing-contrib/go-grpc/pull/70) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (3 days ago)
-- [Remove go toolchain](https://github.com/opentracing-contrib/go-grpc/pull/69) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (3 days ago)
+- [Build arm64 modules](https://github.com/opentracing-contrib/nginx-opentracing/pull/1089) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (4 days ago)
+- [Build modules for NGINX 1.29.8](https://github.com/opentracing-contrib/nginx-opentracing/pull/1088) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (4 days ago)
+- [Fix dependencies](https://github.com/opentracing-contrib/nginx-opentracing/pull/1087) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (4 days ago)
+- [Remove go toolchain from tests](https://github.com/opentracing-contrib/go-grpc/pull/70) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (4 days ago)
+- [Remove go toolchain](https://github.com/opentracing-contrib/go-grpc/pull/69) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (5 days ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (6 days ago)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (1 week ago)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (1 week ago)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (3 weeks ago)
