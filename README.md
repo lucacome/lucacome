@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (4 days ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (5 days ago)
-- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (5 days ago)
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (6 days ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 week ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 day ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 day ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (5 days ago)
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) - Package otgrpc provides OpenTracing support for any gRPC client or server. (6 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,18 +18,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-04-12](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-04-12), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.45.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.45.0), 5 days ago) - NGINX plugin for OpenTracing
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) ([v3.1.0](https://github.com/lucacome/docker-image-update-checker/releases/tag/v3.1.0), 1 week ago) - Docker Image Update Checker Action
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-04-13](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-04-13), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.1.1](https://github.com/lucacome/draft-release/releases/tag/v2.1.1), today) - Draft the next GitHub release
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.45.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.45.0), 6 days ago) - NGINX plugin for OpenTracing
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 
 #### 🔨 My recent Pull Requests
 
-- [Build arm64 modules](https://github.com/opentracing-contrib/nginx-opentracing/pull/1089) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (5 days ago)
-- [Build modules for NGINX 1.29.8](https://github.com/opentracing-contrib/nginx-opentracing/pull/1088) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (5 days ago)
-- [Fix dependencies](https://github.com/opentracing-contrib/nginx-opentracing/pull/1087) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (5 days ago)
-- [Remove go toolchain from tests](https://github.com/opentracing-contrib/go-grpc/pull/70) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (5 days ago)
-- [Remove go toolchain](https://github.com/opentracing-contrib/go-grpc/pull/69) on [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) (5 days ago)
+- [Remove npm prefix in mise](https://github.com/lucacome/docker-image-update-checker/pull/530) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (today)
+- [Make tests consistent](https://github.com/lucacome/draft-release/pull/909) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (today)
+- [Remove npm prefix in mise](https://github.com/lucacome/draft-release/pull/907) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (today)
+- [Fix missing fields in git context](https://github.com/lucacome/draft-release/pull/906) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (1 day ago)
+- [Build arm64 modules](https://github.com/opentracing-contrib/nginx-opentracing/pull/1089) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (6 days ago)
 
 #### ⭐ Recent Stars
 
