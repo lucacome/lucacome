@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) - Integration with go.uber.org/zap (4 days ago)
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (4 days ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (4 days ago)
-- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (4 days ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (5 days ago)
+- [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) - Integration with go.uber.org/zap (5 days ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (5 days ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (5 days ago)
+- [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) - a middleware for go-redis/redis to use opentracing (5 days ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,22 +18,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-04-17](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-04-17), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.3](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.3), 4 days ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.1.1](https://github.com/lucacome/draft-release/releases/tag/v2.1.1), 4 days ago) - Draft the next GitHub release
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-04-18](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-04-18), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.3](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.3), 5 days ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.1.1](https://github.com/lucacome/draft-release/releases/tag/v2.1.1), 5 days ago) - Draft the next GitHub release
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 
 #### 🔨 My recent Pull Requests
 
-- [Migrate golangci-lint to v2](https://github.com/opentracing-contrib/goredis/pull/65) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (4 days ago)
-- [Remove npm prefix in mise](https://github.com/lucacome/docker-image-update-checker/pull/530) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (4 days ago)
-- [Make tests consistent](https://github.com/lucacome/draft-release/pull/909) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (4 days ago)
-- [Remove npm prefix in mise](https://github.com/lucacome/draft-release/pull/907) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (4 days ago)
-- [Fix missing fields in git context](https://github.com/lucacome/draft-release/pull/906) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (5 days ago)
+- [Migrate golangci-lint to v2](https://github.com/opentracing-contrib/goredis/pull/65) on [opentracing-contrib/goredis](https://github.com/opentracing-contrib/goredis) (5 days ago)
+- [Remove npm prefix in mise](https://github.com/lucacome/docker-image-update-checker/pull/530) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (5 days ago)
+- [Make tests consistent](https://github.com/lucacome/draft-release/pull/909) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (5 days ago)
+- [Remove npm prefix in mise](https://github.com/lucacome/draft-release/pull/907) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (5 days ago)
+- [Fix missing fields in git context](https://github.com/lucacome/draft-release/pull/906) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨ (4 days ago)
+- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨ (5 days ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (2 weeks ago)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (2 weeks ago)
