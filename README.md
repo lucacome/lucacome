@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) - Homebrew Formulae to my binaries (4 days ago)
-- [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) - Control Google Chrome from the command line (4 days ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (5 days ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (6 days ago)
+- [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) - Homebrew Formulae to my binaries (5 days ago)
+- [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) - Control Google Chrome from the command line (5 days ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (6 days ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 week ago)
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) - Integration with go.uber.org/zap (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-04-27](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-04-27), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.0.4](https://github.com/lucacome/chrome-cli/releases/tag/v2.0.4), 4 days ago) - Control Google Chrome from the command line
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.2.0](https://github.com/lucacome/draft-release/releases/tag/v2.2.0), 5 days ago) - Draft the next GitHub release
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-04-28](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-04-28), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.0.4](https://github.com/lucacome/chrome-cli/releases/tag/v2.0.4), 5 days ago) - Control Google Chrome from the command line
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.2.0](https://github.com/lucacome/draft-release/releases/tag/v2.2.0), 6 days ago) - Draft the next GitHub release
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 1 week ago) - Integration with go.uber.org/zap
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 
 #### 🔨 My recent Pull Requests
 
-- [chrome-cli 2.0.4](https://github.com/lucacome/homebrew-tap/pull/2) on [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) (4 days ago)
-- [Remove tab right away](https://github.com/lucacome/chrome-cli/pull/15) on [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) (4 days ago)
-- [chrome-cli 2.0.3](https://github.com/lucacome/homebrew-tap/pull/1) on [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) (5 days ago)
-- [Use right action](https://github.com/lucacome/chrome-cli/pull/13) on [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) (5 days ago)
-- [Use formula and add scripts](https://github.com/lucacome/chrome-cli/pull/12) on [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) (5 days ago)
+- [chrome-cli 2.0.4](https://github.com/lucacome/homebrew-tap/pull/2) on [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) (5 days ago)
+- [Remove tab right away](https://github.com/lucacome/chrome-cli/pull/15) on [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) (5 days ago)
+- [chrome-cli 2.0.3](https://github.com/lucacome/homebrew-tap/pull/1) on [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) (6 days ago)
+- [Use right action](https://github.com/lucacome/chrome-cli/pull/13) on [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) (6 days ago)
+- [Use formula and add scripts](https://github.com/lucacome/chrome-cli/pull/12) on [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (6 days ago)
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (1 week ago)
 - [invilso/fly-vpn](https://github.com/invilso/fly-vpn) - Disposable global VPN in seconds ephemeral Tailscale exit node on Fly.io with a terminal UI (1 week ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 week ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 week ago)
