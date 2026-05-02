@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-04-30](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-04-30), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-05-01](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-05-01), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.0.4](https://github.com/lucacome/chrome-cli/releases/tag/v2.0.4), 1 week ago) - Control Google Chrome from the command line
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.2.0](https://github.com/lucacome/draft-release/releases/tag/v2.2.0), 1 week ago) - Draft the next GitHub release
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 1 week ago) - Integration with go.uber.org/zap
