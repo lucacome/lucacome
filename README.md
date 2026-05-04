@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-05-02](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-05-02), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-05-03](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-05-03), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.0.4](https://github.com/lucacome/chrome-cli/releases/tag/v2.0.4), 1 week ago) - Control Google Chrome from the command line
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.2.0](https://github.com/lucacome/draft-release/releases/tag/v2.2.0), 1 week ago) - Draft the next GitHub release
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 1 week ago) - Integration with go.uber.org/zap
@@ -37,7 +37,7 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (1 week ago)
 - [invilso/fly-vpn](https://github.com/invilso/fly-vpn) - Disposable global VPN in seconds ephemeral Tailscale exit node on Fly.io with a terminal UI (1 week ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 week ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 week ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 weeks ago)
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
