@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/adguardlogs](https://github.com/lucacome/adguardlogs) - Analyze AdGuard query logs (1 day ago)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 days ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (5 days ago)
-- [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) - Control Google Chrome from the command line (2 weeks ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 day ago)
+- [lucacome/adguardlogs](https://github.com/lucacome/adguardlogs) - Analyze AdGuard query logs (2 days ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (3 days ago)
 - [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) - Homebrew Formulae to my binaries (2 weeks ago)
+- [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) - Control Google Chrome from the command line (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,34 +18,34 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-05-12](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-05-12), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-05-13](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-05-13), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.0.4](https://github.com/lucacome/chrome-cli/releases/tag/v2.0.4), 2 weeks ago) - Control Google Chrome from the command line
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 3 weeks ago) - Integration with go.uber.org/zap
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 
 #### 🔨 My recent Pull Requests
 
-- [Prune pnpm store](https://github.com/community-scripts/ProxmoxVE/pull/14460) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 day ago)
-- [Save Omada version](https://github.com/community-scripts/ProxmoxVE/pull/14433) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (2 days ago)
-- [Save Beszel version](https://github.com/community-scripts/ProxmoxVE/pull/14389) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (3 days ago)
-- [Check for release for Sonarr](https://github.com/community-scripts/ProxmoxVE/pull/14354) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (4 days ago)
-- [Purge openresty](https://github.com/community-scripts/ProxmoxVE/pull/14353) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (4 days ago)
+- [Build modules for NGINX 1.30.1 and 1.31.0](https://github.com/opentracing-contrib/nginx-opentracing/pull/1110) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
+- [Prune pnpm store](https://github.com/community-scripts/ProxmoxVE/pull/14460) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (2 days ago)
+- [Save Omada version](https://github.com/community-scripts/ProxmoxVE/pull/14433) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (3 days ago)
+- [Save Beszel version](https://github.com/community-scripts/ProxmoxVE/pull/14389) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (4 days ago)
+- [Check for release for Sonarr](https://github.com/community-scripts/ProxmoxVE/pull/14354) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (1 day ago)
-- [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (1 day ago)
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (5 days ago)
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (2 days ago)
+- [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (2 days ago)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (6 days ago)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (3 weeks ago)
 - [invilso/fly-vpn](https://github.com/invilso/fly-vpn) - Disposable global VPN in seconds ephemeral Tailscale exit node on Fly.io with a terminal UI (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
 - [foyezkafi](https://github.com/foyezkafi)
-- [peterruler](https://github.com/peterruler)
 - [EimanTahir027](https://github.com/EimanTahir027)
 - [giovanniclima](https://github.com/giovanniclima)
 - [starsentry](https://github.com/starsentry)
+- [doncicuto](https://github.com/doncicuto)
 
 #### 💬 Feedback
 
