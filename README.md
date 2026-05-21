@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) - Homebrew Formulae to my binaries (6 days ago)
-- [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) - Control Google Chrome from the command line (6 days ago)
+- [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) - Homebrew Formulae to my binaries (1 week ago)
+- [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) - Control Google Chrome from the command line (1 week ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
 - [lucacome/adguardlogs](https://github.com/lucacome/adguardlogs) - Analyze AdGuard query logs (1 week ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 week ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-05-19](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-05-19), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 5 days ago) - Control Google Chrome from the command line
-- [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 4 weeks ago) - Integration with go.uber.org/zap
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-05-20](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-05-20), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 6 days ago) - Control Google Chrome from the command line
+- [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 1 month ago) - Integration with go.uber.org/zap
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 
 #### 🔨 My recent Pull Requests
 
-- [chrome-cli 2.1.0](https://github.com/lucacome/homebrew-tap/pull/3) on [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) (5 days ago)
-- [Duplicate](https://github.com/lucacome/chrome-cli/pull/19) on [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) (5 days ago)
+- [chrome-cli 2.1.0](https://github.com/lucacome/homebrew-tap/pull/3) on [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) (6 days ago)
+- [Duplicate](https://github.com/lucacome/chrome-cli/pull/19) on [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) (6 days ago)
 - [Build modules for NGINX 1.30.1 and 1.31.0](https://github.com/opentracing-contrib/nginx-opentracing/pull/1110) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
 - [Prune pnpm store](https://github.com/community-scripts/ProxmoxVE/pull/14460) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
 - [Save Omada version](https://github.com/community-scripts/ProxmoxVE/pull/14433) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
@@ -37,7 +37,7 @@
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (1 week ago)
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (1 week ago)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (4 weeks ago)
-- [invilso/fly-vpn](https://github.com/invilso/fly-vpn) - Disposable global VPN in seconds ephemeral Tailscale exit node on Fly.io with a terminal UI (4 weeks ago)
+- [invilso/fly-vpn](https://github.com/invilso/fly-vpn) - Disposable global VPN in seconds ephemeral Tailscale exit node on Fly.io with a terminal UI (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
