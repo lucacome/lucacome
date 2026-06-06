@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-03](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-03), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-04), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 3 weeks ago) - Control Google Chrome from the command line
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 1 month ago) - Integration with go.uber.org/zap
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
