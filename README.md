@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-04), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-05](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-05), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 3 weeks ago) - Control Google Chrome from the command line
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 1 month ago) - Integration with go.uber.org/zap
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
@@ -35,7 +35,7 @@
 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (3 weeks ago)
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (3 weeks ago)
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (4 weeks ago)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (1 month ago)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (1 month ago)
 - [invilso/fly-vpn](https://github.com/invilso/fly-vpn) - Disposable global VPN in seconds ephemeral Tailscale exit node on Fly.io with a terminal UI (1 month ago)
 
