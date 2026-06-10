@@ -6,7 +6,7 @@
 - [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) - Homebrew Formulae to my binaries (3 weeks ago)
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) - Control Google Chrome from the command line (3 weeks ago)
 - [lucacome/adguardlogs](https://github.com/lucacome/adguardlogs) - Analyze AdGuard query logs (4 weeks ago)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (4 weeks ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-07](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-07), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-08](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-08), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 3 weeks ago) - Control Google Chrome from the command line
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 1 month ago) - Integration with go.uber.org/zap
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
@@ -29,7 +29,7 @@
 - [Build modules for NGINX 1.30.2 and 1.31.1](https://github.com/opentracing-contrib/nginx-opentracing/pull/1120) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 weeks ago)
 - [chrome-cli 2.1.0](https://github.com/lucacome/homebrew-tap/pull/3) on [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) (3 weeks ago)
 - [Duplicate](https://github.com/lucacome/chrome-cli/pull/19) on [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) (3 weeks ago)
-- [Build modules for NGINX 1.30.1 and 1.31.0](https://github.com/opentracing-contrib/nginx-opentracing/pull/1110) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
+- [Build modules for NGINX 1.30.1 and 1.31.0](https://github.com/opentracing-contrib/nginx-opentracing/pull/1110) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
