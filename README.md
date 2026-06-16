@@ -18,14 +18,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-13](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-13), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-14](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-14), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 1 month ago) - Control Google Chrome from the command line
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 1 month ago) - Integration with go.uber.org/zap
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 
 #### 🔨 My recent Pull Requests
 
-- [Remove date from trixie](https://github.com/opentracing-contrib/nginx-opentracing/pull/1123) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 weeks ago)
+- [Remove date from trixie](https://github.com/opentracing-contrib/nginx-opentracing/pull/1123) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
 - [Build modules for NGINX 1.30.2 and 1.31.1](https://github.com/opentracing-contrib/nginx-opentracing/pull/1120) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
 - [chrome-cli 2.1.0](https://github.com/lucacome/homebrew-tap/pull/3) on [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) (1 month ago)
 - [Duplicate](https://github.com/lucacome/chrome-cli/pull/19) on [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) (1 month ago)
