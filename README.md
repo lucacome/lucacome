@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (1 day ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (1 day ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 day ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (1 day ago)
+- [lucacome/common](https://github.com/lucacome/common) - Common files (2 days ago)
+- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (2 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (2 days ago)
 - [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) - Homebrew Formulae to my binaries (1 month ago)
-- [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) - Control Google Chrome from the command line (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,18 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-17](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-17), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.48.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.48.0), 1 day ago) - NGINX plugin for OpenTracing
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-18](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-18), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 1 month ago) - Control Google Chrome from the command line
-- [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 1 month ago) - Integration with go.uber.org/zap
+- [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 2 months ago) - Integration with go.uber.org/zap
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 
 #### 🔨 My recent Pull Requests
 
-- [Remove patch from ubi](https://github.com/lucacome/nginx-ubi/pull/492) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (today)
-- [Switch back to debian numbers](https://github.com/opentracing-contrib/nginx-opentracing/pull/1146) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
-- [Remove date from trixie](https://github.com/opentracing-contrib/nginx-opentracing/pull/1145) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
-- [Build modules for NGINX 1.30.3 and 1.31.2](https://github.com/opentracing-contrib/nginx-opentracing/pull/1144) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
-- [Remove date from trixie](https://github.com/opentracing-contrib/nginx-opentracing/pull/1123) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
+- [Correctly extract tag name when commit has multiple decorations](https://github.com/docker/actions-toolkit/pull/1188) on [docker/actions-toolkit](https://github.com/docker/actions-toolkit) (1 day ago)
+- [Remove patch from ubi](https://github.com/lucacome/nginx-ubi/pull/492) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 day ago)
+- [Switch back to debian numbers](https://github.com/opentracing-contrib/nginx-opentracing/pull/1146) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
+- [Remove date from trixie](https://github.com/opentracing-contrib/nginx-opentracing/pull/1145) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
+- [Build modules for NGINX 1.30.3 and 1.31.2](https://github.com/opentracing-contrib/nginx-opentracing/pull/1144) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
 
 #### ⭐ Recent Stars
 
@@ -37,7 +38,7 @@
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (1 month ago)
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (1 month ago)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (1 month ago)
-- [invilso/fly-vpn](https://github.com/invilso/fly-vpn) - Disposable global VPN in seconds ephemeral Tailscale exit node on Fly.io with a terminal UI (1 month ago)
+- [invilso/fly-vpn](https://github.com/invilso/fly-vpn) - Disposable global VPN in seconds ephemeral Tailscale exit node on Fly.io with a terminal UI (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
