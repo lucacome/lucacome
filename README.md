@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (4 days ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (5 days ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (5 days ago)
-- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (5 days ago)
-- [lucacome/homebrew-tap](https://github.com/lucacome/homebrew-tap) - Homebrew Formulae to my binaries (1 month ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (1 day ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (1 day ago)
+- [lucacome/common](https://github.com/lucacome/common) - Common files (1 day ago)
+- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (6 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,18 +18,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-21](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-21), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-22](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-22), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 1 month ago) - Control Google Chrome from the command line
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 2 months ago) - Integration with go.uber.org/zap
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 
 #### 🔨 My recent Pull Requests
 
-- [Correctly extract tag name when commit has multiple decorations](https://github.com/docker/actions-toolkit/pull/1188) on [docker/actions-toolkit](https://github.com/docker/actions-toolkit) (4 days ago)
-- [Remove patch from ubi](https://github.com/lucacome/nginx-ubi/pull/492) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (4 days ago)
-- [Switch back to debian numbers](https://github.com/opentracing-contrib/nginx-opentracing/pull/1146) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (5 days ago)
-- [Remove date from trixie](https://github.com/opentracing-contrib/nginx-opentracing/pull/1145) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (5 days ago)
-- [Build modules for NGINX 1.30.3 and 1.31.2](https://github.com/opentracing-contrib/nginx-opentracing/pull/1144) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (5 days ago)
+- [Revert &#34;Update redhat/ubi9-minimal Docker tag to v9.8-1782191395&#34;](https://github.com/lucacome/nginx-ubi/pull/495) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 day ago)
+- [Replace pre-commit with mise and hk](https://github.com/opentracing-contrib/nginx-opentracing/pull/1151) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
+- [Correctly extract tag name when commit has multiple decorations](https://github.com/docker/actions-toolkit/pull/1188) on [docker/actions-toolkit](https://github.com/docker/actions-toolkit) (5 days ago)
+- [Remove patch from ubi](https://github.com/lucacome/nginx-ubi/pull/492) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (5 days ago)
+- [Switch back to debian numbers](https://github.com/opentracing-contrib/nginx-opentracing/pull/1146) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (6 days ago)
 
 #### ⭐ Recent Stars
 
