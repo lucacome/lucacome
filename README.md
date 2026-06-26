@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (2 days ago)
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 days ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (2 days ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (3 days ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (3 days ago)
+- [lucacome/common](https://github.com/lucacome/common) - Common files (3 days ago)
 - [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (1 week ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-23](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-23), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
-- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.4](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.4), 1 day ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-24](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-24), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.4](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.4), 2 days ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 1 month ago) - Control Google Chrome from the command line
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 2 months ago) - Integration with go.uber.org/zap
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) ([v1.0.0](https://github.com/TRaSH-Guides/Guides/releases/tag/v1.0.0), 3 years ago) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 
 #### 🔨 My recent Pull Requests
 
-- [build](https://github.com/lucacome/karabiner/pull/19) on [lucacome/karabiner](https://github.com/lucacome/karabiner) (1 day ago)
-- [Revert &#34;Update redhat/ubi9-minimal Docker tag to v9.8-1782191395&#34;](https://github.com/lucacome/nginx-ubi/pull/495) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (2 days ago)
-- [Replace pre-commit with mise and hk](https://github.com/opentracing-contrib/nginx-opentracing/pull/1151) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
-- [Correctly extract tag name when commit has multiple decorations](https://github.com/docker/actions-toolkit/pull/1188) on [docker/actions-toolkit](https://github.com/docker/actions-toolkit) (6 days ago)
-- [Remove patch from ubi](https://github.com/lucacome/nginx-ubi/pull/492) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (6 days ago)
+- [build](https://github.com/lucacome/karabiner/pull/19) on [lucacome/karabiner](https://github.com/lucacome/karabiner) (2 days ago)
+- [Revert &#34;Update redhat/ubi9-minimal Docker tag to v9.8-1782191395&#34;](https://github.com/lucacome/nginx-ubi/pull/495) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (3 days ago)
+- [Replace pre-commit with mise and hk](https://github.com/opentracing-contrib/nginx-opentracing/pull/1151) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 days ago)
+- [Correctly extract tag name when commit has multiple decorations](https://github.com/docker/actions-toolkit/pull/1188) on [docker/actions-toolkit](https://github.com/docker/actions-toolkit) (1 week ago)
+- [Remove patch from ubi](https://github.com/lucacome/nginx-ubi/pull/492) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 week ago)
 
 #### ⭐ Recent Stars
 
