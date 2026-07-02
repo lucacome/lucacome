@@ -5,8 +5,8 @@
 - [lucacome/common](https://github.com/lucacome/common) - Common files (1 week ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (1 week ago)
 - [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (1 week ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 week ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (2 weeks ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-29](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-29), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.92.0](https://github.com/docker/actions-toolkit/releases/tag/v0.92.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-30](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-30), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.4](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.4), 1 week ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.91.0](https://github.com/docker/actions-toolkit/releases/tag/v0.91.0), 1 month ago) - Toolkit for Docker (GitHub) Actions
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 1 month ago) - Control Google Chrome from the command line
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 2 months ago) - Integration with go.uber.org/zap
 
