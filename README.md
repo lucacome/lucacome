@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.92.0](https://github.com/docker/actions-toolkit/releases/tag/v0.92.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-30](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-30), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-01](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-01), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.92.0](https://github.com/docker/actions-toolkit/releases/tag/v0.92.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
 - [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.4](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.4), 1 week ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 1 month ago) - Control Google Chrome from the command line
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 2 months ago) - Integration with go.uber.org/zap
@@ -29,8 +29,8 @@
 - [build](https://github.com/lucacome/karabiner/pull/19) on [lucacome/karabiner](https://github.com/lucacome/karabiner) (1 week ago)
 - [Revert &#34;Update redhat/ubi9-minimal Docker tag to v9.8-1782191395&#34;](https://github.com/lucacome/nginx-ubi/pull/495) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 week ago)
 - [Replace pre-commit with mise and hk](https://github.com/opentracing-contrib/nginx-opentracing/pull/1151) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
-- [git: correctly extract tag name when commit has multiple decorations](https://github.com/docker/actions-toolkit/pull/1188) on [docker/actions-toolkit](https://github.com/docker/actions-toolkit) (1 week ago)
-- [Remove patch from ubi](https://github.com/lucacome/nginx-ubi/pull/492) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 week ago)
+- [git: correctly extract tag name when commit has multiple decorations](https://github.com/docker/actions-toolkit/pull/1188) on [docker/actions-toolkit](https://github.com/docker/actions-toolkit) (2 weeks ago)
+- [Remove patch from ubi](https://github.com/lucacome/nginx-ubi/pull/492) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
