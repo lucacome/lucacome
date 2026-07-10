@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (6 days ago)
+- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (1 week ago)
 - [lucacome/common](https://github.com/lucacome/common) - Common files (2 weeks ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 weeks ago)
 - [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (2 weeks ago)
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-07](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-07), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.2.1](https://github.com/lucacome/draft-release/releases/tag/v2.2.1), 3 days ago) - Draft the next GitHub release
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-08](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-08), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.2.1](https://github.com/lucacome/draft-release/releases/tag/v2.2.1), 4 days ago) - Draft the next GitHub release
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.92.0](https://github.com/docker/actions-toolkit/releases/tag/v0.92.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
 - [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.4](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.4), 2 weeks ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 1 month ago) - Control Google Chrome from the command line
 
 #### 🔨 My recent Pull Requests
 
-- [Update to ubi 10](https://github.com/lucacome/nginx-ubi/pull/510) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 day ago)
+- [Update to ubi 10](https://github.com/lucacome/nginx-ubi/pull/510) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (2 days ago)
 - [build](https://github.com/lucacome/karabiner/pull/19) on [lucacome/karabiner](https://github.com/lucacome/karabiner) (2 weeks ago)
 - [Revert &#34;Update redhat/ubi9-minimal Docker tag to v9.8-1782191395&#34;](https://github.com/lucacome/nginx-ubi/pull/495) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (2 weeks ago)
 - [Replace pre-commit with mise and hk](https://github.com/opentracing-contrib/nginx-opentracing/pull/1151) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 weeks ago)
-- [git: correctly extract tag name when commit has multiple decorations](https://github.com/docker/actions-toolkit/pull/1188) on [docker/actions-toolkit](https://github.com/docker/actions-toolkit) (2 weeks ago)
+- [git: correctly extract tag name when commit has multiple decorations](https://github.com/docker/actions-toolkit/pull/1188) on [docker/actions-toolkit](https://github.com/docker/actions-toolkit) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (2 days ago)
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (3 days ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (1 month ago)
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (1 month ago)
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (2 months ago)
@@ -42,11 +42,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [chrisipanaque](https://github.com/chrisipanaque)
 - [abdulwasiibro](https://github.com/abdulwasiibro)
 - [foyezkafi](https://github.com/foyezkafi)
-- [EimanTahir027](https://github.com/EimanTahir027)
 
 #### 💬 Feedback
 
