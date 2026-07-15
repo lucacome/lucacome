@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 day ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (5 days ago)
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (5 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (2 days ago)
+- [lucacome/common](https://github.com/lucacome/common) - Common files (6 days ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (6 days ago)
 - [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (1 week ago)
 - [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (3 weeks ago)
 
@@ -18,18 +18,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-12](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-12), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-13](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-13), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.2.1](https://github.com/lucacome/draft-release/releases/tag/v2.2.1), 1 week ago) - Draft the next GitHub release
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.92.0](https://github.com/docker/actions-toolkit/releases/tag/v0.92.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
-- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.4](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.4), 2 weeks ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.92.0](https://github.com/docker/actions-toolkit/releases/tag/v0.92.0), 2 weeks ago) - Toolkit for Docker (GitHub) Actions
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.4](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.4), 3 weeks ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 2 months ago) - Control Google Chrome from the command line
 
 #### 🔨 My recent Pull Requests
 
-- [Add spaces in Makefile](https://github.com/opentracing-contrib/nginx-opentracing/pull/1164) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
-- [Use renovate to keep Makefile up to date](https://github.com/opentracing-contrib/nginx-opentracing/pull/1163) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
-- [Update to UBI 10](https://github.com/lucacome/nginx-ubi/pull/510) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (6 days ago)
-- [build](https://github.com/lucacome/karabiner/pull/19) on [lucacome/karabiner](https://github.com/lucacome/karabiner) (2 weeks ago)
+- [Add spaces in Makefile](https://github.com/opentracing-contrib/nginx-opentracing/pull/1164) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
+- [Use renovate to keep Makefile up to date](https://github.com/opentracing-contrib/nginx-opentracing/pull/1163) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
+- [Update to UBI 10](https://github.com/lucacome/nginx-ubi/pull/510) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 week ago)
+- [build](https://github.com/lucacome/karabiner/pull/19) on [lucacome/karabiner](https://github.com/lucacome/karabiner) (3 weeks ago)
 - [Revert &#34;Update redhat/ubi9-minimal Docker tag to v9.8-1782191395&#34;](https://github.com/lucacome/nginx-ubi/pull/495) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (3 weeks ago)
 
 #### ⭐ Recent Stars
