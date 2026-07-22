@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (3 days ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (6 days ago)
 - [lucacome/common](https://github.com/lucacome/common) - Common files (1 week ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (1 week ago)
-- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (1 week ago)
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (3 weeks ago)
+- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,27 +18,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.93.0](https://github.com/docker/actions-toolkit/releases/tag/v0.93.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-14](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-14), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.2.1](https://github.com/lucacome/draft-release/releases/tag/v2.2.1), 1 week ago) - Draft the next GitHub release
-- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.4](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.4), 3 weeks ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-20](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-20), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.93.0](https://github.com/docker/actions-toolkit/releases/tag/v0.93.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.2.1](https://github.com/lucacome/draft-release/releases/tag/v2.2.1), 2 weeks ago) - Draft the next GitHub release
+- [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.4](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.4), 4 weeks ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 2 months ago) - Control Google Chrome from the command line
 
 #### 🔨 My recent Pull Requests
 
-- [Add spaces in Makefile](https://github.com/opentracing-contrib/nginx-opentracing/pull/1164) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 days ago)
-- [Use renovate to keep Makefile up to date](https://github.com/opentracing-contrib/nginx-opentracing/pull/1163) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 days ago)
-- [Update to UBI 10](https://github.com/lucacome/nginx-ubi/pull/510) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 week ago)
-- [build](https://github.com/lucacome/karabiner/pull/19) on [lucacome/karabiner](https://github.com/lucacome/karabiner) (3 weeks ago)
-- [Revert &#34;Update redhat/ubi9-minimal Docker tag to v9.8-1782191395&#34;](https://github.com/lucacome/nginx-ubi/pull/495) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (3 weeks ago)
+- [Allow changes to the lockfile for renovate](https://github.com/lucacome/docker-image-update-checker/pull/604) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
+- [Build modules for NGINX 1.30.4 and 1.31.3](https://github.com/opentracing-contrib/nginx-opentracing/pull/1171) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (6 days ago)
+- [Add spaces in Makefile](https://github.com/opentracing-contrib/nginx-opentracing/pull/1164) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
+- [Use renovate to keep Makefile up to date](https://github.com/opentracing-contrib/nginx-opentracing/pull/1163) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
+- [Update to UBI 10](https://github.com/lucacome/nginx-ubi/pull/510) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (1 week ago)
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (2 weeks ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (2 months ago)
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (2 months ago)
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (2 months ago)
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (2 months ago)
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
