@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 days ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (6 days ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (1 week ago)
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (1 week ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (3 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
+- [lucacome/common](https://github.com/lucacome/common) - Common files (2 weeks ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 weeks ago)
 - [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-20](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-20), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-21](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-21), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.93.0](https://github.com/docker/actions-toolkit/releases/tag/v0.93.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) ([v2.2.1](https://github.com/lucacome/draft-release/releases/tag/v2.2.1), 2 weeks ago) - Draft the next GitHub release
 - [opentracing-contrib/go-grpc](https://github.com/opentracing-contrib/go-grpc) ([v0.1.4](https://github.com/opentracing-contrib/go-grpc/releases/tag/v0.1.4), 4 weeks ago) - Package otgrpc provides OpenTracing support for any gRPC client or server.
@@ -26,8 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Allow changes to the lockfile for renovate](https://github.com/lucacome/docker-image-update-checker/pull/604) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
-- [Build modules for NGINX 1.30.4 and 1.31.3](https://github.com/opentracing-contrib/nginx-opentracing/pull/1171) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (6 days ago)
+- [Allow changes to the lockfile for renovate](https://github.com/lucacome/docker-image-update-checker/pull/604) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 days ago)
+- [Build modules for NGINX 1.30.4 and 1.31.3](https://github.com/opentracing-contrib/nginx-opentracing/pull/1171) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
 - [Add spaces in Makefile](https://github.com/opentracing-contrib/nginx-opentracing/pull/1164) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
 - [Use renovate to keep Makefile up to date](https://github.com/opentracing-contrib/nginx-opentracing/pull/1163) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
 - [Update to UBI 10](https://github.com/lucacome/nginx-ubi/pull/510) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (2 weeks ago)
