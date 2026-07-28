@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-26](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-26), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-27](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-27), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [bitwarden/clients](https://github.com/bitwarden/clients) ([cli-v2026.7.0](https://github.com/bitwarden/clients/releases/tag/cli-v2026.7.0), 5 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.94.0](https://github.com/docker/actions-toolkit/releases/tag/v0.94.0), 5 days ago) - Toolkit for Docker (GitHub) Actions
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 2 months ago) - Control Google Chrome from the command line
