@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-02](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-02), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-03](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-03), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [bitwarden/clients](https://github.com/bitwarden/clients) ([cli-v2026.7.0](https://github.com/bitwarden/clients/releases/tag/cli-v2026.7.0), 1 week ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.94.0](https://github.com/docker/actions-toolkit/releases/tag/v0.94.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 2 months ago) - Control Google Chrome from the command line
@@ -30,7 +30,7 @@
 - [Build modules for NGINX 1.30.4 and 1.31.3](https://github.com/opentracing-contrib/nginx-opentracing/pull/1171) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 weeks ago)
 - [Add spaces in Makefile](https://github.com/opentracing-contrib/nginx-opentracing/pull/1164) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
 - [Use renovate to keep Makefile up to date](https://github.com/opentracing-contrib/nginx-opentracing/pull/1163) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
-- [Update to UBI 10](https://github.com/lucacome/nginx-ubi/pull/510) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (3 weeks ago)
+- [Update to UBI 10](https://github.com/lucacome/nginx-ubi/pull/510) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
