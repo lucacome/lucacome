@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (1 day ago)
-- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli). (1 week ago)
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli). (2 weeks ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 weeks ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (3 weeks ago)
 - [lucacome/common](https://github.com/lucacome/common) - Common files (4 weeks ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-05](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-05), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [bitwarden/clients](https://github.com/bitwarden/clients) ([web-v2026.7.1](https://github.com/bitwarden/clients/releases/tag/web-v2026.7.1), 1 day ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-06](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-06), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [bitwarden/clients](https://github.com/bitwarden/clients) ([web-v2026.7.1](https://github.com/bitwarden/clients/releases/tag/web-v2026.7.1), 2 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.94.0](https://github.com/docker/actions-toolkit/releases/tag/v0.94.0), 2 weeks ago) - Toolkit for Docker (GitHub) Actions
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 2 months ago) - Control Google Chrome from the command line
 - [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 3 months ago) - Integration with go.uber.org/zap
@@ -30,7 +30,7 @@
 - [Build modules for NGINX 1.30.4 and 1.31.3](https://github.com/opentracing-contrib/nginx-opentracing/pull/1171) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
 - [Add spaces in Makefile](https://github.com/opentracing-contrib/nginx-opentracing/pull/1164) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
 - [Use renovate to keep Makefile up to date](https://github.com/opentracing-contrib/nginx-opentracing/pull/1163) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
-- [Update to UBI 10](https://github.com/lucacome/nginx-ubi/pull/510) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (4 weeks ago)
+- [Update to UBI 10](https://github.com/lucacome/nginx-ubi/pull/510) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (1 month ago)
 
 #### ⭐ Recent Stars
 
