@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (4 days ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (5 days ago)
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli). (2 weeks ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (3 weeks ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (3 weeks ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (1 month ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-09](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-09), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [bitwarden/clients](https://github.com/bitwarden/clients) ([web-v2026.7.1](https://github.com/bitwarden/clients/releases/tag/web-v2026.7.1), 5 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-10](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-10), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) ([v3.1.1](https://github.com/lucacome/docker-image-update-checker/releases/tag/v3.1.1), 1 day ago) - Docker Image Update Checker Action
+- [bitwarden/clients](https://github.com/bitwarden/clients) ([web-v2026.7.1](https://github.com/bitwarden/clients/releases/tag/web-v2026.7.1), 6 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.94.0](https://github.com/docker/actions-toolkit/releases/tag/v0.94.0), 2 weeks ago) - Toolkit for Docker (GitHub) Actions
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 2 months ago) - Control Google Chrome from the command line
-- [opentracing-contrib/go-zap](https://github.com/opentracing-contrib/go-zap) ([v0.1.0](https://github.com/opentracing-contrib/go-zap/releases/tag/v0.1.0), 3 months ago) - Integration with go.uber.org/zap
 
 #### 🔨 My recent Pull Requests
 
-- [Allow changes to the lockfile for renovate](https://github.com/lucacome/docker-image-update-checker/pull/604) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 weeks ago)
+- [Allow changes to the lockfile for renovate](https://github.com/lucacome/docker-image-update-checker/pull/604) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (3 weeks ago)
 - [Build modules for NGINX 1.30.4 and 1.31.3](https://github.com/opentracing-contrib/nginx-opentracing/pull/1171) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 weeks ago)
 - [Add spaces in Makefile](https://github.com/opentracing-contrib/nginx-opentracing/pull/1164) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (4 weeks ago)
 - [Use renovate to keep Makefile up to date](https://github.com/opentracing-contrib/nginx-opentracing/pull/1163) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (4 weeks ago)
