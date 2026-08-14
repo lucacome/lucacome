@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (3 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (4 days ago)
 - [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (1 week ago)
-- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli). (2 weeks ago)
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli). (3 weeks ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (3 weeks ago)
 - [lucacome/common](https://github.com/lucacome/common) - Common files (1 month ago)
 
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-12](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-12), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) ([v3.1.1](https://github.com/lucacome/docker-image-update-checker/releases/tag/v3.1.1), 3 days ago) - Docker Image Update Checker Action
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-13](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-13), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) ([v3.1.1](https://github.com/lucacome/docker-image-update-checker/releases/tag/v3.1.1), 4 days ago) - Docker Image Update Checker Action
 - [bitwarden/clients](https://github.com/bitwarden/clients) ([web-v2026.7.1](https://github.com/bitwarden/clients/releases/tag/web-v2026.7.1), 1 week ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.94.0](https://github.com/docker/actions-toolkit/releases/tag/v0.94.0), 3 weeks ago) - Toolkit for Docker (GitHub) Actions
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 3 months ago) - Control Google Chrome from the command line
