@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) - Distributed tracing for Spring Boot, Cloud and other Spring projects (2 days ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (3 days ago)
-- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (3 days ago)
-- [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) - OpenTracing middleware for gin-gonic (3 days ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 day ago)
+- [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) - Distributed tracing for Spring Boot, Cloud and other Spring projects (3 days ago)
+- [lucacome/common](https://github.com/lucacome/common) - Common files (4 days ago)
+- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (4 days ago)
+- [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) - OpenTracing middleware for gin-gonic (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bitwarden/clients](https://github.com/bitwarden/clients) ([cli-v2026.8.0](https://github.com/bitwarden/clients/releases/tag/cli-v2026.8.0), 1 day ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-19](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-19), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
-- [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 2 days ago) - OpenTracing middleware for gin-gonic
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.95.0](https://github.com/docker/actions-toolkit/releases/tag/v0.95.0), 4 days ago) - Toolkit for Docker (GitHub) Actions
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-21](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-21), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [bitwarden/clients](https://github.com/bitwarden/clients) ([cli-v2026.8.0](https://github.com/bitwarden/clients/releases/tag/cli-v2026.8.0), 2 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
+- [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 3 days ago) - OpenTracing middleware for gin-gonic
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.95.0](https://github.com/docker/actions-toolkit/releases/tag/v0.95.0), 5 days ago) - Toolkit for Docker (GitHub) Actions
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) ([v3.1.1](https://github.com/lucacome/docker-image-update-checker/releases/tag/v3.1.1), 1 week ago) - Docker Image Update Checker Action
 
 #### 🔨 My recent Pull Requests
 
-- [Disable failing test](https://github.com/opentracing-contrib/java-spring-cloud/pull/351) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (1 day ago)
-- [Update licenses](https://github.com/opentracing-contrib/java-spring-cloud/pull/350) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (2 days ago)
-- [Update opentracing-spring-cloud-parent version](https://github.com/opentracing-contrib/java-spring-cloud/pull/346) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (2 days ago)
-- [Create codeql.yml](https://github.com/opentracing-contrib/java-spring-cloud/pull/345) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (2 days ago)
-- [Create CI](https://github.com/opentracing-contrib/java-spring-cloud/pull/344) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (2 days ago)
+- [Run clang-format and actionlint](https://github.com/opentracing-contrib/nginx-opentracing/pull/1209) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
+- [Add labeler](https://github.com/opentracing-contrib/java-spring-cloud/pull/368) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (1 day ago)
+- [Build modules for NGINX 1.31.4](https://github.com/opentracing-contrib/nginx-opentracing/pull/1208) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
+- [Disable failing test](https://github.com/opentracing-contrib/java-spring-cloud/pull/351) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (2 days ago)
+- [Update licenses](https://github.com/opentracing-contrib/java-spring-cloud/pull/350) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (3 days ago)
 
 #### ⭐ Recent Stars
 
