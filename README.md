@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) - Distributed tracing for Spring Boot, Cloud and other Spring projects (1 day ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 week ago)
-- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (1 week ago)
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
-- [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) - Distributed tracing for Spring Boot, Cloud and other Spring projects (1 week ago)
-- [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) - OpenTracing middleware for gin-gonic (1 week ago)
+- [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (1 week ago)
+- [lucacome/common](https://github.com/lucacome/common) - Common files (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-30](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-30), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-31](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-31), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [bitwarden/clients](https://github.com/bitwarden/clients) ([cli-v2026.8.0](https://github.com/bitwarden/clients/releases/tag/cli-v2026.8.0), 1 week ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 1 week ago) - OpenTracing middleware for gin-gonic
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.95.0](https://github.com/docker/actions-toolkit/releases/tag/v0.95.0), 2 weeks ago) - Toolkit for Docker (GitHub) Actions
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add license header check to CI and Makefile](https://github.com/opentracing-contrib/java-spring-cloud/pull/371) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (1 day ago)
 - [Add setup_mongodb back in Omada](https://github.com/community-scripts/ProxmoxVE/pull/16736) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
 - [Add setup_mongodb back in Omada](https://github.com/community-scripts/ProxmoxVE/pull/16735) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
 - [Add setup_mongodb back in Omada](https://github.com/community-scripts/ProxmoxVE/pull/16734) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
 - [Add setup_mongodb back in Omada](https://github.com/lucacome/ProxmoxVE/pull/1) on [lucacome/ProxmoxVE](https://github.com/lucacome/ProxmoxVE) (1 week ago)
-- [Run clang-format and actionlint](https://github.com/opentracing-contrib/nginx-opentracing/pull/1209) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
 
 #### ⭐ Recent Stars
 
