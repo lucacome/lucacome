@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) - Distributed tracing for Spring Boot, Cloud and other Spring projects (1 day ago)
+- [opentracing-contrib/java-jdbc](https://github.com/opentracing-contrib/java-jdbc) - OpenTracing Instrumentation for JDBC (1 day ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 week ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
 - [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (1 week ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (2 weeks ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-31](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-31), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [bitwarden/clients](https://github.com/bitwarden/clients) ([cli-v2026.8.0](https://github.com/bitwarden/clients/releases/tag/cli-v2026.8.0), 1 week ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
-- [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 1 week ago) - OpenTracing middleware for gin-gonic
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.95.0](https://github.com/docker/actions-toolkit/releases/tag/v0.95.0), 2 weeks ago) - Toolkit for Docker (GitHub) Actions
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-09-01](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-09-01), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [bitwarden/clients](https://github.com/bitwarden/clients) ([web-v2026.8.1](https://github.com/bitwarden/clients/releases/tag/web-v2026.8.1), today) - Bitwarden client apps (web, browser extension, desktop, and cli).
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.96.0](https://github.com/docker/actions-toolkit/releases/tag/v0.96.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 2 weeks ago) - OpenTracing middleware for gin-gonic
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) ([v3.1.1](https://github.com/lucacome/docker-image-update-checker/releases/tag/v3.1.1), 3 weeks ago) - Docker Image Update Checker Action
 
 #### 🔨 My recent Pull Requests
 
-- [Add license header check to CI and Makefile](https://github.com/opentracing-contrib/java-spring-cloud/pull/371) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (1 day ago)
-- [Add setup_mongodb back in Omada](https://github.com/community-scripts/ProxmoxVE/pull/16736) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
-- [Add setup_mongodb back in Omada](https://github.com/community-scripts/ProxmoxVE/pull/16735) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
-- [Add setup_mongodb back in Omada](https://github.com/community-scripts/ProxmoxVE/pull/16734) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
-- [Add setup_mongodb back in Omada](https://github.com/lucacome/ProxmoxVE/pull/1) on [lucacome/ProxmoxVE](https://github.com/lucacome/ProxmoxVE) (1 week ago)
+- [Add GitHub Actions and Mise](https://github.com/opentracing-contrib/java-jdbc/pull/132) on [opentracing-contrib/java-jdbc](https://github.com/opentracing-contrib/java-jdbc) (today)
+- [Fix JCenter/Bintray as an artifact repository](https://github.com/opentracing-contrib/java-spring-cloud/pull/383) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (today)
+- [Add checkstyle to mise](https://github.com/opentracing-contrib/java-spring-cloud/pull/380) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (1 day ago)
+- [Update license](https://github.com/opentracing-contrib/java-spring-cloud/pull/373) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (1 day ago)
+- [Add mise and hk](https://github.com/opentracing-contrib/java-spring-cloud/pull/372) on [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) (1 day ago)
 
 #### ⭐ Recent Stars
 
