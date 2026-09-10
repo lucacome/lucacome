@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/java-jdbc](https://github.com/opentracing-contrib/java-jdbc) - OpenTracing Instrumentation for JDBC (6 days ago)
-- [opentracing-contrib/java-jms](https://github.com/opentracing-contrib/java-jms) - OpenTracing Instrumentation for JMS API (6 days ago)
+- [opentracing-contrib/java-jdbc](https://github.com/opentracing-contrib/java-jdbc) - OpenTracing Instrumentation for JDBC (1 week ago)
+- [opentracing-contrib/java-jms](https://github.com/opentracing-contrib/java-jms) - OpenTracing Instrumentation for JMS API (1 week ago)
 - [opentracing-contrib/java-spring-cloud](https://github.com/opentracing-contrib/java-spring-cloud) - Distributed tracing for Spring Boot, Cloud and other Spring projects (1 week ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 weeks ago)
 - [opentracing-contrib/common](https://github.com/opentracing-contrib/common) -  (2 weeks ago)
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-09-08](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-09-08), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.97.0](https://github.com/docker/actions-toolkit/releases/tag/v0.97.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-09-09](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-09-09), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.98.0](https://github.com/docker/actions-toolkit/releases/tag/v0.98.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
 - [bitwarden/clients](https://github.com/bitwarden/clients) ([web-v2026.8.1](https://github.com/bitwarden/clients/releases/tag/web-v2026.8.1), 1 week ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 3 weeks ago) - OpenTracing middleware for gin-gonic
 - [lucacome/chrome-cli](https://github.com/lucacome/chrome-cli) ([v2.1.0](https://github.com/lucacome/chrome-cli/releases/tag/v2.1.0), 3 months ago) - Control Google Chrome from the command line
 
 #### 🔨 My recent Pull Requests
 
-- [Potential fix for code scanning alert no. 11: Dereferenced variable may be null](https://github.com/opentracing-contrib/java-jms/pull/81) on [opentracing-contrib/java-jms](https://github.com/opentracing-contrib/java-jms) (5 days ago)
-- [Update activemq.version to 5.17.6](https://github.com/opentracing-contrib/java-jms/pull/71) on [opentracing-contrib/java-jms](https://github.com/opentracing-contrib/java-jms) (5 days ago)
-- [Update wrapper and license](https://github.com/opentracing-contrib/java-jms/pull/66) on [opentracing-contrib/java-jms](https://github.com/opentracing-contrib/java-jms) (5 days ago)
-- [Add GitHub Actions and Mise](https://github.com/opentracing-contrib/java-jms/pull/53) on [opentracing-contrib/java-jms](https://github.com/opentracing-contrib/java-jms) (6 days ago)
-- [Potential fix for code scanning alert no. 20: Potential database resource leak](https://github.com/opentracing-contrib/java-jdbc/pull/149) on [opentracing-contrib/java-jdbc](https://github.com/opentracing-contrib/java-jdbc) (6 days ago)
+- [Potential fix for code scanning alert no. 11: Dereferenced variable may be null](https://github.com/opentracing-contrib/java-jms/pull/81) on [opentracing-contrib/java-jms](https://github.com/opentracing-contrib/java-jms) (6 days ago)
+- [Update activemq.version to 5.17.6](https://github.com/opentracing-contrib/java-jms/pull/71) on [opentracing-contrib/java-jms](https://github.com/opentracing-contrib/java-jms) (6 days ago)
+- [Update wrapper and license](https://github.com/opentracing-contrib/java-jms/pull/66) on [opentracing-contrib/java-jms](https://github.com/opentracing-contrib/java-jms) (6 days ago)
+- [Add GitHub Actions and Mise](https://github.com/opentracing-contrib/java-jms/pull/53) on [opentracing-contrib/java-jms](https://github.com/opentracing-contrib/java-jms) (1 week ago)
+- [Potential fix for code scanning alert no. 20: Potential database resource leak](https://github.com/opentracing-contrib/java-jdbc/pull/149) on [opentracing-contrib/java-jdbc](https://github.com/opentracing-contrib/java-jdbc) (1 week ago)
 
 #### ⭐ Recent Stars
 
