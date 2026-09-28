@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (3 days ago)
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (4 days ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (4 days ago)
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (4 days ago)
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (6 days ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (4 days ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (5 days ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (5 days ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (5 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,25 +18,25 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-09-26](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-09-26), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [jdx/hk](https://github.com/jdx/hk) ([v2.3.0](https://github.com/jdx/hk/releases/tag/v2.3.0), 1 day ago) - git hooks and project lints
-- [bitwarden/clients](https://github.com/bitwarden/clients) ([browser-v2026.9.2](https://github.com/bitwarden/clients/releases/tag/browser-v2026.9.2), 3 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-09-27](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-09-27), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [jdx/hk](https://github.com/jdx/hk) ([v2.3.1](https://github.com/jdx/hk/releases/tag/v2.3.1), 1 day ago) - git hooks and project lints
+- [bitwarden/clients](https://github.com/bitwarden/clients) ([browser-v2026.9.2](https://github.com/bitwarden/clients/releases/tag/browser-v2026.9.2), 4 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.101.0](https://github.com/docker/actions-toolkit/releases/tag/v0.101.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
 - [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 1 month ago) - OpenTracing middleware for gin-gonic
 
 #### 🔨 My recent Pull Requests
 
-- [Switch to actionlint fork and add typos](https://github.com/lucacome/nginx-ubi/pull/593) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (3 days ago)
-- [Add knip and typos](https://github.com/lucacome/docker-image-update-checker/pull/678) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (4 days ago)
-- [Add knip and typos](https://github.com/lucacome/draft-release/pull/1099) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (4 days ago)
-- [Switch to actionlint fork](https://github.com/lucacome/docker-image-update-checker/pull/677) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (4 days ago)
-- [Switch to actionlint fork](https://github.com/opentracing-contrib/nginx-opentracing/pull/1255) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (6 days ago)
+- [Switch to actionlint fork and add typos](https://github.com/lucacome/nginx-ubi/pull/593) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (4 days ago)
+- [Add knip and typos](https://github.com/lucacome/docker-image-update-checker/pull/678) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (5 days ago)
+- [Add knip and typos](https://github.com/lucacome/draft-release/pull/1099) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (5 days ago)
+- [Switch to actionlint fork](https://github.com/lucacome/docker-image-update-checker/pull/677) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (5 days ago)
+- [Switch to actionlint fork](https://github.com/opentracing-contrib/nginx-opentracing/pull/1255) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager (6 days ago)
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager (1 week ago)
 - [immanuwell/dockerfile-roast](https://github.com/immanuwell/dockerfile-roast) - droast - a dockerfile linter that actually has opinions 🔥 (1 week ago)
-- [owenlamont/ryl](https://github.com/owenlamont/ryl) - Fast YAML linter written in Rust (drop in replacement for yamllint - but with additional rules and features) (1 week ago)
+- [owenlamont/ryl](https://github.com/owenlamont/ryl) - Fast YAML linter written in Rust (drop in replacement for yamllint - but with additional rules and features) (2 weeks ago)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (2 months ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (4 months ago)
 
