@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-10-08](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-10-08), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.104.0](https://github.com/docker/actions-toolkit/releases/tag/v0.104.0), 4 days ago) - Toolkit for Docker (GitHub) Actions
-- [jdx/hk](https://github.com/jdx/hk) ([v2.5.0](https://github.com/jdx/hk/releases/tag/v2.5.0), 5 days ago) - git hooks and project lints
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-10-09](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-10-09), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.104.0](https://github.com/docker/actions-toolkit/releases/tag/v0.104.0), 5 days ago) - Toolkit for Docker (GitHub) Actions
+- [jdx/hk](https://github.com/jdx/hk) ([v2.5.0](https://github.com/jdx/hk/releases/tag/v2.5.0), 6 days ago) - git hooks and project lints
 - [bitwarden/clients](https://github.com/bitwarden/clients) ([desktop-v2026.9.1](https://github.com/bitwarden/clients/releases/tag/desktop-v2026.9.1), 1 week ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 1 month ago) - OpenTracing middleware for gin-gonic
 
