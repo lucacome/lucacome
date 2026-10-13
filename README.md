@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (1 week ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (2 weeks ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 weeks ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 weeks ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 weeks ago)
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-10-11](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-10-11), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.104.0](https://github.com/docker/actions-toolkit/releases/tag/v0.104.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
-- [jdx/hk](https://github.com/jdx/hk) ([v2.5.0](https://github.com/jdx/hk/releases/tag/v2.5.0), 1 week ago) - git hooks and project lints
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-10-12](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-10-12), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.105.0](https://github.com/docker/actions-toolkit/releases/tag/v0.105.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [jdx/hk](https://github.com/jdx/hk) ([v2.6.0](https://github.com/jdx/hk/releases/tag/v2.6.0), 1 day ago) - git hooks and project lints
 - [bitwarden/clients](https://github.com/bitwarden/clients) ([desktop-v2026.9.1](https://github.com/bitwarden/clients/releases/tag/desktop-v2026.9.1), 1 week ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 1 month ago) - OpenTracing middleware for gin-gonic
 
