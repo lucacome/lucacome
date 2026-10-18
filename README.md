@@ -18,27 +18,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-10-16](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-10-16), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [jdx/hk](https://github.com/jdx/hk) ([v2.7.0](https://github.com/jdx/hk/releases/tag/v2.7.0), 1 day ago) - git hooks and project lints
-- [bitwarden/clients](https://github.com/bitwarden/clients) ([desktop-v2026.10.0](https://github.com/bitwarden/clients/releases/tag/desktop-v2026.10.0), 2 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.106.0](https://github.com/docker/actions-toolkit/releases/tag/v0.106.0), 3 days ago) - Toolkit for Docker (GitHub) Actions
-- [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 1 month ago) - OpenTracing middleware for gin-gonic
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-10-17](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-10-17), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [jdx/hk](https://github.com/jdx/hk) ([v2.7.0](https://github.com/jdx/hk/releases/tag/v2.7.0), 2 days ago) - git hooks and project lints
+- [bitwarden/clients](https://github.com/bitwarden/clients) ([desktop-v2026.10.0](https://github.com/bitwarden/clients/releases/tag/desktop-v2026.10.0), 3 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.106.0](https://github.com/docker/actions-toolkit/releases/tag/v0.106.0), 4 days ago) - Toolkit for Docker (GitHub) Actions
+- [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 2 months ago) - OpenTracing middleware for gin-gonic
 
 #### 🔨 My recent Pull Requests
 
-- [Add typos and switch to ryl](https://github.com/opentracing-contrib/nginx-opentracing/pull/1294) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (today)
-- [Build modules for NGINX 1.31.6, 1.31.7, 1.30.5 and 1.30.6](https://github.com/opentracing-contrib/nginx-opentracing/pull/1290) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
+- [Use jactionlint](https://github.com/opentracing-contrib/nginx-opentracing/pull/1295) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
+- [Add typos and switch to ryl](https://github.com/opentracing-contrib/nginx-opentracing/pull/1294) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
+- [Build modules for NGINX 1.31.6, 1.31.7, 1.30.5 and 1.30.6](https://github.com/opentracing-contrib/nginx-opentracing/pull/1290) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (3 days ago)
 - [Switch to actionlint fork and add typos](https://github.com/lucacome/nginx-ubi/pull/593) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (3 weeks ago)
 - [Add knip and typos](https://github.com/lucacome/docker-image-update-checker/pull/678) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (3 weeks ago)
-- [Add knip and typos](https://github.com/lucacome/draft-release/pull/1099) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [jdx/jactionlint](https://github.com/jdx/jactionlint) - :octocat: Static checker for GitHub Actions workflow files (1 day ago)
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager (3 weeks ago)
 - [immanuwell/dockerfile-roast](https://github.com/immanuwell/dockerfile-roast) - droast - a dockerfile linter that actually has opinions 🔥 (1 month ago)
 - [owenlamont/ryl](https://github.com/owenlamont/ryl) - Fast YAML linter written in Rust (drop in replacement for yamllint - but with additional rules and features) (1 month ago)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (3 months ago)
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (5 months ago)
 
 #### 👯 Check out some of my recent followers
 
