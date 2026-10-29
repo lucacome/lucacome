@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 day ago)
-- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 day ago)
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 day ago)
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (5 days ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (2 days ago)
+- [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 days ago)
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 days ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (6 days ago)
 - [lucacome/common](https://github.com/lucacome/common) - Common files (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bitwarden/clients](https://github.com/bitwarden/clients) ([web-v2026.10.1](https://github.com/bitwarden/clients/releases/tag/web-v2026.10.1), today) - Bitwarden client apps (web, browser extension, desktop, and cli).
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-10-27](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-10-27), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) ([v3.1.3](https://github.com/lucacome/docker-image-update-checker/releases/tag/v3.1.3), 1 day ago) - Docker Image Update Checker Action
-- [jdx/hk](https://github.com/jdx/hk) ([v2.9.0](https://github.com/jdx/hk/releases/tag/v2.9.0), 2 days ago) - git hooks and project lints
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.107.0](https://github.com/docker/actions-toolkit/releases/tag/v0.107.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-10-28](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-10-28), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.51.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.51.0), 1 day ago) - NGINX plugin for OpenTracing
+- [bitwarden/clients](https://github.com/bitwarden/clients) ([web-v2026.10.1](https://github.com/bitwarden/clients/releases/tag/web-v2026.10.1), 1 day ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
+- [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) ([v3.1.3](https://github.com/lucacome/docker-image-update-checker/releases/tag/v3.1.3), 2 days ago) - Docker Image Update Checker Action
+- [jdx/hk](https://github.com/jdx/hk) ([v2.9.0](https://github.com/jdx/hk/releases/tag/v2.9.0), 3 days ago) - git hooks and project lints
 
 #### 🔨 My recent Pull Requests
 
-- [Add OpenSSF badge](https://github.com/opentracing-contrib/nginx-opentracing/pull/1342) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (today)
-- [Add badges to README](https://github.com/lucacome/draft-release/pull/1170) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (today)
-- [Use one wokflow only for checking dist](https://github.com/lucacome/docker-image-update-checker/pull/731) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (1 day ago)
-- [Update hk](https://github.com/lucacome/draft-release/pull/1169) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 days ago)
-- [Fix checkout of untrusted code in a non-privileged context](https://github.com/lucacome/draft-release/pull/1168) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 days ago)
+- [Add OpenSSF badge](https://github.com/opentracing-contrib/nginx-opentracing/pull/1342) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 day ago)
+- [Add badges to README](https://github.com/lucacome/draft-release/pull/1170) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (1 day ago)
+- [Use one wokflow only for checking dist](https://github.com/lucacome/docker-image-update-checker/pull/731) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 days ago)
+- [Update hk](https://github.com/lucacome/draft-release/pull/1169) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (3 days ago)
+- [Fix checkout of untrusted code in a non-privileged context](https://github.com/lucacome/draft-release/pull/1168) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (3 days ago)
 
 #### ⭐ Recent Stars
 
@@ -42,11 +42,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Git-FED](https://github.com/Git-FED)
 - [thiagosilvabr1](https://github.com/thiagosilvabr1)
 - [nupjawa979-stack](https://github.com/nupjawa979-stack)
 - [PedroAfonso452](https://github.com/PedroAfonso452)
 - [lucaslim9729](https://github.com/lucaslim9729)
-- [helallao](https://github.com/helallao)
 
 #### 💬 Feedback
 
