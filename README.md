@@ -5,7 +5,7 @@
 - [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (1 week ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 week ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 week ago)
-- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (1 week ago)
+- [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 weeks ago)
 - [lucacome/common](https://github.com/lucacome/common) - Common files (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-11-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-04), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.108.0](https://github.com/docker/actions-toolkit/releases/tag/v0.108.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [jdx/hk](https://github.com/jdx/hk) ([v2.11.1](https://github.com/jdx/hk/releases/tag/v2.11.1), 2 days ago) - git hooks and project lints
-- [bitwarden/clients](https://github.com/bitwarden/clients) ([desktop-v2026.10.3](https://github.com/bitwarden/clients/releases/tag/desktop-v2026.10.3), 3 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-11-05](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-05), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [bitwarden/clients](https://github.com/bitwarden/clients) ([desktop-v2026.10.4](https://github.com/bitwarden/clients/releases/tag/desktop-v2026.10.4), 1 day ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.109.0](https://github.com/docker/actions-toolkit/releases/tag/v0.109.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [jdx/hk](https://github.com/jdx/hk) ([v2.11.1](https://github.com/jdx/hk/releases/tag/v2.11.1), 3 days ago) - git hooks and project lints
 - [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 2 months ago) - OpenTracing middleware for gin-gonic
 
 #### 🔨 My recent Pull Requests
