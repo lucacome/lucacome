@@ -6,7 +6,7 @@
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (2 weeks ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (2 weeks ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 weeks ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (2 weeks ago)
+- [lucacome/common](https://github.com/lucacome/common) - Common files (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-11-09](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-09), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [jdx/hk](https://github.com/jdx/hk) ([v2.12.0](https://github.com/jdx/hk/releases/tag/v2.12.0), 1 day ago) - git hooks and project lints
-- [bitwarden/clients](https://github.com/bitwarden/clients) ([desktop-v2026.10.4](https://github.com/bitwarden/clients/releases/tag/desktop-v2026.10.4), 5 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.109.0](https://github.com/docker/actions-toolkit/releases/tag/v0.109.0), 5 days ago) - Toolkit for Docker (GitHub) Actions
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-11-10](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-10), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [jdx/hk](https://github.com/jdx/hk) ([v2.12.0](https://github.com/jdx/hk/releases/tag/v2.12.0), 2 days ago) - git hooks and project lints
+- [bitwarden/clients](https://github.com/bitwarden/clients) ([desktop-v2026.10.4](https://github.com/bitwarden/clients/releases/tag/desktop-v2026.10.4), 6 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.109.0](https://github.com/docker/actions-toolkit/releases/tag/v0.109.0), 6 days ago) - Toolkit for Docker (GitHub) Actions
 - [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 2 months ago) - OpenTracing middleware for gin-gonic
 
 #### 🔨 My recent Pull Requests
 
-- [Add OpenSSF badge](https://github.com/opentracing-contrib/nginx-opentracing/pull/1342) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (1 week ago)
-- [Add badges to README](https://github.com/lucacome/draft-release/pull/1170) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (1 week ago)
+- [Add OpenSSF badge](https://github.com/opentracing-contrib/nginx-opentracing/pull/1342) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 weeks ago)
+- [Add badges to README](https://github.com/lucacome/draft-release/pull/1170) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 weeks ago)
 - [Use one wokflow only for checking dist](https://github.com/lucacome/docker-image-update-checker/pull/731) on [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) (2 weeks ago)
 - [Update hk](https://github.com/lucacome/draft-release/pull/1169) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 weeks ago)
 - [Fix checkout of untrusted code in a non-privileged context](https://github.com/lucacome/draft-release/pull/1168) on [lucacome/draft-release](https://github.com/lucacome/draft-release) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [pierosavi/withings-local](https://github.com/pierosavi/withings-local) - Local Bluetooth integration for the Withings Body Smart scale in Home Assistant, no cloud needed (2 weeks ago)
+- [pierosavi/withings-local](https://github.com/pierosavi/withings-local) - Local Bluetooth integration for the Withings Body Smart scale in Home Assistant, no cloud needed (3 weeks ago)
 - [jdx/jactionlint](https://github.com/jdx/jactionlint) - :octocat: Static checker for GitHub Actions workflow files (3 weeks ago)
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager (1 month ago)
 - [immanuwell/dockerfile-roast](https://github.com/immanuwell/dockerfile-roast) - droast - a dockerfile linter that actually has opinions 🔥 (1 month ago)
