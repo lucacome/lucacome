@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bitwarden/clients](https://github.com/bitwarden/clients) ([web-v2026.11.0](https://github.com/bitwarden/clients/releases/tag/web-v2026.11.0), today) - Bitwarden client apps (web, browser extension, desktop, and cli).
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-11-17](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-17), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [jdx/hk](https://github.com/jdx/hk) ([v2.13.0](https://github.com/jdx/hk/releases/tag/v2.13.0), 2 days ago) - git hooks and project lints
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.109.0](https://github.com/docker/actions-toolkit/releases/tag/v0.109.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-11-18](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-18), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [bitwarden/clients](https://github.com/bitwarden/clients) ([web-v2026.11.0](https://github.com/bitwarden/clients/releases/tag/web-v2026.11.0), 1 day ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
+- [jdx/hk](https://github.com/jdx/hk) ([v2.13.0](https://github.com/jdx/hk/releases/tag/v2.13.0), 3 days ago) - git hooks and project lints
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.109.0](https://github.com/docker/actions-toolkit/releases/tag/v0.109.0), 2 weeks ago) - Toolkit for Docker (GitHub) Actions
 - [opentracing-contrib/go-gin](https://github.com/opentracing-contrib/go-gin) ([v2.0.3](https://github.com/opentracing-contrib/go-gin/releases/tag/v2.0.3), 3 months ago) - OpenTracing middleware for gin-gonic
 
 #### 🔨 My recent Pull Requests
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source. (today)
 - [pierosavi/withings-local](https://github.com/pierosavi/withings-local) - Local Bluetooth integration for the Withings Body Smart scale in Home Assistant, no cloud needed (4 weeks ago)
 - [jdx/jactionlint](https://github.com/jdx/jactionlint) - :octocat: Static checker for GitHub Actions workflow files (1 month ago)
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager (1 month ago)
 - [immanuwell/dockerfile-roast](https://github.com/immanuwell/dockerfile-roast) - droast - a dockerfile linter that actually has opinions 🔥 (2 months ago)
-- [owenlamont/ryl](https://github.com/owenlamont/ryl) - Fast YAML linter and formatter written in Rust (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
