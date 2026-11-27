@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (3 days ago)
+- [lucacome/dotfiles](https://github.com/lucacome/dotfiles) -  (1 day ago)
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing (4 days ago)
 - [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) - NGINX Docker image based on Red Hat Universal Base Image (2 weeks ago)
 - [lucacome/draft-release](https://github.com/lucacome/draft-release) - Draft the next GitHub release (1 month ago)
 - [lucacome/docker-image-update-checker](https://github.com/lucacome/docker-image-update-checker) - Docker Image Update Checker Action (1 month ago)
-- [lucacome/common](https://github.com/lucacome/common) - Common files (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,35 +18,35 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.52.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.52.0), 1 day ago) - NGINX plugin for OpenTracing
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-11-24](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-24), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
-- [bitwarden/clients](https://github.com/bitwarden/clients) ([cli-v2026.11.1](https://github.com/bitwarden/clients/releases/tag/cli-v2026.11.1), 2 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
-- [jdx/hk](https://github.com/jdx/hk) ([v2.14.0](https://github.com/jdx/hk/releases/tag/v2.14.0), 3 days ago) - git hooks and project lints
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-11-25](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-25), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ([v0.52.0](https://github.com/opentracing-contrib/nginx-opentracing/releases/tag/v0.52.0), 2 days ago) - NGINX plugin for OpenTracing
+- [bitwarden/clients](https://github.com/bitwarden/clients) ([cli-v2026.11.1](https://github.com/bitwarden/clients/releases/tag/cli-v2026.11.1), 3 days ago) - Bitwarden client apps (web, browser extension, desktop, and cli).
+- [jdx/hk](https://github.com/jdx/hk) ([v2.14.0](https://github.com/jdx/hk/releases/tag/v2.14.0), 4 days ago) - git hooks and project lints
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.109.0](https://github.com/docker/actions-toolkit/releases/tag/v0.109.0), 3 weeks ago) - Toolkit for Docker (GitHub) Actions
 
 #### 🔨 My recent Pull Requests
 
-- [feat(global): add workday-search](https://github.com/ai-job-search-dev/community-portals/pull/66) on [ai-job-search-dev/community-portals](https://github.com/ai-job-search-dev/community-portals) (1 day ago)
-- [feat(global): add rippling-search](https://github.com/ai-job-search-dev/community-portals/pull/59) on [ai-job-search-dev/community-portals](https://github.com/ai-job-search-dev/community-portals) (1 day ago)
-- [Build modules for NGINX 1.30.8 and 1.31.10](https://github.com/opentracing-contrib/nginx-opentracing/pull/1385) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (2 days ago)
-- [Build modules for NGINX 1.30.7 and 1.31.9](https://github.com/opentracing-contrib/nginx-opentracing/pull/1376) on [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) (6 days ago)
-- [Update UBI to 10.3](https://github.com/lucacome/nginx-ubi/pull/676) on [lucacome/nginx-ubi](https://github.com/lucacome/nginx-ubi) (2 weeks ago)
+- [feat(global): add smartrecruiters-search](https://github.com/ai-job-search-dev/community-portals/pull/71) on [ai-job-search-dev/community-portals](https://github.com/ai-job-search-dev/community-portals) (1 day ago)
+- [feat(global): add oraclecloud-search](https://github.com/ai-job-search-dev/community-portals/pull/70) on [ai-job-search-dev/community-portals](https://github.com/ai-job-search-dev/community-portals) (1 day ago)
+- [feat(global): add workable-search](https://github.com/ai-job-search-dev/community-portals/pull/69) on [ai-job-search-dev/community-portals](https://github.com/ai-job-search-dev/community-portals) (1 day ago)
+- [feat(global): add icims-search](https://github.com/ai-job-search-dev/community-portals/pull/68) on [ai-job-search-dev/community-portals](https://github.com/ai-job-search-dev/community-portals) (1 day ago)
+- [feat(global): add lever-search](https://github.com/ai-job-search-dev/community-portals/pull/67) on [ai-job-search-dev/community-portals](https://github.com/ai-job-search-dev/community-portals) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (2 days ago)
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (3 days ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (3 days ago)
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (3 days ago)
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (4 days ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (4 days ago)
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher built for productivity. Fast, lightweight, and open source. (1 week ago)
 - [pierosavi/withings-local](https://github.com/pierosavi/withings-local) - Local Bluetooth integration for the Withings Body Smart scale in Home Assistant, no cloud needed (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
-- [Git-FED](https://github.com/Git-FED)
 - [nupjawa979-stack](https://github.com/nupjawa979-stack)
 - [PedroAfonso452](https://github.com/PedroAfonso452)
 - [lucaslim9729](https://github.com/lucaslim9729)
 - [abdulwasiibro](https://github.com/abdulwasiibro)
+- [foyezkafi](https://github.com/foyezkafi)
 
 #### 💬 Feedback
 
